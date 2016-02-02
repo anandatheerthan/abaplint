@@ -1,6 +1,0 @@
-test/typings/
-typings/
-npm-debug.log
-*.js.map
-coverage/
-web/viz/*.txt
