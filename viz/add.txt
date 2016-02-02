@@ -1,0 +1,13 @@
+digraph add {
+start [label = "Start"];
+end [label = "End"];
+node47 [label = "^\\w+((->|=>|-)\w+)*|<\w+>$"];
+node47 -> end;
+node48 [label = "\"TO\""];
+node48 -> node47;
+node49 [label = ".*"];
+node49 -> node48;
+node50 [label = "\"ADD\""];
+node50 -> node49;
+start -> node50;
+}

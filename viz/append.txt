@@ -1,0 +1,25 @@
+digraph append {
+start [label = "Start"];
+end [label = "End"];
+node37 [label = "^<(\\w|_)+>?$"];
+node37 -> end;
+node38 [label = "\"ASSIGNING\""];
+node38 -> node37;
+node39 [label = "^\\w+((->|=>|-)\w+)*|<\w+>$"];
+node39 -> node38;
+node39 -> end;
+node40 [label = "\"TO\""];
+node40 -> node39;
+node41 [label = "\"INITIAL LINE\""];
+node41 -> node40;
+node42 [label = ".*"];
+node42 -> node40;
+node42 -> node42;
+node43 [label = "\"LINES OF\""];
+node43 -> node42;
+node44 [label = "\"APPEND\""];
+node44 -> node41;
+node44 -> node43;
+node44 -> node42;
+start -> node44;
+}

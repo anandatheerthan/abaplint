@@ -1,0 +1,10 @@
+digraph assert {
+start [label = "Start"];
+end [label = "End"];
+node45 [label = ".*"];
+node45 -> end;
+node45 -> node45;
+node46 [label = "\"ASSERT\""];
+node46 -> node45;
+start -> node46;
+}
