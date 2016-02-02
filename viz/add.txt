@@ -1,7 +1,7 @@
 digraph add {
 start [label = "Start"];
 end [label = "End"];
-node47 [label = "^\\w+((->|=>|-)\w+)*|<\w+>$"];
+node47 [label = "^\\w+((->|=>|-)\\w+)*|<\\w+>$"];
 node47 -> end;
 node48 [label = "\"TO\""];
 node48 -> node47;

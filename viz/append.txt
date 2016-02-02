@@ -5,7 +5,7 @@ node37 [label = "^<(\\w|_)+>?$"];
 node37 -> end;
 node38 [label = "\"ASSIGNING\""];
 node38 -> node37;
-node39 [label = "^\\w+((->|=>|-)\w+)*|<\w+>$"];
+node39 [label = "^\\w+((->|=>|-)\\w+)*|<\\w+>$"];
 node39 -> node38;
 node39 -> end;
 node40 [label = "\"TO\""];

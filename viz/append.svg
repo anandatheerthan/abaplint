@@ -51,8 +51,8 @@
 </g>
 <!-- node39 -->
 <g id="node5" class="node"><title>node39</title>
-<ellipse fill="none" stroke="black" cx="140.7" cy="-234" rx="117.428" ry="18"/>
-<text text-anchor="middle" x="140.7" y="-229.8" font-family="Times,serif" font-size="14.00">^\w+((&#45;&gt;|=&gt;|&#45;)w+)*|&lt;w+&gt;$</text>
+<ellipse fill="none" stroke="black" cx="140.7" cy="-234" rx="122.662" ry="18"/>
+<text text-anchor="middle" x="140.7" y="-229.8" font-family="Times,serif" font-size="14.00">^\w+((&#45;&gt;|=&gt;|&#45;)\w+)*|&lt;\w+&gt;$</text>
 </g>
 <!-- node39&#45;&gt;end -->
 <g id="edge4" class="edge"><title>node39&#45;&gt;end</title>
