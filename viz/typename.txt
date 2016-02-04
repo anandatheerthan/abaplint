@@ -1,0 +1,15 @@
+digraph typename {
+start [label="Start",shape=box,color=blue];
+end [label="End",shape=box,color=blue];
+node65 [label = "Dummy"];
+node66 [label = "^\\w+$"];
+node66 -> node65;
+node67 [label=<<u>arrow_or_dash</u>>, href="arrow_or_dash.svg",fontcolor=blue];
+node67 -> node66;
+node65 -> node67;
+node65 -> end;
+node68 [label = "^(\\/\\w+\\/)?\\w+$"];
+node68 -> node67;
+node68 -> node65;
+start -> node68;
+}

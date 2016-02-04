@@ -1,10 +1,9 @@
 digraph assert {
-start [label = "Start"];
-end [label = "End"];
-node45 [label = ".*"];
-node45 -> end;
-node45 -> node45;
-node46 [label = "\"ASSERT\""];
-node46 -> node45;
-start -> node46;
+start [label="Start",shape=box,color=black];
+end [label="End",shape=box,color=black];
+node58 [label=<<u>boolean</u>>, href="boolean.svg",fontcolor=blue];
+node58 -> end;
+node59 [label = "\"ASSERT\""];
+node59 -> node58;
+start -> node59;
 }

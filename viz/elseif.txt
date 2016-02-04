@@ -1,0 +1,9 @@
+digraph elseif {
+start [label="Start",shape=box,color=black];
+end [label="End",shape=box,color=black];
+node45 [label=<<u>boolean</u>>, href="boolean.svg",fontcolor=blue];
+node45 -> end;
+node46 [label = "\"ELSEIF\""];
+node46 -> node45;
+start -> node46;
+}

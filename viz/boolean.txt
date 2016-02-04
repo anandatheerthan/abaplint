@@ -1,0 +1,11 @@
+digraph boolean {
+start [label="Start",shape=box,color=blue];
+end [label="End",shape=box,color=blue];
+node113 [label = "Dummy"];
+node114 [label = ".*"];
+node114 -> node113;
+node113 -> node114;
+node113 -> end;
+start -> node114;
+start -> node113;
+}
