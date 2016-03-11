@@ -1,0 +1,22 @@
+digraph inline_decl {
+start [label="Start",shape=box,color=blue];
+end [label="End",shape=box,color=blue];
+node71 [label = "\")\""];
+node71 -> end;
+node72 [label=<<u>field</u>>, href="field.svg",fontcolor=blue];
+node72 -> node71;
+node73 [label = "\"(\""];
+node73 -> node72;
+node74 [label = "\"DATA\""];
+node74 -> node73;
+node75 [label = "\")\""];
+node75 -> end;
+node76 [label=<<u>field_symbol</u>>, href="field_symbol.svg",fontcolor=blue];
+node76 -> node75;
+node77 [label = "\"(\""];
+node77 -> node76;
+node78 [label = "\"FIELD-SYMBOL\""];
+node78 -> node77;
+start -> node74;
+start -> node78;
+}
