@@ -1,7 +1,0 @@
-digraph integer {
-start [label="Start",shape=box,color=blue];
-end [label="End",shape=box,color=blue];
-node64 [label = "^\\d+$"];
-node64 -> end;
-start -> node64;
-}

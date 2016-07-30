@@ -1,9 +1,0 @@
-digraph assert {
-start [label="Start",shape=box,color=black];
-end [label="End",shape=box,color=black];
-node58 [label=<<u>boolean</u>>, href="boolean.svg",fontcolor=blue];
-node58 -> end;
-node59 [label = "\"ASSERT\""];
-node59 -> node58;
-start -> node59;
-}

@@ -1,7 +1,0 @@
-digraph field_symbol_offset {
-start [label="Start",shape=box,color=blue];
-end [label="End",shape=box,color=blue];
-node70 [label = "^<\\w+>(\\+\\d+)?$"];
-node70 -> end;
-start -> node70;
-}

@@ -1,7 +1,0 @@
-digraph field_symbol {
-start [label="Start",shape=box,color=blue];
-end [label="End",shape=box,color=blue];
-node69 [label = "^<\\w+>$"];
-node69 -> end;
-start -> node69;
-}

@@ -1,7 +1,0 @@
-digraph arrow_or_dash {
-start [label="Start",shape=box,color=blue];
-end [label="End",shape=box,color=blue];
-node85 [label = "^(->|=>|-)$"];
-node85 -> end;
-start -> node85;
-}

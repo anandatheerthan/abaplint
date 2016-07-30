@@ -1,9 +1,0 @@
-digraph if {
-start [label="Start",shape=box,color=black];
-end [label="End",shape=box,color=black];
-node42 [label=<<u>boolean</u>>, href="boolean.svg",fontcolor=blue];
-node42 -> end;
-node43 [label = "\"IF\""];
-node43 -> node42;
-start -> node43;
-}
