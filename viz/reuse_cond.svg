@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="920" height="118" viewBox="0 0 920 118">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1508" height="148" viewBox="0 0 1508 148">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,23 +43,23 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M870 40h0"></path>
+<path d="M1458 40h0"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M380 40h0"></path>
+<path d="M674 40h0"></path>
 <path d="M50 40h20"></path>
 <g class="non-terminal">
-<path d="M70 40h107"></path>
-<path d="M253 40h107"></path>
-<rect x="177" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_compare.svg"><text x="215" y="44">compare</text>
+<path d="M70 40h254"></path>
+<path d="M400 40h254"></path>
+<rect x="324" y="29" width="76" height="22"></rect>
+<a xlink:href="reuse_compare.svg"><text x="362" y="44">compare</text>
 </a>
 </g>
-<path d="M360 40h20"></path>
+<path d="M654 40h20"></path>
 <path d="M50 40a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M70 79h0"></path>
-<path d="M360 79h0"></path>
+<path d="M654 79h0"></path>
 <g>
 <path d="M70 79h0"></path>
 <path d="M170 79h0"></path>
@@ -80,138 +80,164 @@ cursor: help;
 <path d="M170 79h10"></path>
 <g class="terminal">
 <path d="M180 79h0"></path>
-<path d="M224 79h0"></path>
-<rect x="180" y="68" width="44" height="22" rx="10" ry="10"></rect>
-<text x="202" y="83">"("</text>
+<path d="M352 79h0"></path>
+<rect x="180" y="68" width="172" height="22" rx="10" ry="10"></rect>
+<text x="266" y="83">Token "WParenLeftW"</text>
 </g>
-<path d="M224 79h10"></path>
-<path d="M234 79h10"></path>
+<path d="M352 79h10"></path>
+<path d="M362 79h10"></path>
 <g class="non-terminal">
-<path d="M244 79h0"></path>
-<path d="M296 79h0"></path>
-<rect x="244" y="68" width="52" height="22"></rect>
-<a xlink:href="reuse_cond.svg"><text x="270" y="83">cond</text>
+<path d="M372 79h0"></path>
+<path d="M424 79h0"></path>
+<rect x="372" y="68" width="52" height="22"></rect>
+<a xlink:href="reuse_cond.svg"><text x="398" y="83">cond</text>
 </a>
 </g>
-<path d="M296 79h10"></path>
-<path d="M306 79h10"></path>
+<path d="M424 79h10"></path>
+<g>
+<path d="M434 79h0"></path>
+<path d="M654 79h0"></path>
+<path d="M434 79h20"></path>
 <g class="terminal">
-<path d="M316 79h0"></path>
-<path d="M360 79h0"></path>
-<rect x="316" y="68" width="44" height="22" rx="10" ry="10"></rect>
-<text x="338" y="83">")"</text>
+<path d="M454 79h0"></path>
+<path d="M634 79h0"></path>
+<rect x="454" y="68" width="180" height="22" rx="10" ry="10"></rect>
+<text x="544" y="83">Token "WParenRightW"</text>
 </g>
-</g>
-<path d="M360 79a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
-</g>
-<g>
-<path d="M380 40h0"></path>
-<path d="M870 40h0"></path>
-<path d="M380 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M400 20h450"></path>
-</g>
-<path d="M850 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M380 40h20"></path>
-<g>
-<path d="M400 40h0"></path>
-<path d="M850 40h0"></path>
-<path d="M400 40h10"></path>
-<g>
-<path d="M410 40h0"></path>
-<path d="M840 40h0"></path>
-<g>
-<path d="M410 40h0"></path>
-<path d="M510 40h0"></path>
-<path d="M410 40h20"></path>
+<path d="M634 79h20"></path>
+<path d="M434 79a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M430 40h0"></path>
-<path d="M490 40h0"></path>
-<rect x="430" y="29" width="60" height="22" rx="10" ry="10"></rect>
-<text x="460" y="44">"AND"</text>
+<path d="M454 109h4"></path>
+<path d="M630 109h4"></path>
+<rect x="458" y="98" width="172" height="22" rx="10" ry="10"></rect>
+<text x="544" y="113">Token "WParenRight"</text>
 </g>
-<path d="M490 40h20"></path>
-<path d="M410 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
-<g class="terminal">
-<path d="M430 70h4"></path>
-<path d="M486 70h4"></path>
-<rect x="434" y="59" width="52" height="22" rx="10" ry="10"></rect>
-<text x="460" y="74">"OR"</text>
+<path d="M634 109a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M490 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M654 79a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
 </g>
 <g>
-<path d="M510 40h0"></path>
-<path d="M840 40h0"></path>
-<path d="M510 40h20"></path>
+<path d="M674 40h0"></path>
+<path d="M1458 40h0"></path>
+<path d="M674 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M694 20h744"></path>
+</g>
+<path d="M1438 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M674 40h20"></path>
+<g>
+<path d="M694 40h0"></path>
+<path d="M1438 40h0"></path>
+<path d="M694 40h10"></path>
+<g>
+<path d="M704 40h0"></path>
+<path d="M1428 40h0"></path>
+<g>
+<path d="M704 40h0"></path>
+<path d="M804 40h0"></path>
+<path d="M704 40h20"></path>
+<g class="terminal">
+<path d="M724 40h0"></path>
+<path d="M784 40h0"></path>
+<rect x="724" y="29" width="60" height="22" rx="10" ry="10"></rect>
+<text x="754" y="44">"AND"</text>
+</g>
+<path d="M784 40h20"></path>
+<path d="M704 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M724 70h4"></path>
+<path d="M780 70h4"></path>
+<rect x="728" y="59" width="52" height="22" rx="10" ry="10"></rect>
+<text x="754" y="74">"OR"</text>
+</g>
+<path d="M784 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M804 40h0"></path>
+<path d="M1428 40h0"></path>
+<path d="M804 40h20"></path>
 <g class="non-terminal">
-<path d="M530 40h107"></path>
-<path d="M713 40h107"></path>
-<rect x="637" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_compare.svg"><text x="675" y="44">compare</text>
+<path d="M824 40h254"></path>
+<path d="M1154 40h254"></path>
+<rect x="1078" y="29" width="76" height="22"></rect>
+<a xlink:href="reuse_compare.svg"><text x="1116" y="44">compare</text>
 </a>
 </g>
-<path d="M820 40h20"></path>
-<path d="M510 40a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
+<path d="M1408 40h20"></path>
+<path d="M804 40a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M530 79h0"></path>
-<path d="M820 79h0"></path>
+<path d="M824 79h0"></path>
+<path d="M1408 79h0"></path>
 <g>
-<path d="M530 79h0"></path>
-<path d="M630 79h0"></path>
-<path d="M530 79a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<path d="M824 79h0"></path>
+<path d="M924 79h0"></path>
+<path d="M824 79a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M550 59h60"></path>
+<path d="M844 59h60"></path>
 </g>
-<path d="M610 59a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M530 79h20"></path>
+<path d="M904 59a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M824 79h20"></path>
 <g class="terminal">
-<path d="M550 79h0"></path>
-<path d="M610 79h0"></path>
-<rect x="550" y="68" width="60" height="22" rx="10" ry="10"></rect>
-<text x="580" y="83">"NOT"</text>
+<path d="M844 79h0"></path>
+<path d="M904 79h0"></path>
+<rect x="844" y="68" width="60" height="22" rx="10" ry="10"></rect>
+<text x="874" y="83">"NOT"</text>
 </g>
-<path d="M610 79h20"></path>
+<path d="M904 79h20"></path>
 </g>
-<path d="M630 79h10"></path>
+<path d="M924 79h10"></path>
 <g class="terminal">
-<path d="M640 79h0"></path>
-<path d="M684 79h0"></path>
-<rect x="640" y="68" width="44" height="22" rx="10" ry="10"></rect>
-<text x="662" y="83">"("</text>
+<path d="M934 79h0"></path>
+<path d="M1106 79h0"></path>
+<rect x="934" y="68" width="172" height="22" rx="10" ry="10"></rect>
+<text x="1020" y="83">Token "WParenLeftW"</text>
 </g>
-<path d="M684 79h10"></path>
-<path d="M694 79h10"></path>
+<path d="M1106 79h10"></path>
+<path d="M1116 79h10"></path>
 <g class="non-terminal">
-<path d="M704 79h0"></path>
-<path d="M756 79h0"></path>
-<rect x="704" y="68" width="52" height="22"></rect>
-<a xlink:href="reuse_cond.svg"><text x="730" y="83">cond</text>
+<path d="M1126 79h0"></path>
+<path d="M1178 79h0"></path>
+<rect x="1126" y="68" width="52" height="22"></rect>
+<a xlink:href="reuse_cond.svg"><text x="1152" y="83">cond</text>
 </a>
 </g>
-<path d="M756 79h10"></path>
-<path d="M766 79h10"></path>
-<g class="terminal">
-<path d="M776 79h0"></path>
-<path d="M820 79h0"></path>
-<rect x="776" y="68" width="44" height="22" rx="10" ry="10"></rect>
-<text x="798" y="83">")"</text>
-</g>
-</g>
-<path d="M820 79a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
-</g>
-</g>
-<path d="M840 40h10"></path>
-<path d="M410 40a10 10 0 0 0 -10 10v38a10 10 0 0 0 10 10"></path>
+<path d="M1178 79h10"></path>
 <g>
-<path d="M410 98h430"></path>
+<path d="M1188 79h0"></path>
+<path d="M1408 79h0"></path>
+<path d="M1188 79h20"></path>
+<g class="terminal">
+<path d="M1208 79h0"></path>
+<path d="M1388 79h0"></path>
+<rect x="1208" y="68" width="180" height="22" rx="10" ry="10"></rect>
+<text x="1298" y="83">Token "WParenRightW"</text>
 </g>
-<path d="M840 98a10 10 0 0 0 10 -10v-38a10 10 0 0 0 -10 -10"></path>
+<path d="M1388 79h20"></path>
+<path d="M1188 79a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1208 109h4"></path>
+<path d="M1384 109h4"></path>
+<rect x="1212" y="98" width="172" height="22" rx="10" ry="10"></rect>
+<text x="1298" y="113">Token "WParenRight"</text>
 </g>
-<path d="M850 40h20"></path>
+<path d="M1388 109a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
-<path d="M870 40h10"></path>
-<path d="M 880 40 h 20 m 0 -10 v 20"></path>
+<path d="M1408 79a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1428 40h10"></path>
+<path d="M704 40a10 10 0 0 0 -10 10v68a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M704 128h724"></path>
+</g>
+<path d="M1428 128a10 10 0 0 0 10 -10v-68a10 10 0 0 0 -10 -10"></path>
+</g>
+<path d="M1438 40h20"></path>
+</g>
+</g>
+<path d="M1458 40h10"></path>
+<path d="M 1468 40 h 20 m 0 -10 v 20"></path>
 </g>
 </svg>

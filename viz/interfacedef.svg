@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="630" height="101" viewBox="0 0 630 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 30 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M580 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M166 40h0"></path>
+<rect x="50" y="29" width="116" height="22" rx="10" ry="10"></rect>
+<text x="108" y="44">"INTERFACES"</text>
+</g>
+<path d="M166 40h10"></path>
+<path d="M176 40h10"></path>
+<g class="non-terminal">
+<path d="M186 40h0"></path>
+<path d="M246 40h0"></path>
+<rect x="186" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="216" y="44">field</text>
+</a>
+</g>
+<path d="M246 40h10"></path>
+<g>
+<path d="M256 40h0"></path>
+<path d="M580 40h0"></path>
+<path d="M256 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M276 20h284"></path>
+</g>
+<path d="M560 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M256 40h20"></path>
+<g>
+<path d="M276 40h0"></path>
+<path d="M560 40h0"></path>
+<path d="M276 40h20"></path>
+<g>
+<path d="M296 40h0"></path>
+<path d="M540 40h0"></path>
+<g class="terminal">
+<path d="M296 40h0"></path>
+<path d="M460 40h0"></path>
+<rect x="296" y="29" width="164" height="22" rx="10" ry="10"></rect>
+<text x="378" y="44">"ABSTRACT METHODS"</text>
+</g>
+<path d="M460 40h10"></path>
+<path d="M470 40h10"></path>
+<g class="non-terminal">
+<path d="M480 40h0"></path>
+<path d="M540 40h0"></path>
+<rect x="480" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="510" y="44">field</text>
+</a>
+</g>
+</g>
+<path d="M540 40h20"></path>
+<path d="M276 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M296 70h24"></path>
+<path d="M516 70h24"></path>
+<rect x="320" y="59" width="196" height="22" rx="10" ry="10"></rect>
+<text x="418" y="74">"ALL METHODS ABSTRACT"</text>
+</g>
+<path d="M540 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M560 40h20"></path>
+</g>
+</g>
+<path d="M580 40h10"></path>
+<path d="M 590 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

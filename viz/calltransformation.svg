@@ -173,32 +173,12 @@ cursor: help;
 </g>
 <path d="M1020 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 <path d="M796 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M816 100h8"></path>
-<path d="M1012 100h8"></path>
-<g class="terminal">
-<path d="M824 100h0"></path>
-<path d="M868 100h0"></path>
-<rect x="824" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="846" y="104">"("</text>
-</g>
-<path d="M868 100h10"></path>
-<path d="M878 100h10"></path>
 <g class="non-terminal">
-<path d="M888 100h0"></path>
-<path d="M948 100h0"></path>
-<rect x="888" y="89" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="918" y="104">field</text>
+<path d="M816 100h64"></path>
+<path d="M956 100h64"></path>
+<rect x="880" y="89" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="918" y="104">dynamic</text>
 </a>
-</g>
-<path d="M948 100h10"></path>
-<path d="M958 100h10"></path>
-<g class="terminal">
-<path d="M968 100h0"></path>
-<path d="M1012 100h0"></path>
-<rect x="968" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="990" y="104">")"</text>
-</g>
 </g>
 <path d="M1020 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
@@ -270,32 +250,12 @@ cursor: help;
 </g>
 <path d="M1378 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 <path d="M1154 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M1174 100h8"></path>
-<path d="M1370 100h8"></path>
-<g class="terminal">
-<path d="M1182 100h0"></path>
-<path d="M1226 100h0"></path>
-<rect x="1182" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="1204" y="104">"("</text>
-</g>
-<path d="M1226 100h10"></path>
-<path d="M1236 100h10"></path>
 <g class="non-terminal">
-<path d="M1246 100h0"></path>
-<path d="M1306 100h0"></path>
-<rect x="1246" y="89" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="1276" y="104">field</text>
+<path d="M1174 100h64"></path>
+<path d="M1314 100h64"></path>
+<rect x="1238" y="89" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="1276" y="104">dynamic</text>
 </a>
-</g>
-<path d="M1306 100h10"></path>
-<path d="M1316 100h10"></path>
-<g class="terminal">
-<path d="M1326 100h0"></path>
-<path d="M1370 100h0"></path>
-<rect x="1326" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="1348" y="104">")"</text>
-</g>
 </g>
 <path d="M1378 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
