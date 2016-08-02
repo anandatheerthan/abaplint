@@ -102,32 +102,12 @@ cursor: help;
 </g>
 <path d="M600 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 <path d="M144 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M164 100h120"></path>
-<path d="M480 100h120"></path>
-<g class="terminal">
-<path d="M284 100h0"></path>
-<path d="M328 100h0"></path>
-<rect x="284" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="306" y="104">"("</text>
-</g>
-<path d="M328 100h10"></path>
-<path d="M338 100h10"></path>
 <g class="non-terminal">
-<path d="M348 100h0"></path>
-<path d="M416 100h0"></path>
-<rect x="348" y="89" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="382" y="104">source</text>
+<path d="M164 100h180"></path>
+<path d="M420 100h180"></path>
+<rect x="344" y="89" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="382" y="104">dynamic</text>
 </a>
-</g>
-<path d="M416 100h10"></path>
-<path d="M426 100h10"></path>
-<g class="terminal">
-<path d="M436 100h0"></path>
-<path d="M480 100h0"></path>
-<rect x="436" y="89" width="44" height="22" rx="10" ry="10"></rect>
-<text x="458" y="104">")"</text>
-</g>
 </g>
 <path d="M600 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
