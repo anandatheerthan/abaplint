@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1074" height="229" viewBox="0 0 1074 229">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1074" height="319" viewBox="0 0 1074 319">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -198,41 +198,91 @@ cursor: help;
 <path d="M974 108a10 10 0 0 0 10 -10v-50"></path>
 <path d="M720 48v80a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M730 138h48"></path>
-<path d="M926 138h48"></path>
-<rect x="778" y="127" width="148" height="22" rx="10" ry="10"></rect>
-<text x="852" y="142">"LEFT-JUSTIFIED"</text>
+<path d="M730 138h76"></path>
+<path d="M898 138h76"></path>
+<rect x="806" y="127" width="92" height="22" rx="10" ry="10"></rect>
+<text x="852" y="142">"NO-ZERO"</text>
 </g>
 <path d="M974 138a10 10 0 0 0 10 -10v-80"></path>
 <path d="M720 48v110a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M730 168h44"></path>
-<path d="M930 168h44"></path>
 <g class="terminal">
-<path d="M774 168h0"></path>
-<path d="M842 168h0"></path>
-<rect x="774" y="157" width="68" height="22" rx="10" ry="10"></rect>
-<text x="808" y="172">"UNIT"</text>
-</g>
-<path d="M842 168h10"></path>
-<path d="M852 168h10"></path>
-<g class="non-terminal">
-<path d="M862 168h0"></path>
-<path d="M930 168h0"></path>
-<rect x="862" y="157" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="896" y="172">source</text>
-</a>
-</g>
+<path d="M730 168h48"></path>
+<path d="M926 168h48"></path>
+<rect x="778" y="157" width="148" height="22" rx="10" ry="10"></rect>
+<text x="852" y="172">"LEFT-JUSTIFIED"</text>
 </g>
 <path d="M974 168a10 10 0 0 0 10 -10v-110"></path>
 <path d="M720 48v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M730 198h44"></path>
+<path d="M930 198h44"></path>
 <g class="terminal">
-<path d="M730 198h76"></path>
-<path d="M898 198h76"></path>
-<rect x="806" y="187" width="92" height="22" rx="10" ry="10"></rect>
-<text x="852" y="202">"NO-SIGN"</text>
+<path d="M774 198h0"></path>
+<path d="M842 198h0"></path>
+<rect x="774" y="187" width="68" height="22" rx="10" ry="10"></rect>
+<text x="808" y="202">"UNIT"</text>
+</g>
+<path d="M842 198h10"></path>
+<path d="M852 198h10"></path>
+<g class="non-terminal">
+<path d="M862 198h0"></path>
+<path d="M930 198h0"></path>
+<rect x="862" y="187" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="896" y="202">source</text>
+</a>
+</g>
 </g>
 <path d="M974 198a10 10 0 0 0 10 -10v-140"></path>
+<path d="M720 48v170a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M730 228h28"></path>
+<path d="M946 228h28"></path>
+<g class="terminal">
+<path d="M758 228h0"></path>
+<path d="M858 228h0"></path>
+<rect x="758" y="217" width="100" height="22" rx="10" ry="10"></rect>
+<text x="808" y="232">"DECIMALS"</text>
+</g>
+<path d="M858 228h10"></path>
+<path d="M868 228h10"></path>
+<g class="non-terminal">
+<path d="M878 228h0"></path>
+<path d="M946 228h0"></path>
+<rect x="878" y="217" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="912" y="232">source</text>
+</a>
+</g>
+</g>
+<path d="M974 228a10 10 0 0 0 10 -10v-170"></path>
+<path d="M720 48v200a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M730 258h28"></path>
+<path d="M946 258h28"></path>
+<g class="terminal">
+<path d="M758 258h0"></path>
+<path d="M858 258h0"></path>
+<rect x="758" y="247" width="100" height="22" rx="10" ry="10"></rect>
+<text x="808" y="262">"CURRENCY"</text>
+</g>
+<path d="M858 258h10"></path>
+<path d="M868 258h10"></path>
+<g class="non-terminal">
+<path d="M878 258h0"></path>
+<path d="M946 258h0"></path>
+<rect x="878" y="247" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="912" y="262">source</text>
+</a>
+</g>
+</g>
+<path d="M974 258a10 10 0 0 0 10 -10v-200"></path>
+<path d="M720 48v230a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M730 288h76"></path>
+<path d="M898 288h76"></path>
+<rect x="806" y="277" width="92" height="22" rx="10" ry="10"></rect>
+<text x="852" y="292">"NO-SIGN"</text>
+</g>
+<path d="M974 288a10 10 0 0 0 10 -10v-230"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 720 38 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

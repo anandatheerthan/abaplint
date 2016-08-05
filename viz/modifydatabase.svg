@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="618" height="101" viewBox="0 0 618 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 30 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M568 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M134 40h0"></path>
+<rect x="50" y="29" width="84" height="22" rx="10" ry="10"></rect>
+<text x="92" y="44">"MODIFY"</text>
+</g>
+<path d="M134 40h10"></path>
+<g>
+<path d="M144 40h0"></path>
+<path d="M372 40h0"></path>
+<path d="M144 40h20"></path>
+<g class="non-terminal">
+<path d="M164 40h64"></path>
+<path d="M288 40h64"></path>
+<rect x="228" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="258" y="44">field</text>
+</a>
+</g>
+<path d="M352 40h20"></path>
+<path d="M144 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M164 70h0"></path>
+<path d="M352 70h0"></path>
+<g class="terminal">
+<path d="M164 70h0"></path>
+<path d="M208 70h0"></path>
+<rect x="164" y="59" width="44" height="22" rx="10" ry="10"></rect>
+<text x="186" y="74">"("</text>
+</g>
+<path d="M208 70h10"></path>
+<path d="M218 70h10"></path>
+<g class="non-terminal">
+<path d="M228 70h0"></path>
+<path d="M288 70h0"></path>
+<rect x="228" y="59" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="258" y="74">field</text>
+</a>
+</g>
+<path d="M288 70h10"></path>
+<path d="M298 70h10"></path>
+<g class="terminal">
+<path d="M308 70h0"></path>
+<path d="M352 70h0"></path>
+<rect x="308" y="59" width="44" height="22" rx="10" ry="10"></rect>
+<text x="330" y="74">")"</text>
+</g>
+</g>
+<path d="M352 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<g>
+<path d="M372 40h0"></path>
+<path d="M568 40h0"></path>
+<path d="M372 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M392 20h156"></path>
+</g>
+<path d="M548 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M372 40h20"></path>
+<g>
+<path d="M392 40h0"></path>
+<path d="M548 40h0"></path>
+<g class="terminal">
+<path d="M392 40h0"></path>
+<path d="M460 40h0"></path>
+<rect x="392" y="29" width="68" height="22" rx="10" ry="10"></rect>
+<text x="426" y="44">"FROM"</text>
+</g>
+<path d="M460 40h10"></path>
+<path d="M470 40h10"></path>
+<g class="non-terminal">
+<path d="M480 40h0"></path>
+<path d="M548 40h0"></path>
+<rect x="480" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="514" y="44">source</text>
+</a>
+</g>
+</g>
+<path d="M548 40h20"></path>
+</g>
+</g>
+<path d="M568 40h10"></path>
+<path d="M 578 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>

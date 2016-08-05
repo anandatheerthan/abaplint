@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1024" height="101" viewBox="0 0 1024 101">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 30 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M974 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M198 40h0"></path>
+<rect x="50" y="29" width="148" height="22" rx="10" ry="10"></rect>
+<text x="124" y="44">"SELECT-OPTIONS"</text>
+</g>
+<path d="M198 40h10"></path>
+<path d="M208 40h10"></path>
+<g class="non-terminal">
+<path d="M218 40h0"></path>
+<path d="M278 40h0"></path>
+<rect x="218" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="248" y="44">field</text>
+</a>
+</g>
+<path d="M278 40h10"></path>
+<path d="M288 40h10"></path>
+<g class="terminal">
+<path d="M298 40h0"></path>
+<path d="M358 40h0"></path>
+<rect x="298" y="29" width="60" height="22" rx="10" ry="10"></rect>
+<text x="328" y="44">"FOR"</text>
+</g>
+<path d="M358 40h10"></path>
+<path d="M368 40h10"></path>
+<g class="non-terminal">
+<path d="M378 40h0"></path>
+<path d="M470 40h0"></path>
+<rect x="378" y="29" width="92" height="22"></rect>
+<a xlink:href="reuse_field_sub.svg"><text x="424" y="44">field&#95;sub</text>
+</a>
+</g>
+<path d="M470 40h10"></path>
+<g>
+<path d="M480 40h0"></path>
+<path d="M770 40h0"></path>
+<path d="M480 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M500 20h250"></path>
+</g>
+<path d="M750 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M480 40h20"></path>
+<g>
+<path d="M500 40h0"></path>
+<path d="M750 40h0"></path>
+<g class="terminal">
+<path d="M500 40h0"></path>
+<path d="M592 40h0"></path>
+<rect x="500" y="29" width="92" height="22" rx="10" ry="10"></rect>
+<text x="546" y="44">"DEFAULT"</text>
+</g>
+<path d="M592 40h10"></path>
+<g>
+<path d="M602 40h0"></path>
+<path d="M750 40h0"></path>
+<path d="M602 40h20"></path>
+<g class="non-terminal">
+<path d="M622 40h12"></path>
+<path d="M718 40h12"></path>
+<rect x="634" y="29" width="84" height="22"></rect>
+<a xlink:href="reuse_constant.svg"><text x="676" y="44">constant</text>
+</a>
+</g>
+<path d="M730 40h20"></path>
+<path d="M602 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M622 70h0"></path>
+<path d="M730 70h0"></path>
+<rect x="622" y="59" width="108" height="22"></rect>
+<a xlink:href="reuse_field_chain.svg"><text x="676" y="74">field&#95;chain</text>
+</a>
+</g>
+<path d="M730 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M750 40h20"></path>
+</g>
+<g>
+<path d="M770 40h0"></path>
+<path d="M974 40h0"></path>
+<path d="M770 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M790 20h164"></path>
+</g>
+<path d="M954 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M770 40h20"></path>
+<g>
+<path d="M790 40h0"></path>
+<path d="M954 40h0"></path>
+<g class="terminal">
+<path d="M790 40h0"></path>
+<path d="M874 40h0"></path>
+<rect x="790" y="29" width="84" height="22" rx="10" ry="10"></rect>
+<text x="832" y="44">"OPTION"</text>
+</g>
+<path d="M874 40h10"></path>
+<path d="M884 40h10"></path>
+<g class="non-terminal">
+<path d="M894 40h0"></path>
+<path d="M954 40h0"></path>
+<rect x="894" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="924" y="44">field</text>
+</a>
+</g>
+</g>
+<path d="M954 40h20"></path>
+</g>
+</g>
+<path d="M974 40h10"></path>
+<path d="M 984 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
