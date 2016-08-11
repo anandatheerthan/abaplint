@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="732" height="92" viewBox="0 0 732 92">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 21 v 20 m 0 -10 h 20.5"></path>
+<path d="M40 31h10"></path>
+<g>
+<path d="M50 31h0"></path>
+<path d="M682 31h0"></path>
+<g>
+<path d="M50 31h0"></path>
+<path d="M116 31h0"></path>
+<text x="83" y="36" class="comment">v740sp02</text>
+</g>
+<path d="M116 31h10"></path>
+<path d="M126 31h10"></path>
+<g>
+<path d="M136 31h0"></path>
+<path d="M682 31h0"></path>
+<g class="terminal">
+<path d="M136 31h0"></path>
+<path d="M204 31h0"></path>
+<rect x="136" y="20" width="68" height="22" rx="10" ry="10"></rect>
+<text x="170" y="35">"DATA"</text>
+</g>
+<path d="M204 31h10"></path>
+<path d="M214 31h10"></path>
+<g class="terminal">
+<path d="M224 31h0"></path>
+<path d="M380 31h0"></path>
+<rect x="224" y="20" width="156" height="22" rx="10" ry="10"></rect>
+<text x="302" y="35">Token "ParenLeft"</text>
+</g>
+<path d="M380 31h10"></path>
+<path d="M390 31h10"></path>
+<g class="non-terminal">
+<path d="M400 31h0"></path>
+<path d="M460 31h0"></path>
+<rect x="400" y="20" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="430" y="35">field</text>
+</a>
+</g>
+<path d="M460 31h10"></path>
+<g>
+<path d="M470 31h0"></path>
+<path d="M682 31h0"></path>
+<path d="M470 31h20"></path>
+<g class="terminal">
+<path d="M490 31h4"></path>
+<path d="M658 31h4"></path>
+<rect x="494" y="20" width="164" height="22" rx="10" ry="10"></rect>
+<text x="576" y="35">Token "ParenRight"</text>
+</g>
+<path d="M662 31h20"></path>
+<path d="M470 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M490 61h0"></path>
+<path d="M662 61h0"></path>
+<rect x="490" y="50" width="172" height="22" rx="10" ry="10"></rect>
+<text x="576" y="65">Token "ParenRightW"</text>
+</g>
+<path d="M662 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+</g>
+<path d="M682 31h10"></path>
+<path d="M 692 31 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>
