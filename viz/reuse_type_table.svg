@@ -89,26 +89,26 @@ cursor: help;
 <path d="M298 48h20"></path>
 <path d="M178 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M198 78h8"></path>
-<path d="M290 78h8"></path>
-<rect x="206" y="67" width="84" height="22" rx="10" ry="10"></rect>
-<text x="248" y="82">"HASHED"</text>
+<path d="M198 78h0"></path>
+<path d="M282 78h16"></path>
+<rect x="198" y="67" width="84" height="22" rx="10" ry="10"></rect>
+<text x="240" y="82">"HASHED"</text>
 </g>
 <path d="M298 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 <path d="M178 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M198 108h8"></path>
-<path d="M290 108h8"></path>
-<rect x="206" y="97" width="84" height="22" rx="10" ry="10"></rect>
-<text x="248" y="112">"SORTED"</text>
+<path d="M198 108h0"></path>
+<path d="M282 108h16"></path>
+<rect x="198" y="97" width="84" height="22" rx="10" ry="10"></rect>
+<text x="240" y="112">"SORTED"</text>
 </g>
 <path d="M298 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 <path d="M178 48a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M198 138h20"></path>
-<path d="M278 138h20"></path>
-<rect x="218" y="127" width="60" height="22" rx="10" ry="10"></rect>
-<text x="248" y="142">"ANY"</text>
+<path d="M198 138h0"></path>
+<path d="M258 138h40"></path>
+<rect x="198" y="127" width="60" height="22" rx="10" ry="10"></rect>
+<text x="228" y="142">"ANY"</text>
 </g>
 <path d="M298 138a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
 </g>
@@ -217,10 +217,10 @@ cursor: help;
 <path d="M1038 48h20"></path>
 <path d="M902 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M922 78h16"></path>
-<path d="M1022 78h16"></path>
-<rect x="938" y="67" width="84" height="22" rx="10" ry="10"></rect>
-<text x="980" y="82">"UNIQUE"</text>
+<path d="M922 78h0"></path>
+<path d="M1006 78h32"></path>
+<rect x="922" y="67" width="84" height="22" rx="10" ry="10"></rect>
+<text x="964" y="82">"UNIQUE"</text>
 </g>
 <path d="M1038 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
@@ -240,10 +240,10 @@ cursor: help;
 <path d="M1300 48h0"></path>
 <path d="M1098 48h20"></path>
 <g class="terminal">
-<path d="M1118 48h35"></path>
-<path d="M1245 48h35"></path>
-<rect x="1153" y="37" width="92" height="22" rx="10" ry="10"></rect>
-<text x="1199" y="52">"DEFAULT"</text>
+<path d="M1118 48h0"></path>
+<path d="M1210 48h70"></path>
+<rect x="1118" y="37" width="92" height="22" rx="10" ry="10"></rect>
+<text x="1164" y="52">"DEFAULT"</text>
 </g>
 <path d="M1280 48h20"></path>
 <path d="M1098 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>

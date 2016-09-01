@@ -56,10 +56,10 @@ cursor: help;
 <path d="M412 31h0"></path>
 <path d="M136 31h20"></path>
 <g class="terminal">
-<path d="M156 31h12"></path>
-<path d="M380 31h12"></path>
-<rect x="168" y="20" width="212" height="22" rx="10" ry="10"></rect>
-<text x="274" y="35">"TO CURRENT TRANSACTION"</text>
+<path d="M156 31h0"></path>
+<path d="M368 31h24"></path>
+<rect x="156" y="20" width="212" height="22" rx="10" ry="10"></rect>
+<text x="262" y="35">"TO CURRENT TRANSACTION"</text>
 </g>
 <path d="M392 31h20"></path>
 <path d="M136 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
@@ -85,29 +85,29 @@ cursor: help;
 <path d="M392 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 <path d="M136 31a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M156 91h72"></path>
-<path d="M320 91h72"></path>
-<rect x="228" y="80" width="92" height="22" rx="10" ry="10"></rect>
-<text x="274" y="95">"PROGRAM"</text>
+<path d="M156 91h0"></path>
+<path d="M248 91h144"></path>
+<rect x="156" y="80" width="92" height="22" rx="10" ry="10"></rect>
+<text x="202" y="95">"PROGRAM"</text>
 </g>
 <path d="M392 91a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 <path d="M136 31a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M156 121h16"></path>
-<path d="M376 121h16"></path>
+<path d="M156 121h0"></path>
+<path d="M360 121h32"></path>
 <g class="terminal">
-<path d="M172 121h0"></path>
-<path d="M280 121h0"></path>
-<rect x="172" y="110" width="108" height="22" rx="10" ry="10"></rect>
-<text x="226" y="125">"TO SCREEN"</text>
+<path d="M156 121h0"></path>
+<path d="M264 121h0"></path>
+<rect x="156" y="110" width="108" height="22" rx="10" ry="10"></rect>
+<text x="210" y="125">"TO SCREEN"</text>
 </g>
-<path d="M280 121h10"></path>
-<path d="M290 121h10"></path>
+<path d="M264 121h10"></path>
+<path d="M274 121h10"></path>
 <g class="non-terminal">
-<path d="M300 121h0"></path>
-<path d="M376 121h0"></path>
-<rect x="300" y="110" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="338" y="125">integer</text>
+<path d="M284 121h0"></path>
+<path d="M360 121h0"></path>
+<rect x="284" y="110" width="76" height="22"></rect>
+<a xlink:href="reuse_integer.svg"><text x="322" y="125">integer</text>
 </a>
 </g>
 </g>

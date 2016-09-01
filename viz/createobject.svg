@@ -93,10 +93,10 @@ cursor: help;
 <path d="M506 40h20"></path>
 <path d="M386 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
-<path d="M406 70h12"></path>
-<path d="M494 70h12"></path>
-<rect x="418" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="456" y="74">dynamic</text>
+<path d="M406 70h0"></path>
+<path d="M482 70h24"></path>
+<rect x="406" y="59" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="444" y="74">dynamic</text>
 </a>
 </g>
 <path d="M506 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -139,21 +139,21 @@ cursor: help;
 <path d="M862 40h20"></path>
 <path d="M566 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M586 70h16"></path>
-<path d="M846 70h16"></path>
+<path d="M586 70h0"></path>
+<path d="M830 70h32"></path>
 <g class="terminal">
-<path d="M602 70h0"></path>
-<path d="M758 70h0"></path>
-<rect x="602" y="59" width="156" height="22" rx="10" ry="10"></rect>
-<text x="680" y="74">"PARAMETER-TABLE"</text>
+<path d="M586 70h0"></path>
+<path d="M742 70h0"></path>
+<rect x="586" y="59" width="156" height="22" rx="10" ry="10"></rect>
+<text x="664" y="74">"PARAMETER-TABLE"</text>
 </g>
-<path d="M758 70h10"></path>
-<path d="M768 70h10"></path>
+<path d="M742 70h10"></path>
+<path d="M752 70h10"></path>
 <g class="non-terminal">
-<path d="M778 70h0"></path>
-<path d="M846 70h0"></path>
-<rect x="778" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="812" y="74">source</text>
+<path d="M762 70h0"></path>
+<path d="M830 70h0"></path>
+<rect x="762" y="59" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="796" y="74">source</text>
 </a>
 </g>
 </g>

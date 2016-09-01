@@ -56,10 +56,10 @@ cursor: help;
 <path d="M260 40h0"></path>
 <path d="M144 40h20"></path>
 <g class="non-terminal">
-<path d="M164 40h8"></path>
-<path d="M232 40h8"></path>
-<rect x="172" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="202" y="44">field</text>
+<path d="M164 40h0"></path>
+<path d="M224 40h16"></path>
+<rect x="164" y="29" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="194" y="44">field</text>
 </a>
 </g>
 <path d="M240 40h20"></path>
@@ -87,21 +87,21 @@ cursor: help;
 <path d="M746 40h0"></path>
 <path d="M280 40h20"></path>
 <g>
-<path d="M300 40h135"></path>
-<path d="M591 40h135"></path>
+<path d="M300 40h0"></path>
+<path d="M456 40h270"></path>
 <g class="terminal">
-<path d="M435 40h0"></path>
-<path d="M503 40h0"></path>
-<rect x="435" y="29" width="68" height="22" rx="10" ry="10"></rect>
-<text x="469" y="44">"FROM"</text>
+<path d="M300 40h0"></path>
+<path d="M368 40h0"></path>
+<rect x="300" y="29" width="68" height="22" rx="10" ry="10"></rect>
+<text x="334" y="44">"FROM"</text>
 </g>
-<path d="M503 40h10"></path>
-<path d="M513 40h10"></path>
+<path d="M368 40h10"></path>
+<path d="M378 40h10"></path>
 <g class="non-terminal">
-<path d="M523 40h0"></path>
-<path d="M591 40h0"></path>
-<rect x="523" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="557" y="44">source</text>
+<path d="M388 40h0"></path>
+<path d="M456 40h0"></path>
+<rect x="388" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="422" y="44">source</text>
 </a>
 </g>
 </g>

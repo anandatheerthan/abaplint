@@ -56,10 +56,10 @@ cursor: help;
 <path d="M300 40h0"></path>
 <path d="M152 40h20"></path>
 <g class="terminal">
-<path d="M172 40h20"></path>
-<path d="M260 40h20"></path>
-<rect x="192" y="29" width="68" height="22" rx="10" ry="10"></rect>
-<text x="226" y="44">"TYPE"</text>
+<path d="M172 40h0"></path>
+<path d="M240 40h40"></path>
+<rect x="172" y="29" width="68" height="22" rx="10" ry="10"></rect>
+<text x="206" y="44">"TYPE"</text>
 </g>
 <path d="M280 40h20"></path>
 <path d="M152 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>

@@ -73,10 +73,10 @@ cursor: help;
 <path d="M408 40h20"></path>
 <path d="M272 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M292 70h4"></path>
-<path d="M404 70h4"></path>
-<rect x="296" y="59" width="108" height="22" rx="10" ry="10"></rect>
-<text x="350" y="74">"FOR INPUT"</text>
+<path d="M292 70h0"></path>
+<path d="M400 70h8"></path>
+<rect x="292" y="59" width="108" height="22" rx="10" ry="10"></rect>
+<text x="346" y="74">"FOR INPUT"</text>
 </g>
 <path d="M408 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
@@ -102,10 +102,10 @@ cursor: help;
 <path d="M616 40h20"></path>
 <path d="M448 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M468 70h8"></path>
-<path d="M608 70h8"></path>
-<rect x="476" y="59" width="132" height="22" rx="10" ry="10"></rect>
-<text x="542" y="74">"IN TEXT MODE"</text>
+<path d="M468 70h0"></path>
+<path d="M600 70h16"></path>
+<rect x="468" y="59" width="132" height="22" rx="10" ry="10"></rect>
+<text x="534" y="74">"IN TEXT MODE"</text>
 </g>
 <path d="M616 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>

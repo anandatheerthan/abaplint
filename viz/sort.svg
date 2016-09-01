@@ -74,10 +74,10 @@ cursor: help;
 <path d="M432 48h0"></path>
 <path d="M236 48h20"></path>
 <g class="terminal">
-<path d="M256 48h36"></path>
-<path d="M376 48h36"></path>
-<rect x="292" y="37" width="84" height="22" rx="10" ry="10"></rect>
-<text x="334" y="52">"STABLE"</text>
+<path d="M256 48h0"></path>
+<path d="M340 48h72"></path>
+<rect x="256" y="37" width="84" height="22" rx="10" ry="10"></rect>
+<text x="298" y="52">"STABLE"</text>
 </g>
 <path d="M412 48h20"></path>
 <path d="M236 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
@@ -86,10 +86,10 @@ cursor: help;
 <path d="M412 78h0"></path>
 <path d="M256 78h20"></path>
 <g class="terminal">
-<path d="M276 78h4"></path>
-<path d="M388 78h4"></path>
-<rect x="280" y="67" width="108" height="22" rx="10" ry="10"></rect>
-<text x="334" y="82">"ASCENDING"</text>
+<path d="M276 78h0"></path>
+<path d="M384 78h8"></path>
+<rect x="276" y="67" width="108" height="22" rx="10" ry="10"></rect>
+<text x="330" y="82">"ASCENDING"</text>
 </g>
 <path d="M392 78h20"></path>
 <path d="M256 78a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
@@ -140,10 +140,10 @@ cursor: help;
 <path d="M720 48h0"></path>
 <path d="M564 48h20"></path>
 <g class="non-terminal">
-<path d="M584 48h12"></path>
-<path d="M688 48h12"></path>
-<rect x="596" y="37" width="92" height="22"></rect>
-<a xlink:href="reuse_field_sub.svg"><text x="642" y="52">field&#95;sub</text>
+<path d="M584 48h0"></path>
+<path d="M676 48h24"></path>
+<rect x="584" y="37" width="92" height="22"></rect>
+<a xlink:href="reuse_field_sub.svg"><text x="630" y="52">field&#95;sub</text>
 </a>
 </g>
 <path d="M700 48h20"></path>
@@ -171,10 +171,10 @@ cursor: help;
 <path d="M896 48h0"></path>
 <path d="M740 48h20"></path>
 <g class="terminal">
-<path d="M760 48h4"></path>
-<path d="M872 48h4"></path>
-<rect x="764" y="37" width="108" height="22" rx="10" ry="10"></rect>
-<text x="818" y="52">"ASCENDING"</text>
+<path d="M760 48h0"></path>
+<path d="M868 48h8"></path>
+<rect x="760" y="37" width="108" height="22" rx="10" ry="10"></rect>
+<text x="814" y="52">"ASCENDING"</text>
 </g>
 <path d="M876 48h20"></path>
 <path d="M740 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
@@ -216,10 +216,10 @@ cursor: help;
 <path d="M1058 48h20"></path>
 <path d="M534 48a10 10 0 0 1 10 10v48a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
-<path d="M554 116h214"></path>
-<path d="M844 116h214"></path>
-<rect x="768" y="105" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="806" y="120">dynamic</text>
+<path d="M554 116h0"></path>
+<path d="M630 116h428"></path>
+<rect x="554" y="105" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="592" y="120">dynamic</text>
 </a>
 </g>
 <path d="M1058 116a10 10 0 0 0 10 -10v-48a10 10 0 0 1 10 -10"></path>

@@ -65,10 +65,10 @@ cursor: help;
 <path d="M264 48h20"></path>
 <path d="M152 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
-<path d="M172 78h8"></path>
-<path d="M256 78h8"></path>
-<rect x="180" y="67" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="218" y="82">dynamic</text>
+<path d="M172 78h0"></path>
+<path d="M248 78h16"></path>
+<rect x="172" y="67" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="210" y="82">dynamic</text>
 </a>
 </g>
 <path d="M264 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>

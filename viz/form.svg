@@ -108,10 +108,10 @@ cursor: help;
 <path d="M604 48h0"></path>
 <path d="M464 48h20"></path>
 <g class="non-terminal">
-<path d="M484 48h24"></path>
-<path d="M560 48h24"></path>
-<rect x="508" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_type.svg"><text x="534" y="52">type</text>
+<path d="M484 48h0"></path>
+<path d="M536 48h48"></path>
+<rect x="484" y="37" width="52" height="22"></rect>
+<a xlink:href="reuse_type.svg"><text x="510" y="52">type</text>
 </a>
 </g>
 <path d="M584 48h20"></path>
@@ -186,10 +186,10 @@ cursor: help;
 <path d="M1010 48h0"></path>
 <path d="M870 48h20"></path>
 <g class="non-terminal">
-<path d="M890 48h24"></path>
-<path d="M966 48h24"></path>
-<rect x="914" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_type.svg"><text x="940" y="52">type</text>
+<path d="M890 48h0"></path>
+<path d="M942 48h48"></path>
+<rect x="890" y="37" width="52" height="22"></rect>
+<a xlink:href="reuse_type.svg"><text x="916" y="52">type</text>
 </a>
 </g>
 <path d="M990 48h20"></path>
@@ -264,10 +264,10 @@ cursor: help;
 <path d="M1440 48h0"></path>
 <path d="M1300 48h20"></path>
 <g class="non-terminal">
-<path d="M1320 48h24"></path>
-<path d="M1396 48h24"></path>
-<rect x="1344" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_type.svg"><text x="1370" y="52">type</text>
+<path d="M1320 48h0"></path>
+<path d="M1372 48h48"></path>
+<rect x="1320" y="37" width="52" height="22"></rect>
+<a xlink:href="reuse_type.svg"><text x="1346" y="52">type</text>
 </a>
 </g>
 <path d="M1420 48h20"></path>

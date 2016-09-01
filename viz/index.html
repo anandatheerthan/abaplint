@@ -1,588 +1,157 @@
 <html>
 <head>
 <title>abaplint syntax diagrams</title>
-<link rel="stylesheet" type="text/css" href="../style/style.css">
+<style>
+body {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+a:link {
+  color: #808BA0;
+}
+
+a:visited {
+  color: #808BA0;
+}
+
+.sidenav {
+  width: 260px;
+  height: 100%; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0;
+  left: 0;
+  overflow: scroll;
+  background-color: #333; 
+  color: #808BA0;
+  padding-top: 0px;
+  padding-left: 5px;
+}
+.main {
+  margin-left: 260px;
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance:none;
+  width:12px;
+  height:12px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius:12px;
+  border:4px solid rgba(255,255,255,0);
+  background-clip:content-box;
+  background-color: #A0A0A0;
+}
+::-webkit-scrollbar-thumb:hover {
+  border-radius:12px;
+  border:4px solid rgba(255,255,255,0);
+  background-clip:content-box;
+  background-color:#A0A0A0;
+}
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+</style>
 </head>
 <body>
-<h1>Statements</h1>
-<div style="float:left;text-align:center;"><u>add.svg</u><br>
-<a href="add.svg"><img src="add.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>aliases.svg</u><br>
-<a href="aliases.svg"><img src="aliases.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>append.svg</u><br>
-<a href="append.svg"><img src="append.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>assert.svg</u><br>
-<a href="assert.svg"><img src="assert.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>assign.svg</u><br>
-<a href="assign.svg"><img src="assign.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>at.svg</u><br>
-<a href="at.svg"><img src="at.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>atselectionscreen.svg</u><br>
-<a href="atselectionscreen.svg"><img src="atselectionscreen.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>authoritycheck.svg</u><br>
-<a href="authoritycheck.svg"><img src="authoritycheck.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>break.svg</u><br>
-<a href="break.svg"><img src="break.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>call.svg</u><br>
-<a href="call.svg"><img src="call.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>callfunction.svg</u><br>
-<a href="callfunction.svg"><img src="callfunction.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>callkernel.svg</u><br>
-<a href="callkernel.svg"><img src="callkernel.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>callscreen.svg</u><br>
-<a href="callscreen.svg"><img src="callscreen.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>callselectionscreen.svg</u><br>
-<a href="callselectionscreen.svg"><img src="callselectionscreen.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>calltransaction.svg</u><br>
-<a href="calltransaction.svg"><img src="calltransaction.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>calltransformation.svg</u><br>
-<a href="calltransformation.svg"><img src="calltransformation.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>case.svg</u><br>
-<a href="case.svg"><img src="case.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>catch.svg</u><br>
-<a href="catch.svg"><img src="catch.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>check.svg</u><br>
-<a href="check.svg"><img src="check.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>class.svg</u><br>
-<a href="class.svg"><img src="class.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>clear.svg</u><br>
-<a href="clear.svg"><img src="clear.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>close.svg</u><br>
-<a href="close.svg"><img src="close.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>collect.svg</u><br>
-<a href="collect.svg"><img src="collect.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>commit.svg</u><br>
-<a href="commit.svg"><img src="commit.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>compute.svg</u><br>
-<a href="compute.svg"><img src="compute.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>concatenate.svg</u><br>
-<a href="concatenate.svg"><img src="concatenate.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>condense.svg</u><br>
-<a href="condense.svg"><img src="condense.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>constant.svg</u><br>
-<a href="constant.svg"><img src="constant.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>continue.svg</u><br>
-<a href="continue.svg"><img src="continue.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>convert.svg</u><br>
-<a href="convert.svg"><img src="convert.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>createdata.svg</u><br>
-<a href="createdata.svg"><img src="createdata.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>createobject.svg</u><br>
-<a href="createobject.svg"><img src="createobject.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>data.svg</u><br>
-<a href="data.svg"><img src="data.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>define.svg</u><br>
-<a href="define.svg"><img src="define.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>deletedatabase.svg</u><br>
-<a href="deletedatabase.svg"><img src="deletedatabase.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>deleteinternal.svg</u><br>
-<a href="deleteinternal.svg"><img src="deleteinternal.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>describe.svg</u><br>
-<a href="describe.svg"><img src="describe.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>divide.svg</u><br>
-<a href="divide.svg"><img src="divide.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>do.svg</u><br>
-<a href="do.svg"><img src="do.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>else.svg</u><br>
-<a href="else.svg"><img src="else.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>elseif.svg</u><br>
-<a href="elseif.svg"><img src="elseif.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endat.svg</u><br>
-<a href="endat.svg"><img src="endat.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endcase.svg</u><br>
-<a href="endcase.svg"><img src="endcase.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endclass.svg</u><br>
-<a href="endclass.svg"><img src="endclass.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>enddefine.svg</u><br>
-<a href="enddefine.svg"><img src="enddefine.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>enddo.svg</u><br>
-<a href="enddo.svg"><img src="enddo.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endform.svg</u><br>
-<a href="endform.svg"><img src="endform.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endfunction.svg</u><br>
-<a href="endfunction.svg"><img src="endfunction.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endif.svg</u><br>
-<a href="endif.svg"><img src="endif.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endinterface.svg</u><br>
-<a href="endinterface.svg"><img src="endinterface.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endloop.svg</u><br>
-<a href="endloop.svg"><img src="endloop.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endmethod.svg</u><br>
-<a href="endmethod.svg"><img src="endmethod.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endmodule.svg</u><br>
-<a href="endmodule.svg"><img src="endmodule.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endofselection.svg</u><br>
-<a href="endofselection.svg"><img src="endofselection.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endselect.svg</u><br>
-<a href="endselect.svg"><img src="endselect.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endtry.svg</u><br>
-<a href="endtry.svg"><img src="endtry.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>endwhile.svg</u><br>
-<a href="endwhile.svg"><img src="endwhile.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>exit.svg</u><br>
-<a href="exit.svg"><img src="exit.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>export.svg</u><br>
-<a href="export.svg"><img src="export.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>fieldsymbol.svg</u><br>
-<a href="fieldsymbol.svg"><img src="fieldsymbol.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>find.svg</u><br>
-<a href="find.svg"><img src="find.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>form.svg</u><br>
-<a href="form.svg"><img src="form.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>format.svg</u><br>
-<a href="format.svg"><img src="format.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>free.svg</u><br>
-<a href="free.svg"><img src="free.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>function.svg</u><br>
-<a href="function.svg"><img src="function.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>functionpool.svg</u><br>
-<a href="functionpool.svg"><img src="functionpool.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>getbit.svg</u><br>
-<a href="getbit.svg"><img src="getbit.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>getcursor.svg</u><br>
-<a href="getcursor.svg"><img src="getcursor.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>getparameter.svg</u><br>
-<a href="getparameter.svg"><img src="getparameter.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>getreference.svg</u><br>
-<a href="getreference.svg"><img src="getreference.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>getruntime.svg</u><br>
-<a href="getruntime.svg"><img src="getruntime.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>gettimestamp.svg</u><br>
-<a href="gettimestamp.svg"><img src="gettimestamp.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>if.svg</u><br>
-<a href="if.svg"><img src="if.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>import.svg</u><br>
-<a href="import.svg"><img src="import.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>importdynpro.svg</u><br>
-<a href="importdynpro.svg"><img src="importdynpro.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>include.svg</u><br>
-<a href="include.svg"><img src="include.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>includetype.svg</u><br>
-<a href="includetype.svg"><img src="includetype.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>initialization.svg</u><br>
-<a href="initialization.svg"><img src="initialization.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>insertdatabase.svg</u><br>
-<a href="insertdatabase.svg"><img src="insertdatabase.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>insertinternal.svg</u><br>
-<a href="insertinternal.svg"><img src="insertinternal.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>insertreport.svg</u><br>
-<a href="insertreport.svg"><img src="insertreport.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>inserttextpool.svg</u><br>
-<a href="inserttextpool.svg"><img src="inserttextpool.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>interface.svg</u><br>
-<a href="interface.svg"><img src="interface.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>interfacedef.svg</u><br>
-<a href="interfacedef.svg"><img src="interfacedef.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>leave.svg</u><br>
-<a href="leave.svg"><img src="leave.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>loop.svg</u><br>
-<a href="loop.svg"><img src="loop.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>message.svg</u><br>
-<a href="message.svg"><img src="message.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>method.svg</u><br>
-<a href="method.svg"><img src="method.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>methoddef.svg</u><br>
-<a href="methoddef.svg"><img src="methoddef.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>modifydatabase.svg</u><br>
-<a href="modifydatabase.svg"><img src="modifydatabase.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>modifyinternal.svg</u><br>
-<a href="modifyinternal.svg"><img src="modifyinternal.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>module.svg</u><br>
-<a href="module.svg"><img src="module.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>move.svg</u><br>
-<a href="move.svg"><img src="move.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>multiply.svg</u><br>
-<a href="multiply.svg"><img src="multiply.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>open.svg</u><br>
-<a href="open.svg"><img src="open.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>overlay.svg</u><br>
-<a href="overlay.svg"><img src="overlay.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>parameter.svg</u><br>
-<a href="parameter.svg"><img src="parameter.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>perform.svg</u><br>
-<a href="perform.svg"><img src="perform.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>private.svg</u><br>
-<a href="private.svg"><img src="private.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>program.svg</u><br>
-<a href="program.svg"><img src="program.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>protected.svg</u><br>
-<a href="protected.svg"><img src="protected.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>public.svg</u><br>
-<a href="public.svg"><img src="public.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>raise.svg</u><br>
-<a href="raise.svg"><img src="raise.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>read.svg</u><br>
-<a href="read.svg"><img src="read.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>readdataset.svg</u><br>
-<a href="readdataset.svg"><img src="readdataset.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>readline.svg</u><br>
-<a href="readline.svg"><img src="readline.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>readreport.svg</u><br>
-<a href="readreport.svg"><img src="readreport.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>readtextpool.svg</u><br>
-<a href="readtextpool.svg"><img src="readtextpool.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>refresh.svg</u><br>
-<a href="refresh.svg"><img src="refresh.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>replace.svg</u><br>
-<a href="replace.svg"><img src="replace.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>report.svg</u><br>
-<a href="report.svg"><img src="report.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>retry.svg</u><br>
-<a href="retry.svg"><img src="retry.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>return.svg</u><br>
-<a href="return.svg"><img src="return.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>rollback.svg</u><br>
-<a href="rollback.svg"><img src="rollback.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>scan.svg</u><br>
-<a href="scan.svg"><img src="scan.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>search.svg</u><br>
-<a href="search.svg"><img src="search.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>select.svg</u><br>
-<a href="select.svg"><img src="select.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>selectionscreen.svg</u><br>
-<a href="selectionscreen.svg"><img src="selectionscreen.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>selectoption.svg</u><br>
-<a href="selectoption.svg"><img src="selectoption.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setbit.svg</u><br>
-<a href="setbit.svg"><img src="setbit.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setcountry.svg</u><br>
-<a href="setcountry.svg"><img src="setcountry.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setcursor.svg</u><br>
-<a href="setcursor.svg"><img src="setcursor.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>sethandler.svg</u><br>
-<a href="sethandler.svg"><img src="sethandler.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setparameter.svg</u><br>
-<a href="setparameter.svg"><img src="setparameter.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setpfstatus.svg</u><br>
-<a href="setpfstatus.svg"><img src="setpfstatus.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>setscreen.svg</u><br>
-<a href="setscreen.svg"><img src="setscreen.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>settitlebar.svg</u><br>
-<a href="settitlebar.svg"><img src="settitlebar.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>shift.svg</u><br>
-<a href="shift.svg"><img src="shift.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>sort.svg</u><br>
-<a href="sort.svg"><img src="sort.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>split.svg</u><br>
-<a href="split.svg"><img src="split.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>start.svg</u><br>
-<a href="start.svg"><img src="start.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>static.svg</u><br>
-<a href="static.svg"><img src="static.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>submit.svg</u><br>
-<a href="submit.svg"><img src="submit.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>subtract.svg</u><br>
-<a href="subtract.svg"><img src="subtract.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>syntaxcheck.svg</u><br>
-<a href="syntaxcheck.svg"><img src="syntaxcheck.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>tables.svg</u><br>
-<a href="tables.svg"><img src="tables.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>transfer.svg</u><br>
-<a href="transfer.svg"><img src="transfer.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>translate.svg</u><br>
-<a href="translate.svg"><img src="translate.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>try.svg</u><br>
-<a href="try.svg"><img src="try.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>type.svg</u><br>
-<a href="type.svg"><img src="type.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>typepool.svg</u><br>
-<a href="typepool.svg"><img src="typepool.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>typepools.svg</u><br>
-<a href="typepools.svg"><img src="typepools.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>unassign.svg</u><br>
-<a href="unassign.svg"><img src="unassign.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>unpack.svg</u><br>
-<a href="unpack.svg"><img src="unpack.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>updatedatabase.svg</u><br>
-<a href="updatedatabase.svg"><img src="updatedatabase.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>wait.svg</u><br>
-<a href="wait.svg"><img src="wait.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>when.svg</u><br>
-<a href="when.svg"><img src="when.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>while.svg</u><br>
-<a href="while.svg"><img src="while.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>write.svg</u><br>
-<a href="write.svg"><img src="write.svg" width="300"></a><br><br>
-</div>
-<div style="clear:both;">
-<h1>Reuse</h1>
-<div style="float:left;text-align:center;"><u>reuse_arith_operator.svg</u><br>
-<a href="reuse_arith_operator.svg"><img src="reuse_arith_operator.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_arrow.svg</u><br>
-<a href="reuse_arrow.svg"><img src="reuse_arrow.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_arrow_or_dash.svg</u><br>
-<a href="reuse_arrow_or_dash.svg"><img src="reuse_arrow_or_dash.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_class_name.svg</u><br>
-<a href="reuse_class_name.svg"><img src="reuse_class_name.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_compare.svg</u><br>
-<a href="reuse_compare.svg"><img src="reuse_compare.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_cond.svg</u><br>
-<a href="reuse_cond.svg"><img src="reuse_cond.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_constant.svg</u><br>
-<a href="reuse_constant.svg"><img src="reuse_constant.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_database_field.svg</u><br>
-<a href="reuse_database_field.svg"><img src="reuse_database_field.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_database_table.svg</u><br>
-<a href="reuse_database_table.svg"><img src="reuse_database_table.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_dynamic.svg</u><br>
-<a href="reuse_dynamic.svg"><img src="reuse_dynamic.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field.svg</u><br>
-<a href="reuse_field.svg"><img src="reuse_field.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_chain.svg</u><br>
-<a href="reuse_field_chain.svg"><img src="reuse_field_chain.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_length.svg</u><br>
-<a href="reuse_field_length.svg"><img src="reuse_field_length.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_offset.svg</u><br>
-<a href="reuse_field_offset.svg"><img src="reuse_field_offset.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_or_method_call.svg</u><br>
-<a href="reuse_field_or_method_call.svg"><img src="reuse_field_or_method_call.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_sub.svg</u><br>
-<a href="reuse_field_sub.svg"><img src="reuse_field_sub.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_field_symbol.svg</u><br>
-<a href="reuse_field_symbol.svg"><img src="reuse_field_symbol.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_form_name.svg</u><br>
-<a href="reuse_form_name.svg"><img src="reuse_form_name.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_function_parameters.svg</u><br>
-<a href="reuse_function_parameters.svg"><img src="reuse_function_parameters.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_inline_data.svg</u><br>
-<a href="reuse_inline_data.svg"><img src="reuse_inline_data.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_inline_decl.svg</u><br>
-<a href="reuse_inline_decl.svg"><img src="reuse_inline_decl.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_inline_fs.svg</u><br>
-<a href="reuse_inline_fs.svg"><img src="reuse_inline_fs.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_integer.svg</u><br>
-<a href="reuse_integer.svg"><img src="reuse_integer.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_method_call.svg</u><br>
-<a href="reuse_method_call.svg"><img src="reuse_method_call.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_method_call_chain.svg</u><br>
-<a href="reuse_method_call_chain.svg"><img src="reuse_method_call_chain.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_method_name.svg</u><br>
-<a href="reuse_method_name.svg"><img src="reuse_method_name.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_method_parameters.svg</u><br>
-<a href="reuse_method_parameters.svg"><img src="reuse_method_parameters.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_exception.svg</u><br>
-<a href="reuse_parameter_exception.svg"><img src="reuse_parameter_exception.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_list_exceptions.svg</u><br>
-<a href="reuse_parameter_list_exceptions.svg"><img src="reuse_parameter_list_exceptions.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_list_s.svg</u><br>
-<a href="reuse_parameter_list_s.svg"><img src="reuse_parameter_list_s.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_list_t.svg</u><br>
-<a href="reuse_parameter_list_t.svg"><img src="reuse_parameter_list_t.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_s.svg</u><br>
-<a href="reuse_parameter_s.svg"><img src="reuse_parameter_s.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_parameter_t.svg</u><br>
-<a href="reuse_parameter_t.svg"><img src="reuse_parameter_t.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_pass_byvalue.svg</u><br>
-<a href="reuse_pass_byvalue.svg"><img src="reuse_pass_byvalue.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_source.svg</u><br>
-<a href="reuse_source.svg"><img src="reuse_source.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_string_template.svg</u><br>
-<a href="reuse_string_template.svg"><img src="reuse_string_template.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_table_body.svg</u><br>
-<a href="reuse_table_body.svg"><img src="reuse_table_body.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_target.svg</u><br>
-<a href="reuse_target.svg"><img src="reuse_target.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_type.svg</u><br>
-<a href="reuse_type.svg"><img src="reuse_type.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_type_name.svg</u><br>
-<a href="reuse_type_name.svg"><img src="reuse_type_name.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_type_table.svg</u><br>
-<a href="reuse_type_table.svg"><img src="reuse_type_table.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_typename.svg</u><br>
-<a href="reuse_typename.svg"><img src="reuse_typename.svg" width="300"></a><br><br>
-</div>
-<div style="float:left;text-align:center;"><u>reuse_value.svg</u><br>
-<a href="reuse_value.svg"><img src="reuse_value.svg" width="300"></a><br><br>
-</div>
-</div>
+
+<div>
+<div id="mySidenav" class="sidenav">
+<h3>abaplint</h3>
+<input type="text" id="filter" oninput="javascript:inputChanged();" onfocus="javascript:focusFilter()"></input><br>
+<br>
+<b>Statements</b><br>
+<div id="sidenav_statements">Loading</div>
+<b>Reuse</b><br>
+<div id="sidenav_reuse">Loading</div>
+</div>
+
+<div id="main" class="main">Loading</div>
+
+<script language="javascript">
+let json = {};
+
+function focusFilter() {
+  document.getElementById("filter").select();
+}
+
+function inputChanged() {
+  renderMain(document.getElementById('filter').value);
+}
+
+function setFilter(filter) {
+  document.getElementById('filter').value = filter;
+  renderMain(filter);
+}
+
+function renderSidenav() {
+  let html = "";
+  
+  for(let i of json.statements) {
+    html = html + "<a href=\"javascript:setFilter('" + i + "');\">" + i + "</a><br>";
+  }
+  html = html + "<br>";
+  document.getElementById("sidenav_statements").innerHTML = html;
+  
+  html = "";
+  for(let i of json.reuse) {
+    html = html + "<a href=\"javascript:setFilter('" + i.substring(6) + "');\">" + i.substring(6) + "</a><br>";
+  }
+  document.getElementById("sidenav_reuse").innerHTML = html;
+}
+
+function renderMain(filter) {
+  let html = "";
+  
+  let statements = "";
+  for(let i of json.statements) {
+    if (!filter || i.toLowerCase().startsWith(filter.toLowerCase())) {
+      statements = statements + "<u>" + i.toUpperCase() + "</u><br>" + 
+        "<a href=\"" + i + ".svg\"><img src=\"" + i + ".svg\"></a><br>";
+    }
+  }
+  if (statements !== "") {
+    html = "<h1>Statements</h1>" + statements;
+  }
+
+  let reuse = "";
+  for(let i of json.reuse) {
+    if (!filter || i.substring(6).toLowerCase().startsWith(filter.toLowerCase())) {
+      reuse = reuse + "<u>" + i.substring(6).toUpperCase() + "</u><br>" + 
+        "<a href=\"" + i + ".svg\"><img src=\"" + i + ".svg\"></a><br>";
+    }
+  }
+  if (reuse !== "") {
+    html = html + "<h1>Reuse</h1>" + reuse;
+  }
+
+  document.getElementById("main").innerHTML = html;
+}
+
+function render() {
+  renderSidenav();
+  renderMain();
+}
+
+function handler(evt) {
+  if (evt.target.status === 200) {
+    json = JSON.parse(evt.target.responseText);
+    render();
+  } else {
+    alert("REST call failed, status: " + evt.target.status);
+  }
+}
+
+function run() {
+  document.getElementById("filter").focus();
+  
+  let oReq = new XMLHttpRequest();
+  oReq.addEventListener("load", handler);
+  oReq.open("GET", "./data.json");
+  oReq.send();
+}
+
+run();
+</script>
 </body>
 </html>

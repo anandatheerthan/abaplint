@@ -56,10 +56,10 @@ cursor: help;
 <path d="M420 40h0"></path>
 <path d="M144 40h20"></path>
 <g class="non-terminal">
-<path d="M164 40h84"></path>
-<path d="M316 40h84"></path>
-<rect x="248" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="282" y="44">source</text>
+<path d="M164 40h0"></path>
+<path d="M232 40h168"></path>
+<rect x="164" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="198" y="44">source</text>
 </a>
 </g>
 <path d="M400 40h20"></path>
@@ -173,10 +173,10 @@ cursor: help;
 <path d="M1036 40h10"></path>
 <path d="M706 40v29a10 10 0 0 0 10 10"></path>
 <g class="terminal">
-<path d="M716 79h102"></path>
-<path d="M934 79h102"></path>
-<rect x="818" y="68" width="116" height="22" rx="10" ry="10"></rect>
-<text x="876" y="83">"AND RETURN"</text>
+<path d="M716 79h0"></path>
+<path d="M832 79h204"></path>
+<rect x="716" y="68" width="116" height="22" rx="10" ry="10"></rect>
+<text x="774" y="83">"AND RETURN"</text>
 </g>
 <path d="M1036 79a10 10 0 0 0 10 -10v-29"></path>
 <g class="diagram-text">

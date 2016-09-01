@@ -45,10 +45,10 @@ cursor: help;
 <path d="M236 31h0"></path>
 <path d="M40 31h20"></path>
 <g class="terminal">
-<path d="M60 31h16"></path>
-<path d="M200 31h16"></path>
-<rect x="76" y="20" width="124" height="22" rx="10" ry="10"></rect>
-<text x="138" y="35">"BREAK-POINT"</text>
+<path d="M60 31h0"></path>
+<path d="M184 31h32"></path>
+<rect x="60" y="20" width="124" height="22" rx="10" ry="10"></rect>
+<text x="122" y="35">"BREAK-POINT"</text>
 </g>
 <path d="M216 31h20"></path>
 <path d="M40 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>

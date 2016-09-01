@@ -56,10 +56,10 @@ cursor: help;
 <path d="M402 48h0"></path>
 <path d="M144 48h20"></path>
 <g class="terminal">
-<path d="M164 48h43"></path>
-<path d="M339 48h43"></path>
-<rect x="207" y="37" width="132" height="22" rx="10" ry="10"></rect>
-<text x="273" y="52">"INITIAL LINE"</text>
+<path d="M164 48h0"></path>
+<path d="M296 48h86"></path>
+<rect x="164" y="37" width="132" height="22" rx="10" ry="10"></rect>
+<text x="230" y="52">"INITIAL LINE"</text>
 </g>
 <path d="M382 48h20"></path>
 <path d="M144 48a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
@@ -136,21 +136,21 @@ cursor: help;
 <path d="M868 48h0"></path>
 <path d="M592 48h20"></path>
 <g>
-<path d="M612 48h20"></path>
-<path d="M828 48h20"></path>
+<path d="M612 48h0"></path>
+<path d="M808 48h40"></path>
 <g class="terminal">
-<path d="M632 48h0"></path>
-<path d="M740 48h0"></path>
-<rect x="632" y="37" width="108" height="22" rx="10" ry="10"></rect>
-<text x="686" y="52">"ASSIGNING"</text>
+<path d="M612 48h0"></path>
+<path d="M720 48h0"></path>
+<rect x="612" y="37" width="108" height="22" rx="10" ry="10"></rect>
+<text x="666" y="52">"ASSIGNING"</text>
 </g>
-<path d="M740 48h10"></path>
-<path d="M750 48h10"></path>
+<path d="M720 48h10"></path>
+<path d="M730 48h10"></path>
 <g class="non-terminal">
-<path d="M760 48h0"></path>
-<path d="M828 48h0"></path>
-<rect x="760" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="794" y="52">target</text>
+<path d="M740 48h0"></path>
+<path d="M808 48h0"></path>
+<rect x="740" y="37" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="774" y="52">target</text>
 </a>
 </g>
 </g>

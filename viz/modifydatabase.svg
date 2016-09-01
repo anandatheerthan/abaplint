@@ -56,10 +56,10 @@ cursor: help;
 <path d="M260 48h0"></path>
 <path d="M144 48h20"></path>
 <g class="non-terminal">
-<path d="M164 48h8"></path>
-<path d="M232 48h8"></path>
-<rect x="172" y="37" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="202" y="52">field</text>
+<path d="M164 48h0"></path>
+<path d="M224 48h16"></path>
+<rect x="164" y="37" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="194" y="52">field</text>
 </a>
 </g>
 <path d="M240 48h20"></path>

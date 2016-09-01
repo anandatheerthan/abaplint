@@ -65,10 +65,10 @@ cursor: help;
 <path d="M376 40h0"></path>
 <path d="M172 40h20"></path>
 <g class="terminal">
-<path d="M192 40h4"></path>
-<path d="M352 40h4"></path>
-<rect x="196" y="29" width="156" height="22" rx="10" ry="10"></rect>
-<text x="274" y="44">"ALL OCCURRENCES"</text>
+<path d="M192 40h0"></path>
+<path d="M348 40h8"></path>
+<rect x="192" y="29" width="156" height="22" rx="10" ry="10"></rect>
+<text x="270" y="44">"ALL OCCURRENCES"</text>
 </g>
 <path d="M356 40h20"></path>
 <path d="M172 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>

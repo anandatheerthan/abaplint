@@ -111,22 +111,22 @@ cursor: help;
 <path d="M656 31h20"></path>
 <path d="M472 31a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M492 61h38"></path>
-<path d="M618 61h38"></path>
-<path d="M530 61h10"></path>
+<path d="M492 61h0"></path>
+<path d="M580 61h76"></path>
+<path d="M492 61h10"></path>
 <g class="non-terminal">
-<path d="M540 61h0"></path>
-<path d="M608 61h0"></path>
-<rect x="540" y="50" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="574" y="65">target</text>
+<path d="M502 61h0"></path>
+<path d="M570 61h0"></path>
+<rect x="502" y="50" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="536" y="65">target</text>
 </a>
 </g>
-<path d="M608 61h10"></path>
-<path d="M540 61a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M570 61h10"></path>
+<path d="M502 61a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M540 81h68"></path>
+<path d="M502 81h68"></path>
 </g>
-<path d="M608 81a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+<path d="M570 81a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
 </g>
 <path d="M656 61a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
