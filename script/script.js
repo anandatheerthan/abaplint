@@ -81,7 +81,7 @@ function issues() {
   let output = "";
   for (let issue of json) {
     output = output +
-      "<div onmouseover=\"javascript:markLine('" + issue.start.row + "');\">" +
+      "<div onmouseover=\"javascript:markLine(" + issue.start.row + ", " + issue.start.col + ");\">" +
       "[" + issue.start.row + ", "+ issue.start.col + "] " +
       issue.description +
       "</div>\n";
@@ -124,7 +124,7 @@ function markLine(line, col, eline, ecol) {
   editor.scrollIntoView({line: line - 1, ch: 0}, 200);
 }
 
-function initEditor() {
+function run() {
   editor = CodeMirror.fromTextArea(document.getElementById("input"), {
     lineNumbers: true,
     mode: "javascript",
@@ -133,6 +133,8 @@ function initEditor() {
     styleSelectedText: true,
     mode: "abap"
   });
+  
+  document.getElementById("abaplintver").innerHTML = abaplint.Runner.version();
 }
 
-initEditor();
+run();
