@@ -159,7 +159,7 @@ cursor: help;
 <path d="M542 48h0"></path>
 <path d="M610 48h0"></path>
 <rect x="542" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="576" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="576" y="52">Source</text>
 </a>
 </g>
 <path d="M610 48h20"></path>
@@ -192,7 +192,7 @@ cursor: help;
 <path d="M866 48h0"></path>
 <path d="M934 48h0"></path>
 <rect x="866" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="900" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="900" y="52">Source</text>
 </a>
 </g>
 </g>
@@ -213,7 +213,7 @@ cursor: help;
 <path d="M762 78h0"></path>
 <path d="M830 78h0"></path>
 <rect x="762" y="67" width="68" height="22"></rect>
-<a xlink:href="reuse_Target.svg"><text x="796" y="82">Target</text>
+<a xlink:href="reuse_target.svg"><text x="796" y="82">Target</text>
 </a>
 </g>
 </g>
@@ -266,7 +266,7 @@ cursor: help;
 <path d="M778 228h0"></path>
 <path d="M846 228h0"></path>
 <rect x="778" y="217" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="812" y="232">Source</text>
+<a xlink:href="reuse_source.svg"><text x="812" y="232">Source</text>
 </a>
 </g>
 </g>
@@ -287,7 +287,7 @@ cursor: help;
 <path d="M810 258h0"></path>
 <path d="M878 258h0"></path>
 <rect x="810" y="247" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="844" y="262">Source</text>
+<a xlink:href="reuse_source.svg"><text x="844" y="262">Source</text>
 </a>
 </g>
 </g>
@@ -325,7 +325,7 @@ cursor: help;
 <path d="M870 297h0"></path>
 <path d="M938 297h0"></path>
 <rect x="870" y="286" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="904" y="301">Source</text>
+<a xlink:href="reuse_source.svg"><text x="904" y="301">Source</text>
 </a>
 </g>
 <path d="M938 297h10"></path>
@@ -364,7 +364,7 @@ cursor: help;
 <path d="M810 327h0"></path>
 <path d="M878 327h0"></path>
 <rect x="810" y="316" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="844" y="331">Source</text>
+<a xlink:href="reuse_source.svg"><text x="844" y="331">Source</text>
 </a>
 </g>
 </g>

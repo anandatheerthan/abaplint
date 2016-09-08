@@ -86,7 +86,7 @@ cursor: help;
 <path d="M212 91h0"></path>
 <path d="M296 91h0"></path>
 <rect x="212" y="80" width="84" height="22"></rect>
-<a xlink:href="reuse_FieldSub.svg"><text x="254" y="95">FieldSub</text>
+<a xlink:href="reuse_fieldsub.svg"><text x="254" y="95">FieldSub</text>
 </a>
 </g>
 </g>
@@ -107,7 +107,7 @@ cursor: help;
 <path d="M236 121h0"></path>
 <path d="M320 121h0"></path>
 <rect x="236" y="110" width="84" height="22"></rect>
-<a xlink:href="reuse_FieldSub.svg"><text x="278" y="125">FieldSub</text>
+<a xlink:href="reuse_fieldsub.svg"><text x="278" y="125">FieldSub</text>
 </a>
 </g>
 </g>

@@ -78,7 +78,7 @@ cursor: help;
 <path d="M244 40h0"></path>
 <path d="M344 40h0"></path>
 <rect x="244" y="29" width="100" height="22"></rect>
-<a xlink:href="reuse_FieldChain.svg"><text x="294" y="44">FieldChain</text>
+<a xlink:href="reuse_fieldchain.svg"><text x="294" y="44">FieldChain</text>
 </a>
 </g>
 <path d="M344 40h20"></path>
@@ -87,7 +87,7 @@ cursor: help;
 <path d="M244 70h0"></path>
 <path d="M320 70h24"></path>
 <rect x="244" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="282" y="74">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="282" y="74">Dynamic</text>
 </a>
 </g>
 <path d="M344 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -97,7 +97,7 @@ cursor: help;
 <path d="M374 40h0"></path>
 <path d="M434 40h0"></path>
 <rect x="374" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_Arrow.svg"><text x="404" y="44">Arrow</text>
+<a xlink:href="reuse_arrow.svg"><text x="404" y="44">Arrow</text>
 </a>
 </g>
 </g>
@@ -111,7 +111,7 @@ cursor: help;
 <path d="M474 40h0"></path>
 <path d="M574 40h0"></path>
 <rect x="474" y="29" width="100" height="22"></rect>
-<a xlink:href="reuse_MethodName.svg"><text x="524" y="44">MethodName</text>
+<a xlink:href="reuse_methodname.svg"><text x="524" y="44">MethodName</text>
 </a>
 </g>
 <path d="M574 40h20"></path>
@@ -120,7 +120,7 @@ cursor: help;
 <path d="M474 70h0"></path>
 <path d="M550 70h24"></path>
 <rect x="474" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="512" y="74">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="512" y="74">Dynamic</text>
 </a>
 </g>
 <path d="M574 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -149,7 +149,7 @@ cursor: help;
 <path d="M698 40h0"></path>
 <path d="M766 40h80"></path>
 <rect x="698" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="732" y="44">Source</text>
+<a xlink:href="reuse_source.svg"><text x="732" y="44">Source</text>
 </a>
 </g>
 <path d="M846 40h20"></path>
@@ -158,7 +158,7 @@ cursor: help;
 <path d="M698 70h0"></path>
 <path d="M830 70h16"></path>
 <rect x="698" y="59" width="132" height="22"></rect>
-<a xlink:href="reuse_ParameterListS.svg"><text x="764" y="74">ParameterListS</text>
+<a xlink:href="reuse_parameterlists.svg"><text x="764" y="74">ParameterListS</text>
 </a>
 </g>
 <path d="M846 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -167,7 +167,7 @@ cursor: help;
 <path d="M698 100h0"></path>
 <path d="M846 100h0"></path>
 <rect x="698" y="89" width="148" height="22"></rect>
-<a xlink:href="reuse_MethodParameters.svg"><text x="772" y="104">MethodParameters</text>
+<a xlink:href="reuse_methodparameters.svg"><text x="772" y="104">MethodParameters</text>
 </a>
 </g>
 <path d="M846 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
@@ -186,7 +186,7 @@ cursor: help;
 <path d="M624 130h0"></path>
 <path d="M772 130h148"></path>
 <rect x="624" y="119" width="148" height="22"></rect>
-<a xlink:href="reuse_MethodParameters.svg"><text x="698" y="134">MethodParameters</text>
+<a xlink:href="reuse_methodparameters.svg"><text x="698" y="134">MethodParameters</text>
 </a>
 </g>
 <path d="M920 130a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
@@ -206,7 +206,7 @@ cursor: help;
 <path d="M800 160h0"></path>
 <path d="M868 160h0"></path>
 <rect x="800" y="149" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="834" y="164">Source</text>
+<a xlink:href="reuse_source.svg"><text x="834" y="164">Source</text>
 </a>
 </g>
 </g>
@@ -219,7 +219,7 @@ cursor: help;
 <path d="M60 190h0"></path>
 <path d="M200 190h740"></path>
 <rect x="60" y="179" width="140" height="22"></rect>
-<a xlink:href="reuse_MethodCallChain.svg"><text x="130" y="194">MethodCallChain</text>
+<a xlink:href="reuse_methodcallchain.svg"><text x="130" y="194">MethodCallChain</text>
 </a>
 </g>
 <path d="M940 190a10 10 0 0 0 10 -10v-130a10 10 0 0 1 10 -10"></path>

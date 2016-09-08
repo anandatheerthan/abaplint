@@ -67,7 +67,7 @@ cursor: help;
 <path d="M252 40h0"></path>
 <path d="M328 40h48"></path>
 <rect x="252" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="290" y="44">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="290" y="44">Dynamic</text>
 </a>
 </g>
 <path d="M376 40h20"></path>
@@ -76,7 +76,7 @@ cursor: help;
 <path d="M252 70h0"></path>
 <path d="M376 70h0"></path>
 <rect x="252" y="59" width="124" height="22"></rect>
-<a xlink:href="reuse_DatabaseTable.svg"><text x="314" y="74">DatabaseTable</text>
+<a xlink:href="reuse_databasetable.svg"><text x="314" y="74">DatabaseTable</text>
 </a>
 </g>
 <path d="M376 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -108,7 +108,7 @@ cursor: help;
 <path d="M522 40h0"></path>
 <path d="M574 40h24"></path>
 <rect x="522" y="29" width="52" height="22"></rect>
-<a xlink:href="reuse_Cond.svg"><text x="548" y="44">Cond</text>
+<a xlink:href="reuse_cond.svg"><text x="548" y="44">Cond</text>
 </a>
 </g>
 <path d="M598 40h20"></path>
@@ -117,7 +117,7 @@ cursor: help;
 <path d="M522 70h0"></path>
 <path d="M598 70h0"></path>
 <rect x="522" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="560" y="74">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="560" y="74">Dynamic</text>
 </a>
 </g>
 <path d="M598 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>

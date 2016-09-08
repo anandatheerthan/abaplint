@@ -56,7 +56,7 @@ cursor: help;
 <path d="M210 31h0"></path>
 <path d="M270 31h0"></path>
 <rect x="210" y="20" width="60" height="22"></rect>
-<a xlink:href="reuse_Field.svg"><text x="240" y="35">Field</text>
+<a xlink:href="reuse_field.svg"><text x="240" y="35">Field</text>
 </a>
 </g>
 </g>

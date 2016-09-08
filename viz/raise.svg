@@ -59,7 +59,7 @@ cursor: help;
 <path d="M156 31h0"></path>
 <path d="M216 31h578"></path>
 <rect x="156" y="20" width="60" height="22"></rect>
-<a xlink:href="reuse_Field.svg"><text x="186" y="35">Field</text>
+<a xlink:href="reuse_field.svg"><text x="186" y="35">Field</text>
 </a>
 </g>
 <path d="M794 31h20"></path>
@@ -96,7 +96,7 @@ cursor: help;
 <path d="M392 70h0"></path>
 <path d="M484 70h0"></path>
 <rect x="392" y="59" width="92" height="22"></rect>
-<a xlink:href="reuse_ClassName.svg"><text x="438" y="74">ClassName</text>
+<a xlink:href="reuse_classname.svg"><text x="438" y="74">ClassName</text>
 </a>
 </g>
 <path d="M484 70h10"></path>
@@ -124,7 +124,7 @@ cursor: help;
 <path d="M642 70h0"></path>
 <path d="M774 70h0"></path>
 <rect x="642" y="59" width="132" height="22"></rect>
-<a xlink:href="reuse_ParameterListS.svg"><text x="708" y="74">ParameterListS</text>
+<a xlink:href="reuse_parameterlists.svg"><text x="708" y="74">ParameterListS</text>
 </a>
 </g>
 </g>

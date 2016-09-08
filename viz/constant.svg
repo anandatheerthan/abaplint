@@ -91,7 +91,7 @@ cursor: help;
 <path d="M308 40h0"></path>
 <path d="M416 40h0"></path>
 <rect x="308" y="29" width="108" height="22"></rect>
-<a xlink:href="reuse_FieldLength.svg"><text x="362" y="44">FieldLength</text>
+<a xlink:href="reuse_fieldlength.svg"><text x="362" y="44">FieldLength</text>
 </a>
 </g>
 <path d="M416 40h20"></path>
@@ -109,7 +109,7 @@ cursor: help;
 <path d="M456 40h0"></path>
 <path d="M508 40h0"></path>
 <rect x="456" y="29" width="52" height="22"></rect>
-<a xlink:href="reuse_Type.svg"><text x="482" y="44">Type</text>
+<a xlink:href="reuse_type.svg"><text x="482" y="44">Type</text>
 </a>
 </g>
 <path d="M508 40h20"></path>
@@ -119,7 +119,7 @@ cursor: help;
 <path d="M538 40h0"></path>
 <path d="M598 40h0"></path>
 <rect x="538" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_Value.svg"><text x="568" y="44">Value</text>
+<a xlink:href="reuse_value.svg"><text x="568" y="44">Value</text>
 </a>
 </g>
 </g>

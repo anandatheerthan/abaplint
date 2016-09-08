@@ -59,7 +59,7 @@ cursor: help;
 <path d="M172 48h0"></path>
 <path d="M256 48h0"></path>
 <rect x="172" y="37" width="84" height="22"></rect>
-<a xlink:href="reuse_FormName.svg"><text x="214" y="52">FormName</text>
+<a xlink:href="reuse_formname.svg"><text x="214" y="52">FormName</text>
 </a>
 </g>
 <path d="M256 48h20"></path>
@@ -68,7 +68,7 @@ cursor: help;
 <path d="M172 78h0"></path>
 <path d="M248 78h8"></path>
 <rect x="172" y="67" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="210" y="82">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="210" y="82">Dynamic</text>
 </a>
 </g>
 <path d="M256 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -105,7 +105,7 @@ cursor: help;
 <path d="M442 48h0"></path>
 <path d="M502 48h0"></path>
 <rect x="442" y="37" width="60" height="22"></rect>
-<a xlink:href="reuse_Field.svg"><text x="472" y="52">Field</text>
+<a xlink:href="reuse_field.svg"><text x="472" y="52">Field</text>
 </a>
 </g>
 <path d="M502 48h20"></path>
@@ -158,7 +158,7 @@ cursor: help;
 <path d="M816 48h0"></path>
 <path d="M884 48h0"></path>
 <rect x="816" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="850" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="850" y="52">Source</text>
 </a>
 </g>
 <path d="M884 48h10"></path>
@@ -199,7 +199,7 @@ cursor: help;
 <path d="M1040 48h0"></path>
 <path d="M1108 48h0"></path>
 <rect x="1040" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="1074" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="1074" y="52">Source</text>
 </a>
 </g>
 <path d="M1108 48h10"></path>
@@ -240,7 +240,7 @@ cursor: help;
 <path d="M1288 48h0"></path>
 <path d="M1356 48h0"></path>
 <rect x="1288" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="1322" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="1322" y="52">Source</text>
 </a>
 </g>
 <path d="M1356 48h10"></path>

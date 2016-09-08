@@ -56,7 +56,7 @@ cursor: help;
 <path d="M154 40h0"></path>
 <path d="M238 40h0"></path>
 <rect x="154" y="29" width="84" height="22"></rect>
-<a xlink:href="reuse_FormName.svg"><text x="196" y="44">FormName</text>
+<a xlink:href="reuse_formname.svg"><text x="196" y="44">FormName</text>
 </a>
 </g>
 <path d="M238 40h10"></path>

@@ -111,7 +111,7 @@ cursor: help;
 <path d="M60 100h0"></path>
 <path d="M136 100h372"></path>
 <rect x="60" y="89" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="98" y="104">integer</text>
+<a xlink:href="reuse_integer.svg"><text x="98" y="104">Integer</text>
 </a>
 </g>
 <path d="M508 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>

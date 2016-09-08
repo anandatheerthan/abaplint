@@ -56,7 +56,7 @@ cursor: help;
 <path d="M138 48h0"></path>
 <path d="M222 48h0"></path>
 <rect x="138" y="37" width="84" height="22"></rect>
-<a xlink:href="reuse_FormName.svg"><text x="180" y="52">FormName</text>
+<a xlink:href="reuse_formname.svg"><text x="180" y="52">FormName</text>
 </a>
 </g>
 <path d="M222 48h10"></path>
@@ -111,7 +111,7 @@ cursor: help;
 <path d="M476 48h0"></path>
 <path d="M528 48h40"></path>
 <rect x="476" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_Type.svg"><text x="502" y="52">Type</text>
+<a xlink:href="reuse_type.svg"><text x="502" y="52">Type</text>
 </a>
 </g>
 <path d="M568 48h20"></path>
@@ -120,7 +120,7 @@ cursor: help;
 <path d="M476 78h0"></path>
 <path d="M568 78h0"></path>
 <rect x="476" y="67" width="92" height="22"></rect>
-<a xlink:href="reuse_TypeTable.svg"><text x="522" y="82">TypeTable</text>
+<a xlink:href="reuse_typetable.svg"><text x="522" y="82">TypeTable</text>
 </a>
 </g>
 <path d="M568 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -189,7 +189,7 @@ cursor: help;
 <path d="M874 48h0"></path>
 <path d="M926 48h40"></path>
 <rect x="874" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_Type.svg"><text x="900" y="52">Type</text>
+<a xlink:href="reuse_type.svg"><text x="900" y="52">Type</text>
 </a>
 </g>
 <path d="M966 48h20"></path>
@@ -198,7 +198,7 @@ cursor: help;
 <path d="M874 78h0"></path>
 <path d="M966 78h0"></path>
 <rect x="874" y="67" width="92" height="22"></rect>
-<a xlink:href="reuse_TypeTable.svg"><text x="920" y="82">TypeTable</text>
+<a xlink:href="reuse_typetable.svg"><text x="920" y="82">TypeTable</text>
 </a>
 </g>
 <path d="M966 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -267,7 +267,7 @@ cursor: help;
 <path d="M1296 48h0"></path>
 <path d="M1348 48h40"></path>
 <rect x="1296" y="37" width="52" height="22"></rect>
-<a xlink:href="reuse_Type.svg"><text x="1322" y="52">Type</text>
+<a xlink:href="reuse_type.svg"><text x="1322" y="52">Type</text>
 </a>
 </g>
 <path d="M1388 48h20"></path>
@@ -276,7 +276,7 @@ cursor: help;
 <path d="M1296 78h0"></path>
 <path d="M1388 78h0"></path>
 <rect x="1296" y="67" width="92" height="22"></rect>
-<a xlink:href="reuse_TypeTable.svg"><text x="1342" y="82">TypeTable</text>
+<a xlink:href="reuse_typetable.svg"><text x="1342" y="82">TypeTable</text>
 </a>
 </g>
 <path d="M1388 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -322,7 +322,7 @@ cursor: help;
 <path d="M1600 48h0"></path>
 <path d="M1692 48h0"></path>
 <rect x="1600" y="37" width="92" height="22"></rect>
-<a xlink:href="reuse_ClassName.svg"><text x="1646" y="52">ClassName</text>
+<a xlink:href="reuse_classname.svg"><text x="1646" y="52">ClassName</text>
 </a>
 </g>
 <path d="M1692 48h10"></path>

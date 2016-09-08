@@ -59,7 +59,7 @@ cursor: help;
 <path d="M164 40h0"></path>
 <path d="M288 40h0"></path>
 <rect x="164" y="29" width="124" height="22"></rect>
-<a xlink:href="reuse_DatabaseTable.svg"><text x="226" y="44">DatabaseTable</text>
+<a xlink:href="reuse_databasetable.svg"><text x="226" y="44">DatabaseTable</text>
 </a>
 </g>
 <path d="M288 40h20"></path>
@@ -68,7 +68,7 @@ cursor: help;
 <path d="M164 70h0"></path>
 <path d="M240 70h48"></path>
 <rect x="164" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="202" y="74">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="202" y="74">Dynamic</text>
 </a>
 </g>
 <path d="M288 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -106,7 +106,7 @@ cursor: help;
 <path d="M522 40h0"></path>
 <path d="M590 40h0"></path>
 <rect x="522" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="556" y="44">Source</text>
+<a xlink:href="reuse_source.svg"><text x="556" y="44">Source</text>
 </a>
 </g>
 </g>

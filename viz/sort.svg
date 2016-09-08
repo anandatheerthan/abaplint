@@ -56,7 +56,7 @@ cursor: help;
 <path d="M138 48h0"></path>
 <path d="M206 48h0"></path>
 <rect x="138" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Target.svg"><text x="172" y="52">Target</text>
+<a xlink:href="reuse_target.svg"><text x="172" y="52">Target</text>
 </a>
 </g>
 <path d="M206 48h10"></path>
@@ -143,7 +143,7 @@ cursor: help;
 <path d="M584 48h0"></path>
 <path d="M668 48h24"></path>
 <rect x="584" y="37" width="84" height="22"></rect>
-<a xlink:href="reuse_FieldSub.svg"><text x="626" y="52">FieldSub</text>
+<a xlink:href="reuse_fieldsub.svg"><text x="626" y="52">FieldSub</text>
 </a>
 </g>
 <path d="M692 48h20"></path>
@@ -152,7 +152,7 @@ cursor: help;
 <path d="M584 78h0"></path>
 <path d="M692 78h0"></path>
 <rect x="584" y="67" width="108" height="22"></rect>
-<a xlink:href="reuse_FieldSymbol.svg"><text x="638" y="82">FieldSymbol</text>
+<a xlink:href="reuse_fieldsymbol.svg"><text x="638" y="82">FieldSymbol</text>
 </a>
 </g>
 <path d="M692 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -219,7 +219,7 @@ cursor: help;
 <path d="M554 116h0"></path>
 <path d="M630 116h420"></path>
 <rect x="554" y="105" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="592" y="120">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="592" y="120">Dynamic</text>
 </a>
 </g>
 <path d="M1050 116a10 10 0 0 0 10 -10v-48a10 10 0 0 1 10 -10"></path>

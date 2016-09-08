@@ -66,7 +66,7 @@ cursor: help;
 <path d="M184 48h0"></path>
 <path d="M308 48h0"></path>
 <rect x="184" y="37" width="124" height="22"></rect>
-<a xlink:href="reuse_DatabaseTable.svg"><text x="246" y="52">DatabaseTable</text>
+<a xlink:href="reuse_databasetable.svg"><text x="246" y="52">DatabaseTable</text>
 </a>
 </g>
 <path d="M308 48h20"></path>
@@ -75,7 +75,7 @@ cursor: help;
 <path d="M184 78h0"></path>
 <path d="M260 78h48"></path>
 <rect x="184" y="67" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="222" y="82">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="222" y="82">Dynamic</text>
 </a>
 </g>
 <path d="M308 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -121,7 +121,7 @@ cursor: help;
 <path d="M552 48h0"></path>
 <path d="M620 48h0"></path>
 <rect x="552" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="586" y="52">Source</text>
+<a xlink:href="reuse_source.svg"><text x="586" y="52">Source</text>
 </a>
 </g>
 </g>
@@ -148,7 +148,7 @@ cursor: help;
 <path d="M262 108h0"></path>
 <path d="M386 108h0"></path>
 <rect x="262" y="97" width="124" height="22"></rect>
-<a xlink:href="reuse_DatabaseTable.svg"><text x="324" y="112">DatabaseTable</text>
+<a xlink:href="reuse_databasetable.svg"><text x="324" y="112">DatabaseTable</text>
 </a>
 </g>
 <path d="M386 108h20"></path>
@@ -157,7 +157,7 @@ cursor: help;
 <path d="M262 138h0"></path>
 <path d="M338 138h48"></path>
 <rect x="262" y="127" width="76" height="22"></rect>
-<a xlink:href="reuse_Dynamic.svg"><text x="300" y="142">Dynamic</text>
+<a xlink:href="reuse_dynamic.svg"><text x="300" y="142">Dynamic</text>
 </a>
 </g>
 <path d="M386 138a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
@@ -175,7 +175,7 @@ cursor: help;
 <path d="M520 108h0"></path>
 <path d="M588 108h0"></path>
 <rect x="520" y="97" width="68" height="22"></rect>
-<a xlink:href="reuse_Source.svg"><text x="554" y="112">Source</text>
+<a xlink:href="reuse_source.svg"><text x="554" y="112">Source</text>
 </a>
 </g>
 </g>
