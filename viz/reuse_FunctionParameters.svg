@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1648" height="71" viewBox="0 0 1648 71">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 30 v 20 m 0 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M1598 40h0"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M350 40h0"></path>
+<path d="M50 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M70 20h260"></path>
+</g>
+<path d="M330 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M50 40h20"></path>
+<g>
+<path d="M70 40h0"></path>
+<path d="M330 40h0"></path>
+<g class="terminal">
+<path d="M70 40h0"></path>
+<path d="M178 40h0"></path>
+<rect x="70" y="29" width="108" height="22" rx="10" ry="10"></rect>
+<text x="124" y="44">"EXPORTING"</text>
+</g>
+<path d="M178 40h10"></path>
+<path d="M188 40h10"></path>
+<g class="non-terminal">
+<path d="M198 40h0"></path>
+<path d="M330 40h0"></path>
+<rect x="198" y="29" width="132" height="22"></rect>
+<a xlink:href="reuse_ParameterListS.svg"><text x="264" y="44">ParameterListS</text>
+</a>
+</g>
+</g>
+<path d="M330 40h20"></path>
+</g>
+<g>
+<path d="M350 40h0"></path>
+<path d="M650 40h0"></path>
+<path d="M350 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M370 20h260"></path>
+</g>
+<path d="M630 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M350 40h20"></path>
+<g>
+<path d="M370 40h0"></path>
+<path d="M630 40h0"></path>
+<g class="terminal">
+<path d="M370 40h0"></path>
+<path d="M478 40h0"></path>
+<rect x="370" y="29" width="108" height="22" rx="10" ry="10"></rect>
+<text x="424" y="44">"IMPORTING"</text>
+</g>
+<path d="M478 40h10"></path>
+<path d="M488 40h10"></path>
+<g class="non-terminal">
+<path d="M498 40h0"></path>
+<path d="M630 40h0"></path>
+<rect x="498" y="29" width="132" height="22"></rect>
+<a xlink:href="reuse_ParameterListT.svg"><text x="564" y="44">ParameterListT</text>
+</a>
+</g>
+</g>
+<path d="M630 40h20"></path>
+</g>
+<g>
+<path d="M650 40h0"></path>
+<path d="M926 40h0"></path>
+<path d="M650 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M670 20h236"></path>
+</g>
+<path d="M906 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M650 40h20"></path>
+<g>
+<path d="M670 40h0"></path>
+<path d="M906 40h0"></path>
+<g class="terminal">
+<path d="M670 40h0"></path>
+<path d="M754 40h0"></path>
+<rect x="670" y="29" width="84" height="22" rx="10" ry="10"></rect>
+<text x="712" y="44">"TABLES"</text>
+</g>
+<path d="M754 40h10"></path>
+<path d="M764 40h10"></path>
+<g class="non-terminal">
+<path d="M774 40h0"></path>
+<path d="M906 40h0"></path>
+<rect x="774" y="29" width="132" height="22"></rect>
+<a xlink:href="reuse_ParameterListT.svg"><text x="840" y="44">ParameterListT</text>
+</a>
+</g>
+</g>
+<path d="M906 40h20"></path>
+</g>
+<g>
+<path d="M926 40h0"></path>
+<path d="M1218 40h0"></path>
+<path d="M926 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M946 20h252"></path>
+</g>
+<path d="M1198 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M926 40h20"></path>
+<g>
+<path d="M946 40h0"></path>
+<path d="M1198 40h0"></path>
+<g class="terminal">
+<path d="M946 40h0"></path>
+<path d="M1046 40h0"></path>
+<rect x="946" y="29" width="100" height="22" rx="10" ry="10"></rect>
+<text x="996" y="44">"CHANGING"</text>
+</g>
+<path d="M1046 40h10"></path>
+<path d="M1056 40h10"></path>
+<g class="non-terminal">
+<path d="M1066 40h0"></path>
+<path d="M1198 40h0"></path>
+<rect x="1066" y="29" width="132" height="22"></rect>
+<a xlink:href="reuse_ParameterListT.svg"><text x="1132" y="44">ParameterListT</text>
+</a>
+</g>
+</g>
+<path d="M1198 40h20"></path>
+</g>
+<g>
+<path d="M1218 40h0"></path>
+<path d="M1598 40h0"></path>
+<path d="M1218 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1238 20h340"></path>
+</g>
+<path d="M1578 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1218 40h20"></path>
+<g>
+<path d="M1238 40h0"></path>
+<path d="M1578 40h0"></path>
+<g class="terminal">
+<path d="M1238 40h0"></path>
+<path d="M1354 40h0"></path>
+<rect x="1238" y="29" width="116" height="22" rx="10" ry="10"></rect>
+<text x="1296" y="44">"EXCEPTIONS"</text>
+</g>
+<path d="M1354 40h10"></path>
+<path d="M1364 40h10"></path>
+<g class="non-terminal">
+<path d="M1374 40h0"></path>
+<path d="M1578 40h0"></path>
+<rect x="1374" y="29" width="204" height="22"></rect>
+<a xlink:href="reuse_ParameterListExceptions.svg"><text x="1476" y="44">ParameterListExceptions</text>
+</a>
+</g>
+</g>
+<path d="M1578 40h20"></path>
+</g>
+</g>
+<path d="M1598 40h10"></path>
+<path d="M 1608 40 h 20 m 0 -10 v 20"></path>
+</g>
+</svg>

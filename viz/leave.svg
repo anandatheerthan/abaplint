@@ -78,7 +78,7 @@ cursor: help;
 <path d="M324 61h0"></path>
 <path d="M392 61h0"></path>
 <rect x="324" y="50" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="358" y="65">source</text>
+<a xlink:href="reuse_Source.svg"><text x="358" y="65">Source</text>
 </a>
 </g>
 </g>
@@ -107,7 +107,7 @@ cursor: help;
 <path d="M284 121h0"></path>
 <path d="M360 121h0"></path>
 <rect x="284" y="110" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="322" y="125">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="322" y="125">Integer</text>
 </a>
 </g>
 </g>

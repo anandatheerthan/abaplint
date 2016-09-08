@@ -104,7 +104,7 @@ cursor: help;
 <path d="M522 40h0"></path>
 <path d="M590 40h0"></path>
 <rect x="522" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="556" y="44">source</text>
+<a xlink:href="reuse_Source.svg"><text x="556" y="44">Source</text>
 </a>
 </g>
 <path d="M590 40h10"></path>
@@ -138,7 +138,7 @@ cursor: help;
 <path d="M798 40h0"></path>
 <path d="M866 40h0"></path>
 <rect x="798" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="832" y="44">source</text>
+<a xlink:href="reuse_Source.svg"><text x="832" y="44">Source</text>
 </a>
 </g>
 <path d="M866 40h10"></path>
@@ -178,7 +178,7 @@ cursor: help;
 <path d="M1088 70h0"></path>
 <path d="M1156 70h0"></path>
 <rect x="1088" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1122" y="74">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1122" y="74">Target</text>
 </a>
 </g>
 </g>
@@ -199,7 +199,7 @@ cursor: help;
 <path d="M1080 100h0"></path>
 <path d="M1148 100h0"></path>
 <rect x="1080" y="89" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1114" y="104">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1114" y="104">Target</text>
 </a>
 </g>
 </g>
@@ -220,7 +220,7 @@ cursor: help;
 <path d="M1088 130h0"></path>
 <path d="M1156 130h0"></path>
 <rect x="1088" y="119" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1122" y="134">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1122" y="134">Target</text>
 </a>
 </g>
 </g>
@@ -241,7 +241,7 @@ cursor: help;
 <path d="M1048 160h0"></path>
 <path d="M1116 160h0"></path>
 <rect x="1048" y="149" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1082" y="164">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1082" y="164">Target</text>
 </a>
 </g>
 </g>
@@ -266,7 +266,7 @@ cursor: help;
 <path d="M1082 190h0"></path>
 <path d="M1150 190h0"></path>
 <rect x="1082" y="179" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1116" y="194">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1116" y="194">Target</text>
 </a>
 </g>
 <path d="M1150 190h10"></path>

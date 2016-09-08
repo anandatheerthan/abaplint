@@ -95,7 +95,7 @@ cursor: help;
 <path d="M544 40h0"></path>
 <path d="M620 40h0"></path>
 <rect x="544" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="582" y="44">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="582" y="44">Integer</text>
 </a>
 </g>
 <path d="M620 40h10"></path>
@@ -120,7 +120,7 @@ cursor: help;
 <path d="M714 40h0"></path>
 <path d="M782 40h0"></path>
 <rect x="714" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="748" y="44">source</text>
+<a xlink:href="reuse_Source.svg"><text x="748" y="44">Source</text>
 </a>
 </g>
 <path d="M782 40h20"></path>
@@ -149,7 +149,7 @@ cursor: help;
 <path d="M950 40h0"></path>
 <path d="M1010 40h0"></path>
 <rect x="950" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="980" y="44">field</text>
+<a xlink:href="reuse_Field.svg"><text x="980" y="44">Field</text>
 </a>
 </g>
 </g>
@@ -179,7 +179,7 @@ cursor: help;
 <path d="M1170 40h0"></path>
 <path d="M1230 40h0"></path>
 <rect x="1170" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="1200" y="44">field</text>
+<a xlink:href="reuse_Field.svg"><text x="1200" y="44">Field</text>
 </a>
 </g>
 </g>
@@ -203,7 +203,7 @@ cursor: help;
 <path d="M396 70h0"></path>
 <path d="M472 70h0"></path>
 <rect x="396" y="59" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="434" y="74">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="434" y="74">Integer</text>
 </a>
 </g>
 </g>
@@ -232,7 +232,7 @@ cursor: help;
 <path d="M342 109h0"></path>
 <path d="M418 109h0"></path>
 <rect x="342" y="98" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="380" y="113">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="380" y="113">Integer</text>
 </a>
 </g>
 <path d="M418 109h20"></path>
@@ -255,7 +255,7 @@ cursor: help;
 <path d="M364 139h0"></path>
 <path d="M440 139h0"></path>
 <rect x="364" y="128" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="402" y="143">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="402" y="143">Integer</text>
 </a>
 </g>
 </g>
@@ -340,7 +340,7 @@ cursor: help;
 <path d="M754 208h0"></path>
 <path d="M822 208h0"></path>
 <rect x="754" y="197" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="788" y="212">source</text>
+<a xlink:href="reuse_Source.svg"><text x="788" y="212">Source</text>
 </a>
 </g>
 </g>
@@ -364,7 +364,7 @@ cursor: help;
 <path d="M468 238h0"></path>
 <path d="M528 238h0"></path>
 <rect x="468" y="227" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="498" y="242">field</text>
+<a xlink:href="reuse_Field.svg"><text x="498" y="242">Field</text>
 </a>
 </g>
 <path d="M528 238h10"></path>
@@ -381,7 +381,7 @@ cursor: help;
 <path d="M628 238h0"></path>
 <path d="M704 238h0"></path>
 <rect x="628" y="227" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="666" y="242">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="666" y="242">Integer</text>
 </a>
 </g>
 <path d="M704 238h10"></path>
@@ -446,7 +446,7 @@ cursor: help;
 <path d="M420 367h0"></path>
 <path d="M496 367h0"></path>
 <rect x="420" y="356" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="458" y="371">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="458" y="371">Integer</text>
 </a>
 </g>
 <path d="M496 367h10"></path>
@@ -491,7 +491,7 @@ cursor: help;
 <path d="M794 367h0"></path>
 <path d="M862 367h0"></path>
 <rect x="794" y="356" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="828" y="371">source</text>
+<a xlink:href="reuse_Source.svg"><text x="828" y="371">Source</text>
 </a>
 </g>
 </g>
@@ -515,7 +515,7 @@ cursor: help;
 <path d="M404 397h0"></path>
 <path d="M480 397h0"></path>
 <rect x="404" y="386" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="442" y="401">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="442" y="401">Integer</text>
 </a>
 </g>
 </g>

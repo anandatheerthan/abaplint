@@ -121,7 +121,7 @@ cursor: help;
 <path d="M614 40h0"></path>
 <path d="M682 40h0"></path>
 <rect x="614" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="648" y="44">source</text>
+<a xlink:href="reuse_Source.svg"><text x="648" y="44">Source</text>
 </a>
 </g>
 <path d="M682 40h10"></path>
@@ -149,7 +149,7 @@ cursor: help;
 <path d="M784 40h0"></path>
 <path d="M852 40h0"></path>
 <rect x="784" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="818" y="44">target</text>
+<a xlink:href="reuse_Target.svg"><text x="818" y="44">Target</text>
 </a>
 </g>
 </g>
@@ -168,7 +168,7 @@ cursor: help;
 <path d="M970 40h0"></path>
 <path d="M1038 40h0"></path>
 <rect x="970" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="1004" y="44">source</text>
+<a xlink:href="reuse_Source.svg"><text x="1004" y="44">Source</text>
 </a>
 </g>
 <path d="M1038 40h10"></path>
@@ -196,7 +196,7 @@ cursor: help;
 <path d="M1156 40h0"></path>
 <path d="M1224 40h0"></path>
 <rect x="1156" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1190" y="44">target</text>
+<a xlink:href="reuse_Target.svg"><text x="1190" y="44">Target</text>
 </a>
 </g>
 </g>

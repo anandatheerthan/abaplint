@@ -64,7 +64,7 @@ cursor: help;
 <path d="M164 40h0"></path>
 <path d="M224 40h0"></path>
 <rect x="164" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="194" y="44">field</text>
+<a xlink:href="reuse_Field.svg"><text x="194" y="44">Field</text>
 </a>
 </g>
 <path d="M224 40h20"></path>
@@ -93,7 +93,7 @@ cursor: help;
 <path d="M392 40h0"></path>
 <path d="M468 40h0"></path>
 <rect x="392" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="430" y="44">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="430" y="44">Integer</text>
 </a>
 </g>
 </g>
@@ -140,7 +140,7 @@ cursor: help;
 <path d="M904 40h0"></path>
 <path d="M980 40h0"></path>
 <rect x="904" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="942" y="44">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="942" y="44">Integer</text>
 </a>
 </g>
 </g>
@@ -170,7 +170,7 @@ cursor: help;
 <path d="M1156 40h0"></path>
 <path d="M1232 40h0"></path>
 <rect x="1156" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="1194" y="44">integer</text>
+<a xlink:href="reuse_Integer.svg"><text x="1194" y="44">Integer</text>
 </a>
 </g>
 </g>
@@ -200,7 +200,7 @@ cursor: help;
 <path d="M1408 40h0"></path>
 <path d="M1468 40h0"></path>
 <rect x="1408" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="1438" y="44">field</text>
+<a xlink:href="reuse_Field.svg"><text x="1438" y="44">Field</text>
 </a>
 </g>
 </g>

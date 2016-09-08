@@ -56,7 +56,7 @@ cursor: help;
 <path d="M178 31h0"></path>
 <path d="M246 31h0"></path>
 <rect x="178" y="20" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="212" y="35">target</text>
+<a xlink:href="reuse_Target.svg"><text x="212" y="35">Target</text>
 </a>
 </g>
 <path d="M246 31h10"></path>
@@ -119,7 +119,7 @@ cursor: help;
 <path d="M372 91h0"></path>
 <path d="M440 91h0"></path>
 <rect x="372" y="80" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="406" y="95">source</text>
+<a xlink:href="reuse_Source.svg"><text x="406" y="95">Source</text>
 </a>
 </g>
 </g>

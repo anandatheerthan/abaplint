@@ -78,7 +78,7 @@ cursor: help;
 <path d="M260 61h0"></path>
 <path d="M320 61h0"></path>
 <rect x="260" y="50" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="290" y="65">field</text>
+<a xlink:href="reuse_Field.svg"><text x="290" y="65">Field</text>
 </a>
 </g>
 </g>
