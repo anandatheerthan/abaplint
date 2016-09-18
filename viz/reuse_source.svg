@@ -253,21 +253,20 @@ cursor: help;
 <path d="M538 40h20"></path>
 <g>
 <path d="M558 40h0"></path>
-<path d="M682 40h118"></path>
-<g class="non-terminal">
-<path d="M558 40h0"></path>
-<path d="M618 40h0"></path>
-<rect x="558" y="29" width="60" height="22"></rect>
-<a xlink:href="reuse_arrow.svg"><text x="588" y="44">Arrow</text>
-</a>
-</g>
-<path d="M618 40h10"></path>
-<path d="M628 40h10"></path>
+<path d="M706 40h94"></path>
 <g class="terminal">
-<path d="M638 40h0"></path>
-<path d="M682 40h0"></path>
-<rect x="638" y="29" width="44" height="22" rx="10" ry="10"></rect>
-<text x="660" y="44">"&#42;"</text>
+<path d="M558 40h0"></path>
+<path d="M642 40h0"></path>
+<rect x="558" y="29" width="84" height="22" rx="10" ry="10"></rect>
+<text x="600" y="44">!"->/=>"</text>
+</g>
+<path d="M642 40h10"></path>
+<path d="M652 40h10"></path>
+<g class="terminal">
+<path d="M662 40h0"></path>
+<path d="M706 40h0"></path>
+<rect x="662" y="29" width="44" height="22" rx="10" ry="10"></rect>
+<text x="684" y="44">"&#42;"</text>
 </g>
 </g>
 <path d="M800 40h20"></path>
