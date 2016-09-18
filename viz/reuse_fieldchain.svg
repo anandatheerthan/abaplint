@@ -104,9 +104,9 @@ cursor: help;
 <path d="M374 40h20"></path>
 <g class="non-terminal">
 <path d="M394 40h0"></path>
-<path d="M478 40h148"></path>
-<rect x="394" y="29" width="84" height="22"></rect>
-<a xlink:href="reuse_constant.svg"><text x="436" y="44">Constant</text>
+<path d="M462 40h164"></path>
+<rect x="394" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="428" y="44">Source</text>
 </a>
 </g>
 <path d="M626 40h20"></path>

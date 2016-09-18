@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1078" height="319" viewBox="0 0 1078 319">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1078" height="349" viewBox="0 0 1078 349">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -183,6 +183,35 @@ cursor: help;
 <text x="298" y="292">"LEFT"</text>
 </g>
 <path d="M736 288a10 10 0 0 0 10 -10v-220a10 10 0 0 1 10 -10"></path>
+<path d="M244 48a10 10 0 0 1 10 10v250a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M264 318h0"></path>
+<path d="M548 318h188"></path>
+<g class="terminal">
+<path d="M264 318h0"></path>
+<path d="M316 318h0"></path>
+<rect x="264" y="307" width="52" height="22" rx="10" ry="10"></rect>
+<text x="290" y="322">"BY"</text>
+</g>
+<path d="M316 318h10"></path>
+<path d="M326 318h10"></path>
+<g class="non-terminal">
+<path d="M336 318h0"></path>
+<path d="M404 318h0"></path>
+<rect x="336" y="307" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="370" y="322">Source</text>
+</a>
+</g>
+<path d="M404 318h10"></path>
+<path d="M414 318h10"></path>
+<g class="terminal">
+<path d="M424 318h0"></path>
+<path d="M548 318h0"></path>
+<rect x="424" y="307" width="124" height="22" rx="10" ry="10"></rect>
+<text x="486" y="322">"PLACES LEFT"</text>
+</g>
+</g>
+<path d="M736 318a10 10 0 0 0 10 -10v-250a10 10 0 0 1 10 -10"></path>
 </g>
 <g>
 <path d="M756 48h0"></path>

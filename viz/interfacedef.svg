@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="630" height="101" viewBox="0 0 630 101">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="630" height="131" viewBox="0 0 630 131">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -101,6 +101,14 @@ cursor: help;
 <text x="394" y="74">"ALL METHODS ABSTRACT"</text>
 </g>
 <path d="M540 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M276 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M296 100h0"></path>
+<path d="M500 100h40"></path>
+<rect x="296" y="89" width="204" height="22" rx="10" ry="10"></rect>
+<text x="398" y="104">"PARTIALLY IMPLEMENTED"</text>
+</g>
+<path d="M540 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M560 40h20"></path>
 </g>

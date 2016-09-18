@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1570" height="523" viewBox="0 0 1570 523">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1570" height="553" viewBox="0 0 1570 553">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -633,6 +633,14 @@ cursor: help;
 </g>
 </g>
 <path d="M1490 492a10 10 0 0 0 10 -10v-442"></path>
+<path d="M858 40v472a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M868 522h0"></path>
+<path d="M1032 522h458"></path>
+<rect x="868" y="511" width="164" height="22" rx="10" ry="10"></rect>
+<text x="950" y="526">"CLIENT SPECIFIED"</text>
+</g>
+<path d="M1490 522a10 10 0 0 0 10 -10v-472"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 858 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
