@@ -1,4 +1,3 @@
-/// <reference path="../typings/index.d.ts"/>
 var COMMENT = "comment";
 var STRING = "string";
 var NUMBER = "number";
