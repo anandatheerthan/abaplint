@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="894" height="191" viewBox="0 0 894 191">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="894" height="221" viewBox="0 0 894 221">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -90,19 +90,27 @@ cursor: help;
 <path d="M272 40a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M292 130h0"></path>
-<path d="M504 130h0"></path>
-<rect x="292" y="119" width="212" height="22" rx="10" ry="10"></rect>
-<text x="398" y="134">"TYPE STANDARD TABLE OF"</text>
+<path d="M416 130h88"></path>
+<rect x="292" y="119" width="124" height="22" rx="10" ry="10"></rect>
+<text x="354" y="134">"TYPE REF TO"</text>
 </g>
 <path d="M504 130a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
 <path d="M272 40a10 10 0 0 1 10 10v100a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M292 160h0"></path>
-<path d="M424 160h80"></path>
-<rect x="292" y="149" width="132" height="22" rx="10" ry="10"></rect>
-<text x="358" y="164">"LIKE LINE OF"</text>
+<path d="M504 160h0"></path>
+<rect x="292" y="149" width="212" height="22" rx="10" ry="10"></rect>
+<text x="398" y="164">"TYPE STANDARD TABLE OF"</text>
 </g>
 <path d="M504 160a10 10 0 0 0 10 -10v-100a10 10 0 0 1 10 -10"></path>
+<path d="M272 40a10 10 0 0 1 10 10v130a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M292 190h0"></path>
+<path d="M424 190h80"></path>
+<rect x="292" y="179" width="132" height="22" rx="10" ry="10"></rect>
+<text x="358" y="194">"LIKE LINE OF"</text>
+</g>
+<path d="M504 190a10 10 0 0 0 10 -10v-130a10 10 0 0 1 10 -10"></path>
 </g>
 <g>
 <path d="M524 40h0"></path>

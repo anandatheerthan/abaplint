@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1280" height="595" viewBox="0 0 1280 595">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1280" height="604" viewBox="0 0 1280 604">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -568,14 +568,36 @@ cursor: help;
 <path d="M1210 427h0"></path>
 </g>
 <path d="M1210 427a10 10 0 0 0 10 -10v-367a10 10 0 0 1 10 -10"></path>
-<path d="M310 40a10 10 0 0 1 10 10v504a10 10 0 0 0 10 10"></path>
-<g class="terminal">
-<path d="M330 564h0"></path>
-<path d="M462 564h748"></path>
-<rect x="330" y="553" width="132" height="22" rx="10" ry="10"></rect>
-<text x="396" y="568">"REDEFINITION"</text>
+<path d="M310 40a10 10 0 0 1 10 10v513a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M330 573h0"></path>
+<path d="M588 573h622"></path>
+<g>
+<path d="M330 573h0"></path>
+<path d="M446 573h0"></path>
+<path d="M330 573a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M350 553h76"></path>
 </g>
-<path d="M1210 564a10 10 0 0 0 10 -10v-504a10 10 0 0 1 10 -10"></path>
+<path d="M426 553a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M330 573h20"></path>
+<g class="terminal">
+<path d="M350 573h0"></path>
+<path d="M426 573h0"></path>
+<rect x="350" y="562" width="76" height="22" rx="10" ry="10"></rect>
+<text x="388" y="577">"FINAL"</text>
+</g>
+<path d="M426 573h20"></path>
+</g>
+<path d="M446 573h10"></path>
+<g class="terminal">
+<path d="M456 573h0"></path>
+<path d="M588 573h0"></path>
+<rect x="456" y="562" width="132" height="22" rx="10" ry="10"></rect>
+<text x="522" y="577">"REDEFINITION"</text>
+</g>
+</g>
+<path d="M1210 573a10 10 0 0 0 10 -10v-513a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M1230 40h10"></path>
