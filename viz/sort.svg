@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1140" height="147" viewBox="0 0 1140 147">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1140" height="177" viewBox="0 0 1140 177">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -156,6 +156,15 @@ cursor: help;
 </a>
 </g>
 <path d="M692 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M564 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M584 108h0"></path>
+<path d="M660 108h32"></path>
+<rect x="584" y="97" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="622" y="112">Dynamic</text>
+</a>
+</g>
+<path d="M692 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 <g>
 <path d="M712 48h0"></path>
@@ -207,22 +216,22 @@ cursor: help;
 </g>
 </g>
 <path d="M1040 48h10"></path>
-<path d="M564 48a10 10 0 0 0 -10 10v29a10 10 0 0 0 10 10"></path>
+<path d="M564 48a10 10 0 0 0 -10 10v59a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M564 97h476"></path>
+<path d="M564 127h476"></path>
 </g>
-<path d="M1040 97a10 10 0 0 0 10 -10v-29a10 10 0 0 0 -10 -10"></path>
+<path d="M1040 127a10 10 0 0 0 10 -10v-59a10 10 0 0 0 -10 -10"></path>
 </g>
 <path d="M1050 48h20"></path>
-<path d="M534 48a10 10 0 0 1 10 10v48a10 10 0 0 0 10 10"></path>
+<path d="M534 48a10 10 0 0 1 10 10v78a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
-<path d="M554 116h0"></path>
-<path d="M630 116h420"></path>
-<rect x="554" y="105" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="592" y="120">Dynamic</text>
+<path d="M554 146h0"></path>
+<path d="M630 146h420"></path>
+<rect x="554" y="135" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="592" y="150">Dynamic</text>
 </a>
 </g>
-<path d="M1050 116a10 10 0 0 0 10 -10v-48a10 10 0 0 1 10 -10"></path>
+<path d="M1050 146a10 10 0 0 0 10 -10v-78a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M1070 48h20"></path>

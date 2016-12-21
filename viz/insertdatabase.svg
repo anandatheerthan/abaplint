@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="710" height="169" viewBox="0 0 710 169">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="988" height="169" viewBox="0 0 988 169">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 48h10"></path>
 <g>
 <path d="M50 48h0"></path>
-<path d="M660 48h0"></path>
+<path d="M938 48h0"></path>
 <g class="terminal">
 <path d="M50 48h0"></path>
 <path d="M134 48h0"></path>
@@ -53,11 +53,11 @@ cursor: help;
 <path d="M134 48h10"></path>
 <g>
 <path d="M144 48h0"></path>
-<path d="M660 48h0"></path>
+<path d="M938 48h0"></path>
 <path d="M144 48h20"></path>
 <g>
 <path d="M164 48h0"></path>
-<path d="M640 48h0"></path>
+<path d="M918 48h0"></path>
 <g>
 <path d="M164 48h0"></path>
 <path d="M328 48h0"></path>
@@ -82,16 +82,16 @@ cursor: help;
 </g>
 <g>
 <path d="M328 48h0"></path>
-<path d="M640 48h0"></path>
+<path d="M918 48h0"></path>
 <path d="M328 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M348 20h272"></path>
+<path d="M348 20h550"></path>
 </g>
-<path d="M620 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M898 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
 <path d="M328 48h20"></path>
 <g>
 <path d="M348 48h0"></path>
-<path d="M620 48h0"></path>
+<path d="M898 48h0"></path>
 <g class="terminal">
 <path d="M348 48h0"></path>
 <path d="M416 48h0"></path>
@@ -124,15 +124,33 @@ cursor: help;
 <a xlink:href="reuse_source.svg"><text x="586" y="52">Source</text>
 </a>
 </g>
+<path d="M620 48h10"></path>
+<g>
+<path d="M630 48h0"></path>
+<path d="M898 48h0"></path>
+<path d="M630 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M650 28h228"></path>
 </g>
-<path d="M620 48h20"></path>
+<path d="M878 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M630 48h20"></path>
+<g class="terminal">
+<path d="M650 48h0"></path>
+<path d="M878 48h0"></path>
+<rect x="650" y="37" width="228" height="22" rx="10" ry="10"></rect>
+<text x="764" y="52">"ACCEPTING DUPLICATE KEYS"</text>
+</g>
+<path d="M878 48h20"></path>
 </g>
 </g>
-<path d="M640 48h20"></path>
+<path d="M898 48h20"></path>
+</g>
+</g>
+<path d="M918 48h20"></path>
 <path d="M144 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M164 108h0"></path>
-<path d="M588 108h52"></path>
+<path d="M588 108h330"></path>
 <g class="terminal">
 <path d="M164 108h0"></path>
 <path d="M232 108h0"></path>
@@ -179,10 +197,10 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M640 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M918 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
-<path d="M660 48h10"></path>
-<path d="M 670 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M938 48h10"></path>
+<path d="M 948 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
