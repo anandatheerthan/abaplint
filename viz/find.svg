@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1260" height="230" viewBox="0 0 1260 230">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1260" height="260" viewBox="0 0 1260 260">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -163,43 +163,30 @@ cursor: help;
 </g>
 <path d="M1160 40h10"></path>
 <path d="M926 40v20a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M936 70h0"></path>
-<path d="M1156 70h4"></path>
 <g class="terminal">
 <path d="M936 70h0"></path>
-<path d="M1068 70h0"></path>
-<rect x="936" y="59" width="132" height="22" rx="10" ry="10"></rect>
-<text x="1002" y="74">"MATCH OFFSET"</text>
-</g>
-<path d="M1068 70h10"></path>
-<path d="M1078 70h10"></path>
-<g class="non-terminal">
-<path d="M1088 70h0"></path>
-<path d="M1156 70h0"></path>
-<rect x="1088" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1122" y="74">Target</text>
-</a>
-</g>
+<path d="M1092 70h68"></path>
+<rect x="936" y="59" width="156" height="22" rx="10" ry="10"></rect>
+<text x="1014" y="74">"RESPECTING CASE"</text>
 </g>
 <path d="M1160 70a10 10 0 0 0 10 -10v-20"></path>
 <path d="M926 40v50a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M936 100h0"></path>
-<path d="M1148 100h12"></path>
+<path d="M1156 100h4"></path>
 <g class="terminal">
 <path d="M936 100h0"></path>
-<path d="M1060 100h0"></path>
-<rect x="936" y="89" width="124" height="22" rx="10" ry="10"></rect>
-<text x="998" y="104">"MATCH COUNT"</text>
+<path d="M1068 100h0"></path>
+<rect x="936" y="89" width="132" height="22" rx="10" ry="10"></rect>
+<text x="1002" y="104">"MATCH OFFSET"</text>
 </g>
-<path d="M1060 100h10"></path>
-<path d="M1070 100h10"></path>
+<path d="M1068 100h10"></path>
+<path d="M1078 100h10"></path>
 <g class="non-terminal">
-<path d="M1080 100h0"></path>
-<path d="M1148 100h0"></path>
-<rect x="1080" y="89" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1114" y="104">Target</text>
+<path d="M1088 100h0"></path>
+<path d="M1156 100h0"></path>
+<rect x="1088" y="89" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="1122" y="104">Target</text>
 </a>
 </g>
 </g>
@@ -207,20 +194,20 @@ cursor: help;
 <path d="M926 40v80a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M936 130h0"></path>
-<path d="M1156 130h4"></path>
+<path d="M1148 130h12"></path>
 <g class="terminal">
 <path d="M936 130h0"></path>
-<path d="M1068 130h0"></path>
-<rect x="936" y="119" width="132" height="22" rx="10" ry="10"></rect>
-<text x="1002" y="134">"MATCH LENGTH"</text>
+<path d="M1060 130h0"></path>
+<rect x="936" y="119" width="124" height="22" rx="10" ry="10"></rect>
+<text x="998" y="134">"MATCH COUNT"</text>
 </g>
-<path d="M1068 130h10"></path>
-<path d="M1078 130h10"></path>
+<path d="M1060 130h10"></path>
+<path d="M1070 130h10"></path>
 <g class="non-terminal">
-<path d="M1088 130h0"></path>
-<path d="M1156 130h0"></path>
-<rect x="1088" y="119" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1122" y="134">Target</text>
+<path d="M1080 130h0"></path>
+<path d="M1148 130h0"></path>
+<rect x="1080" y="119" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="1114" y="134">Target</text>
 </a>
 </g>
 </g>
@@ -228,20 +215,20 @@ cursor: help;
 <path d="M926 40v110a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M936 160h0"></path>
-<path d="M1116 160h44"></path>
+<path d="M1156 160h4"></path>
 <g class="terminal">
 <path d="M936 160h0"></path>
-<path d="M1028 160h0"></path>
-<rect x="936" y="149" width="92" height="22" rx="10" ry="10"></rect>
-<text x="982" y="164">"RESULTS"</text>
+<path d="M1068 160h0"></path>
+<rect x="936" y="149" width="132" height="22" rx="10" ry="10"></rect>
+<text x="1002" y="164">"MATCH LENGTH"</text>
 </g>
-<path d="M1028 160h10"></path>
-<path d="M1038 160h10"></path>
+<path d="M1068 160h10"></path>
+<path d="M1078 160h10"></path>
 <g class="non-terminal">
-<path d="M1048 160h0"></path>
-<path d="M1116 160h0"></path>
-<rect x="1048" y="149" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1082" y="164">Target</text>
+<path d="M1088 160h0"></path>
+<path d="M1156 160h0"></path>
+<rect x="1088" y="149" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="1122" y="164">Target</text>
 </a>
 </g>
 </g>
@@ -249,35 +236,56 @@ cursor: help;
 <path d="M926 40v140a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M936 190h0"></path>
-<path d="M1160 190h0"></path>
+<path d="M1116 190h44"></path>
 <g class="terminal">
 <path d="M936 190h0"></path>
-<path d="M1052 190h0"></path>
-<rect x="936" y="179" width="116" height="22" rx="10" ry="10"></rect>
-<text x="994" y="194">"SUBMATCHES"</text>
+<path d="M1028 190h0"></path>
+<rect x="936" y="179" width="92" height="22" rx="10" ry="10"></rect>
+<text x="982" y="194">"RESULTS"</text>
 </g>
-<path d="M1052 190h10"></path>
-<path d="M1062 190h10"></path>
-<g>
-<path d="M1072 190h0"></path>
-<path d="M1160 190h0"></path>
-<path d="M1072 190h10"></path>
+<path d="M1028 190h10"></path>
+<path d="M1038 190h10"></path>
 <g class="non-terminal">
-<path d="M1082 190h0"></path>
-<path d="M1150 190h0"></path>
-<rect x="1082" y="179" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1116" y="194">Target</text>
+<path d="M1048 190h0"></path>
+<path d="M1116 190h0"></path>
+<rect x="1048" y="179" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="1082" y="194">Target</text>
 </a>
-</g>
-<path d="M1150 190h10"></path>
-<path d="M1082 190a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M1082 210h68"></path>
-</g>
-<path d="M1150 210a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
 </g>
 </g>
 <path d="M1160 190a10 10 0 0 0 10 -10v-140"></path>
+<path d="M926 40v170a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M936 220h0"></path>
+<path d="M1160 220h0"></path>
+<g class="terminal">
+<path d="M936 220h0"></path>
+<path d="M1052 220h0"></path>
+<rect x="936" y="209" width="116" height="22" rx="10" ry="10"></rect>
+<text x="994" y="224">"SUBMATCHES"</text>
+</g>
+<path d="M1052 220h10"></path>
+<path d="M1062 220h10"></path>
+<g>
+<path d="M1072 220h0"></path>
+<path d="M1160 220h0"></path>
+<path d="M1072 220h10"></path>
+<g class="non-terminal">
+<path d="M1082 220h0"></path>
+<path d="M1150 220h0"></path>
+<rect x="1082" y="209" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="1116" y="224">Target</text>
+</a>
+</g>
+<path d="M1150 220h10"></path>
+<path d="M1082 220a10 10 0 0 0 -10 10v0a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1082 240h68"></path>
+</g>
+<path d="M1150 240a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
+</g>
+</g>
+<path d="M1160 220a10 10 0 0 0 10 -10v-170"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 926 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
