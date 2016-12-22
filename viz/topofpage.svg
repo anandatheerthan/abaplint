@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="224" height="62" viewBox="0 0 224 62">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="478" height="71" viewBox="0 0 478 71">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -39,15 +39,37 @@ cursor: help;
 ]]></style>
 </defs>
 <g transform="translate(.5 .5)">
-<path d="M 20 21 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
-<path d="M40 31h10"></path>
+<path d="M 20 30 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M428 40h0"></path>
 <g class="terminal">
-<path d="M50 31h0"></path>
-<path d="M174 31h0"></path>
-<rect x="50" y="20" width="124" height="22" rx="10" ry="10"></rect>
-<text x="112" y="35">"TOP-OF-PAGE"</text>
+<path d="M50 40h0"></path>
+<path d="M174 40h0"></path>
+<rect x="50" y="29" width="124" height="22" rx="10" ry="10"></rect>
+<text x="112" y="44">"TOP-OF-PAGE"</text>
 </g>
-<path d="M174 31h10"></path>
-<path d="M 184 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M174 40h10"></path>
+<g>
+<path d="M184 40h0"></path>
+<path d="M428 40h0"></path>
+<path d="M184 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M204 20h204"></path>
+</g>
+<path d="M408 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M184 40h20"></path>
+<g class="terminal">
+<path d="M204 40h0"></path>
+<path d="M408 40h0"></path>
+<rect x="204" y="29" width="204" height="22" rx="10" ry="10"></rect>
+<text x="306" y="44">"DURING LINE-SELECTION"</text>
+</g>
+<path d="M408 40h20"></path>
+</g>
+</g>
+<path d="M428 40h10"></path>
+<path d="M 438 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
