@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="470" height="71" viewBox="0 0 470 71">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="682" height="71" viewBox="0 0 682 71">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M420 40h0"></path>
+<path d="M632 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M126 40h0"></path>
@@ -90,8 +90,25 @@ cursor: help;
 </g>
 <path d="M400 40h20"></path>
 </g>
+<g>
+<path d="M420 40h0"></path>
+<path d="M632 40h0"></path>
+<path d="M420 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M440 20h172"></path>
 </g>
-<path d="M420 40h10"></path>
-<path d="M 430 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M612 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M420 40h20"></path>
+<g class="terminal">
+<path d="M440 40h0"></path>
+<path d="M612 40h0"></path>
+<rect x="440" y="29" width="172" height="22" rx="10" ry="10"></rect>
+<text x="526" y="44">"IN CHARACTER MODE"</text>
+</g>
+<path d="M612 40h20"></path>
+</g>
+</g>
+<path d="M632 40h10"></path>
+<path d="M 642 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
