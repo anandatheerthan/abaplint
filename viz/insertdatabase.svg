@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="988" height="169" viewBox="0 0 988 169">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1028" height="169" viewBox="0 0 1028 169">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 48h10"></path>
 <g>
 <path d="M50 48h0"></path>
-<path d="M938 48h0"></path>
+<path d="M978 48h0"></path>
 <g class="terminal">
 <path d="M50 48h0"></path>
 <path d="M134 48h0"></path>
@@ -53,11 +53,11 @@ cursor: help;
 <path d="M134 48h10"></path>
 <g>
 <path d="M144 48h0"></path>
-<path d="M938 48h0"></path>
+<path d="M978 48h0"></path>
 <path d="M144 48h20"></path>
 <g>
 <path d="M164 48h0"></path>
-<path d="M918 48h0"></path>
+<path d="M958 48h0"></path>
 <g>
 <path d="M164 48h0"></path>
 <path d="M328 48h0"></path>
@@ -82,75 +82,89 @@ cursor: help;
 </g>
 <g>
 <path d="M328 48h0"></path>
-<path d="M918 48h0"></path>
+<path d="M958 48h0"></path>
 <path d="M328 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M348 20h550"></path>
+<path d="M348 20h590"></path>
 </g>
-<path d="M898 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M938 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
 <path d="M328 48h20"></path>
 <g>
 <path d="M348 48h0"></path>
-<path d="M898 48h0"></path>
-<g class="terminal">
-<path d="M348 48h0"></path>
-<path d="M416 48h0"></path>
-<rect x="348" y="37" width="68" height="22" rx="10" ry="10"></rect>
-<text x="382" y="52">"FROM"</text>
-</g>
-<path d="M416 48h10"></path>
+<path d="M938 48h0"></path>
+<path d="M348 48h20"></path>
 <g>
-<path d="M426 48h0"></path>
-<path d="M542 48h0"></path>
-<path d="M426 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M446 28h76"></path>
-</g>
-<path d="M522 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M426 48h20"></path>
+<path d="M368 48h0"></path>
+<path d="M918 48h0"></path>
 <g class="terminal">
+<path d="M368 48h0"></path>
+<path d="M436 48h0"></path>
+<rect x="368" y="37" width="68" height="22" rx="10" ry="10"></rect>
+<text x="402" y="52">"FROM"</text>
+</g>
+<path d="M436 48h10"></path>
+<g>
 <path d="M446 48h0"></path>
-<path d="M522 48h0"></path>
-<rect x="446" y="37" width="76" height="22" rx="10" ry="10"></rect>
-<text x="484" y="52">"TABLE"</text>
+<path d="M562 48h0"></path>
+<path d="M446 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M466 28h76"></path>
 </g>
-<path d="M522 48h20"></path>
+<path d="M542 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M446 48h20"></path>
+<g class="terminal">
+<path d="M466 48h0"></path>
+<path d="M542 48h0"></path>
+<rect x="466" y="37" width="76" height="22" rx="10" ry="10"></rect>
+<text x="504" y="52">"TABLE"</text>
 </g>
-<path d="M542 48h10"></path>
+<path d="M542 48h20"></path>
+</g>
+<path d="M562 48h10"></path>
 <g class="non-terminal">
-<path d="M552 48h0"></path>
-<path d="M620 48h0"></path>
-<rect x="552" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="586" y="52">Source</text>
+<path d="M572 48h0"></path>
+<path d="M640 48h0"></path>
+<rect x="572" y="37" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="606" y="52">Source</text>
 </a>
 </g>
-<path d="M620 48h10"></path>
+<path d="M640 48h10"></path>
 <g>
-<path d="M630 48h0"></path>
-<path d="M898 48h0"></path>
-<path d="M630 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M650 28h228"></path>
-</g>
-<path d="M878 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M630 48h20"></path>
-<g class="terminal">
 <path d="M650 48h0"></path>
-<path d="M878 48h0"></path>
-<rect x="650" y="37" width="228" height="22" rx="10" ry="10"></rect>
-<text x="764" y="52">"ACCEPTING DUPLICATE KEYS"</text>
+<path d="M918 48h0"></path>
+<path d="M650 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M670 28h228"></path>
 </g>
-<path d="M878 48h20"></path>
-</g>
+<path d="M898 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M650 48h20"></path>
+<g class="terminal">
+<path d="M670 48h0"></path>
+<path d="M898 48h0"></path>
+<rect x="670" y="37" width="228" height="22" rx="10" ry="10"></rect>
+<text x="784" y="52">"ACCEPTING DUPLICATE KEYS"</text>
 </g>
 <path d="M898 48h20"></path>
 </g>
 </g>
 <path d="M918 48h20"></path>
+<path d="M348 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M368 78h0"></path>
+<path d="M532 78h386"></path>
+<rect x="368" y="67" width="164" height="22" rx="10" ry="10"></rect>
+<text x="450" y="82">"CLIENT SPECIFIED"</text>
+</g>
+<path d="M918 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M938 48h20"></path>
+</g>
+</g>
+<path d="M958 48h20"></path>
 <path d="M144 48a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M164 108h0"></path>
-<path d="M588 108h330"></path>
+<path d="M588 108h370"></path>
 <g class="terminal">
 <path d="M164 108h0"></path>
 <path d="M232 108h0"></path>
@@ -197,10 +211,10 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M918 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M958 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
-<path d="M938 48h10"></path>
-<path d="M 948 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M978 48h10"></path>
+<path d="M 988 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

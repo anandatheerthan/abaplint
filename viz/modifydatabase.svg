@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="640" height="101" viewBox="0 0 640 101">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="670" height="101" viewBox="0 0 670 101">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M590 40h0"></path>
+<path d="M620 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M134 40h0"></path>
@@ -73,45 +73,58 @@ cursor: help;
 </g>
 <path d="M288 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M308 40h10"></path>
 <g>
-<path d="M318 40h0"></path>
-<path d="M590 40h0"></path>
+<path d="M308 40h0"></path>
+<path d="M620 40h0"></path>
+<path d="M308 40h20"></path>
+<g>
+<path d="M328 40h0"></path>
+<path d="M600 40h0"></path>
 <g class="terminal">
-<path d="M318 40h0"></path>
-<path d="M386 40h0"></path>
-<rect x="318" y="29" width="68" height="22" rx="10" ry="10"></rect>
-<text x="352" y="44">"FROM"</text>
-</g>
-<path d="M386 40h10"></path>
-<g>
+<path d="M328 40h0"></path>
 <path d="M396 40h0"></path>
-<path d="M512 40h0"></path>
-<path d="M396 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<rect x="328" y="29" width="68" height="22" rx="10" ry="10"></rect>
+<text x="362" y="44">"FROM"</text>
+</g>
+<path d="M396 40h10"></path>
 <g>
-<path d="M416 20h76"></path>
-</g>
-<path d="M492 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M396 40h20"></path>
-<g class="terminal">
-<path d="M416 40h0"></path>
-<path d="M492 40h0"></path>
-<rect x="416" y="29" width="76" height="22" rx="10" ry="10"></rect>
-<text x="454" y="44">"TABLE"</text>
-</g>
-<path d="M492 40h20"></path>
-</g>
-<path d="M512 40h10"></path>
-<g class="non-terminal">
+<path d="M406 40h0"></path>
 <path d="M522 40h0"></path>
-<path d="M590 40h0"></path>
-<rect x="522" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="556" y="44">Source</text>
+<path d="M406 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M426 20h76"></path>
+</g>
+<path d="M502 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M406 40h20"></path>
+<g class="terminal">
+<path d="M426 40h0"></path>
+<path d="M502 40h0"></path>
+<rect x="426" y="29" width="76" height="22" rx="10" ry="10"></rect>
+<text x="464" y="44">"TABLE"</text>
+</g>
+<path d="M502 40h20"></path>
+</g>
+<path d="M522 40h10"></path>
+<g class="non-terminal">
+<path d="M532 40h0"></path>
+<path d="M600 40h0"></path>
+<rect x="532" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="566" y="44">Source</text>
 </a>
 </g>
 </g>
+<path d="M600 40h20"></path>
+<path d="M308 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M328 70h0"></path>
+<path d="M492 70h108"></path>
+<rect x="328" y="59" width="164" height="22" rx="10" ry="10"></rect>
+<text x="410" y="74">"CLIENT SPECIFIED"</text>
 </g>
-<path d="M590 40h10"></path>
-<path d="M 600 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M600 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M620 40h10"></path>
+<path d="M 630 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
