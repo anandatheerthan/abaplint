@@ -188,9 +188,9 @@ cursor: help;
 <path d="M532 70a10 10 0 0 1 10 10v58a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
 <path d="M552 148h0"></path>
-<path d="M612 148h252"></path>
-<rect x="552" y="137" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="582" y="152">Field</text>
+<path d="M636 148h228"></path>
+<rect x="552" y="137" width="84" height="22"></rect>
+<a xlink:href="reuse_fieldsub.svg"><text x="594" y="152">FieldSub</text>
 </a>
 </g>
 <path d="M864 148a10 10 0 0 0 10 -10v-58a10 10 0 0 1 10 -10"></path>
