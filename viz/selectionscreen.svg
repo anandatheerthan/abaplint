@@ -387,7 +387,7 @@ cursor: help;
 <path d="M224 40a10 10 0 0 1 10 10v238a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 298h0"></path>
-<path d="M842 298h310"></path>
+<path d="M1014 298h138"></path>
 <g class="terminal">
 <path d="M244 298h0"></path>
 <path d="M392 298h0"></path>
@@ -449,6 +449,23 @@ cursor: help;
 </g>
 </g>
 <path d="M822 298h20"></path>
+</g>
+<g>
+<path d="M842 298h0"></path>
+<path d="M1014 298h0"></path>
+<path d="M842 298a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M862 278h132"></path>
+</g>
+<path d="M994 278a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M842 298h20"></path>
+<g class="terminal">
+<path d="M862 298h0"></path>
+<path d="M994 298h0"></path>
+<rect x="862" y="287" width="132" height="22" rx="10" ry="10"></rect>
+<text x="928" y="302">"NO INTERVALS"</text>
+</g>
+<path d="M994 298h20"></path>
 </g>
 </g>
 <path d="M1152 298a10 10 0 0 0 10 -10v-238a10 10 0 0 1 10 -10"></path>
