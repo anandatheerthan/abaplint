@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="922" height="161" viewBox="0 0 922 161">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="922" height="200" viewBox="0 0 922 200">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -150,50 +150,82 @@ cursor: help;
 </g>
 </g>
 <path d="M852 40h20"></path>
-<path d="M144 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<path d="M144 40a10 10 0 0 1 10 10v49a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M164 100h0"></path>
-<path d="M542 100h310"></path>
+<path d="M164 109h0"></path>
+<path d="M650 109h202"></path>
 <g>
-<path d="M164 100h0"></path>
-<path d="M328 100h0"></path>
-<path d="M164 100h20"></path>
+<path d="M164 109h0"></path>
+<path d="M368 109h0"></path>
+<path d="M164 109h20"></path>
+<g>
+<path d="M184 109h0"></path>
+<path d="M348 109h0"></path>
+<path d="M184 109h20"></path>
 <g class="non-terminal">
-<path d="M184 100h0"></path>
-<path d="M260 100h48"></path>
-<rect x="184" y="89" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="222" y="104">Dynamic</text>
+<path d="M204 109h0"></path>
+<path d="M280 109h48"></path>
+<rect x="204" y="98" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="242" y="113">Dynamic</text>
 </a>
 </g>
-<path d="M308 100h20"></path>
-<path d="M164 100a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<path d="M328 109h20"></path>
+<path d="M184 109a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
-<path d="M184 130h0"></path>
-<path d="M308 130h0"></path>
-<rect x="184" y="119" width="124" height="22"></rect>
-<a xlink:href="reuse_databasetable.svg"><text x="246" y="134">DatabaseTable</text>
+<path d="M204 139h0"></path>
+<path d="M328 139h0"></path>
+<rect x="204" y="128" width="124" height="22"></rect>
+<a xlink:href="reuse_databasetable.svg"><text x="266" y="143">DatabaseTable</text>
 </a>
 </g>
-<path d="M308 130a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M328 139a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M328 100h10"></path>
+<path d="M348 109h20"></path>
+<path d="M164 109a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M184 169h0"></path>
+<path d="M260 169h88"></path>
+<rect x="184" y="158" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="222" y="173">Dynamic</text>
+</a>
+</g>
+<path d="M348 169a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M368 109h10"></path>
 <g class="terminal">
-<path d="M338 100h0"></path>
-<path d="M454 100h0"></path>
-<rect x="338" y="89" width="116" height="22" rx="10" ry="10"></rect>
-<text x="396" y="104">"FROM TABLE"</text>
+<path d="M378 109h0"></path>
+<path d="M446 109h0"></path>
+<rect x="378" y="98" width="68" height="22" rx="10" ry="10"></rect>
+<text x="412" y="113">"FROM"</text>
 </g>
-<path d="M454 100h10"></path>
-<path d="M464 100h10"></path>
+<path d="M446 109h10"></path>
+<g>
+<path d="M456 109h0"></path>
+<path d="M572 109h0"></path>
+<path d="M456 109a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M476 89h76"></path>
+</g>
+<path d="M552 89a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M456 109h20"></path>
+<g class="terminal">
+<path d="M476 109h0"></path>
+<path d="M552 109h0"></path>
+<rect x="476" y="98" width="76" height="22" rx="10" ry="10"></rect>
+<text x="514" y="113">"TABLE"</text>
+</g>
+<path d="M552 109h20"></path>
+</g>
+<path d="M572 109h10"></path>
 <g class="non-terminal">
-<path d="M474 100h0"></path>
-<path d="M542 100h0"></path>
-<rect x="474" y="89" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="508" y="104">Source</text>
+<path d="M582 109h0"></path>
+<path d="M650 109h0"></path>
+<rect x="582" y="98" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="616" y="113">Source</text>
 </a>
 </g>
 </g>
-<path d="M852 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M852 109a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M872 40h10"></path>
