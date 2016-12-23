@@ -196,11 +196,12 @@ cursor: help;
 </g>
 <path d="M1588 40h20"></path>
 <path d="M1364 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
-<g class="terminal">
+<g class="non-terminal">
 <path d="M1384 70h0"></path>
-<path d="M1468 70h120"></path>
-<rect x="1384" y="59" width="84" height="22" rx="10" ry="10"></rect>
-<text x="1426" y="74">"OTHERS"</text>
+<path d="M1444 70h144"></path>
+<rect x="1384" y="59" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="1414" y="74">Field</text>
+</a>
 </g>
 <path d="M1588 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
