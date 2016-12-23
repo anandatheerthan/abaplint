@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1642" height="562" viewBox="0 0 1642 562">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1642" height="592" viewBox="0 0 1642 592">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -689,6 +689,14 @@ cursor: help;
 <text x="950" y="535">"CLIENT SPECIFIED"</text>
 </g>
 <path d="M1562 531a10 10 0 0 0 10 -10v-481"></path>
+<path d="M858 40v511a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M868 561h0"></path>
+<path d="M1032 561h530"></path>
+<rect x="868" y="550" width="164" height="22" rx="10" ry="10"></rect>
+<text x="950" y="565">"BYPASSING BUFFER"</text>
+</g>
+<path d="M1562 561a10 10 0 0 0 10 -10v-511"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 858 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
