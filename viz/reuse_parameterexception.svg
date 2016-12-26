@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="550" height="71" viewBox="0 0 550 71">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="566" height="71" viewBox="0 0 566 71">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M500 40h0"></path>
+<path d="M516 40h0"></path>
 <g class="non-terminal">
 <path d="M50 40h0"></path>
 <path d="M110 40h0"></path>
@@ -61,46 +61,45 @@ cursor: help;
 </g>
 <path d="M174 40h10"></path>
 <path d="M184 40h10"></path>
-<g class="non-terminal">
-<path d="M194 40h0"></path>
-<path d="M270 40h0"></path>
-<rect x="194" y="29" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="232" y="44">Integer</text>
-</a>
-</g>
-<path d="M270 40h10"></path>
-<g>
-<path d="M280 40h0"></path>
-<path d="M500 40h0"></path>
-<path d="M280 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M300 20h180"></path>
-</g>
-<path d="M480 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M280 40h20"></path>
-<g>
-<path d="M300 40h0"></path>
-<path d="M480 40h0"></path>
 <g class="terminal">
-<path d="M300 40h0"></path>
-<path d="M392 40h0"></path>
-<rect x="300" y="29" width="92" height="22" rx="10" ry="10"></rect>
-<text x="346" y="44">"MESSAGE"</text>
+<path d="M194 40h0"></path>
+<path d="M286 40h0"></path>
+<rect x="194" y="29" width="92" height="22" rx="10" ry="10"></rect>
+<text x="240" y="44">^&#91;\w\d&#93;+$</text>
 </g>
-<path d="M392 40h10"></path>
-<path d="M402 40h10"></path>
+<path d="M286 40h10"></path>
+<g>
+<path d="M296 40h0"></path>
+<path d="M516 40h0"></path>
+<path d="M296 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M316 20h180"></path>
+</g>
+<path d="M496 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M296 40h20"></path>
+<g>
+<path d="M316 40h0"></path>
+<path d="M496 40h0"></path>
+<g class="terminal">
+<path d="M316 40h0"></path>
+<path d="M408 40h0"></path>
+<rect x="316" y="29" width="92" height="22" rx="10" ry="10"></rect>
+<text x="362" y="44">"MESSAGE"</text>
+</g>
+<path d="M408 40h10"></path>
+<path d="M418 40h10"></path>
 <g class="non-terminal">
-<path d="M412 40h0"></path>
-<path d="M480 40h0"></path>
-<rect x="412" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="446" y="44">Target</text>
+<path d="M428 40h0"></path>
+<path d="M496 40h0"></path>
+<rect x="428" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="462" y="44">Target</text>
 </a>
 </g>
 </g>
-<path d="M480 40h20"></path>
+<path d="M496 40h20"></path>
 </g>
 </g>
-<path d="M500 40h10"></path>
-<path d="M 510 40 h 20 m 0 -10 v 20"></path>
+<path d="M516 40h10"></path>
+<path d="M 526 40 h 20 m 0 -10 v 20"></path>
 </g>
 </svg>

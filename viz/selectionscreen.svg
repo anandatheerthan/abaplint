@@ -258,7 +258,7 @@ cursor: help;
 <path d="M224 40a10 10 0 0 1 10 10v109a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 169h0"></path>
-<path d="M440 169h960"></path>
+<path d="M432 169h968"></path>
 <g class="terminal">
 <path d="M244 169h0"></path>
 <path d="M344 169h0"></path>
@@ -269,9 +269,9 @@ cursor: help;
 <path d="M354 169h10"></path>
 <g class="non-terminal">
 <path d="M364 169h0"></path>
-<path d="M440 169h0"></path>
-<rect x="364" y="158" width="76" height="22"></rect>
-<a xlink:href="reuse_integer.svg"><text x="402" y="173">Integer</text>
+<path d="M432 169h0"></path>
+<rect x="364" y="158" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="398" y="173">Source</text>
 </a>
 </g>
 </g>
