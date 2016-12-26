@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="478" height="122" viewBox="0 0 478 122">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="478" height="182" viewBox="0 0 478 182">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -118,6 +118,48 @@ cursor: help;
 </g>
 </g>
 <path d="M398 91a10 10 0 0 0 10 -10v-50"></path>
+<path d="M216 31v80a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M226 121h0"></path>
+<path d="M390 121h8"></path>
+<g class="terminal">
+<path d="M226 121h0"></path>
+<path d="M302 121h0"></path>
+<rect x="226" y="110" width="76" height="22" rx="10" ry="10"></rect>
+<text x="264" y="125">"VALUE"</text>
+</g>
+<path d="M302 121h10"></path>
+<path d="M312 121h10"></path>
+<g class="non-terminal">
+<path d="M322 121h0"></path>
+<path d="M390 121h0"></path>
+<rect x="322" y="110" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="356" y="125">Target</text>
+</a>
+</g>
+</g>
+<path d="M398 121a10 10 0 0 0 10 -10v-80"></path>
+<path d="M216 31v110a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M226 151h0"></path>
+<path d="M398 151h0"></path>
+<g class="terminal">
+<path d="M226 151h0"></path>
+<path d="M310 151h0"></path>
+<rect x="226" y="140" width="84" height="22" rx="10" ry="10"></rect>
+<text x="268" y="155">"LENGTH"</text>
+</g>
+<path d="M310 151h10"></path>
+<path d="M320 151h10"></path>
+<g class="non-terminal">
+<path d="M330 151h0"></path>
+<path d="M398 151h0"></path>
+<rect x="330" y="140" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="364" y="155">Target</text>
+</a>
+</g>
+</g>
+<path d="M398 151a10 10 0 0 0 10 -10v-110"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 216 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
