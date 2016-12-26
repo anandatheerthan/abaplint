@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1248" height="131" viewBox="0 0 1248 131">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1380" height="131" viewBox="0 0 1380 131">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M1198 40h0"></path>
+<path d="M1330 40h0"></path>
 <g>
 <path d="M50 40h0"></path>
 <path d="M338 40h0"></path>
@@ -221,8 +221,26 @@ cursor: help;
 </g>
 <path d="M1178 40h20"></path>
 </g>
+<g>
+<path d="M1198 40h0"></path>
+<path d="M1330 40h0"></path>
+<path d="M1198 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1218 20h92"></path>
 </g>
-<path d="M1198 40h10"></path>
-<path d="M 1208 40 h 20 m 0 -10 v 20"></path>
+<path d="M1310 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1198 40h20"></path>
+<g class="non-terminal">
+<path d="M1218 40h0"></path>
+<path d="M1310 40h0"></path>
+<rect x="1218" y="29" width="92" height="22"></rect>
+<a xlink:href="reuse_tablebody.svg"><text x="1264" y="44">TableBody</text>
+</a>
+</g>
+<path d="M1310 40h20"></path>
+</g>
+</g>
+<path d="M1330 40h10"></path>
+<path d="M 1340 40 h 20 m 0 -10 v 20"></path>
 </g>
 </svg>
