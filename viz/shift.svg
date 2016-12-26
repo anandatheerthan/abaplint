@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1078" height="358" viewBox="0 0 1078 358">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1078" height="388" viewBox="0 0 1078 388">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -221,7 +221,7 @@ cursor: help;
 <path d="M244 48a10 10 0 0 1 10 10v259a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M264 327h0"></path>
-<path d="M548 327h188"></path>
+<path d="M634 327h102"></path>
 <g class="terminal">
 <path d="M264 327h0"></path>
 <path d="M316 327h0"></path>
@@ -241,9 +241,30 @@ cursor: help;
 <path d="M414 327h10"></path>
 <g class="terminal">
 <path d="M424 327h0"></path>
-<path d="M548 327h0"></path>
-<rect x="424" y="316" width="124" height="22" rx="10" ry="10"></rect>
-<text x="486" y="331">"PLACES LEFT"</text>
+<path d="M508 327h0"></path>
+<rect x="424" y="316" width="84" height="22" rx="10" ry="10"></rect>
+<text x="466" y="331">"PLACES"</text>
+</g>
+<path d="M508 327h10"></path>
+<g>
+<path d="M518 327h0"></path>
+<path d="M634 327h0"></path>
+<path d="M518 327h20"></path>
+<g class="terminal">
+<path d="M538 327h0"></path>
+<path d="M606 327h8"></path>
+<rect x="538" y="316" width="68" height="22" rx="10" ry="10"></rect>
+<text x="572" y="331">"LEFT"</text>
+</g>
+<path d="M614 327h20"></path>
+<path d="M518 327a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M538 357h0"></path>
+<path d="M614 357h0"></path>
+<rect x="538" y="346" width="76" height="22" rx="10" ry="10"></rect>
+<text x="576" y="361">"RIGHT"</text>
+</g>
+<path d="M614 357a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M736 327a10 10 0 0 0 10 -10v-259a10 10 0 0 1 10 -10"></path>

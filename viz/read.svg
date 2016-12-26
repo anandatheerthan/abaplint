@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1004" height="437" viewBox="0 0 1004 437">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1016" height="437" viewBox="0 0 1016 437">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M954 40h0"></path>
+<path d="M966 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M166 40h0"></path>
@@ -62,20 +62,20 @@ cursor: help;
 <path d="M254 40h10"></path>
 <g>
 <path d="M264 40h0"></path>
-<path d="M954 40h0"></path>
+<path d="M966 40h0"></path>
 <path d="M264 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M284 20h650"></path>
+<path d="M284 20h662"></path>
 </g>
-<path d="M934 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M946 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
 <path d="M264 40h20"></path>
 <g>
 <path d="M284 40h0"></path>
-<path d="M934 40h0"></path>
+<path d="M946 40h0"></path>
 <path d="M314 40h10"></path>
 <g>
 <path d="M324 40h0"></path>
-<path d="M904 40h0"></path>
+<path d="M904 40h12"></path>
 <path d="M324 40h20"></path>
 <g>
 <path d="M344 40h0"></path>
@@ -228,15 +228,15 @@ cursor: help;
 </g>
 <path d="M884 208a10 10 0 0 0 10 -10v-148a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M904 40h10"></path>
+<path d="M916 40h10"></path>
 <path d="M314 40v188a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M324 238h0"></path>
-<path d="M678 238h226"></path>
+<path d="M916 238h0"></path>
 <path d="M324 238h20"></path>
 <g>
 <path d="M344 238h0"></path>
-<path d="M540 238h118"></path>
+<path d="M540 238h356"></path>
 <g class="terminal">
 <path d="M344 238h0"></path>
 <path d="M452 238h0"></path>
@@ -253,11 +253,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M658 238h20"></path>
+<path d="M896 238h20"></path>
 <path d="M324 238a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M344 277h0"></path>
-<path d="M658 277h0"></path>
+<path d="M896 277h0"></path>
 <g>
 <path d="M344 277h0"></path>
 <path d="M492 277h0"></path>
@@ -291,30 +291,61 @@ cursor: help;
 <a xlink:href="reuse_target.svg"><text x="624" y="281">Target</text>
 </a>
 </g>
+<path d="M658 277h10"></path>
+<g>
+<path d="M668 277h0"></path>
+<path d="M896 277h0"></path>
+<path d="M668 277a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M688 257h188"></path>
 </g>
-<path d="M658 277a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+<path d="M876 257a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M668 277h20"></path>
+<g>
+<path d="M688 277h0"></path>
+<path d="M876 277h0"></path>
+<g class="terminal">
+<path d="M688 277h0"></path>
+<path d="M796 277h0"></path>
+<rect x="688" y="266" width="108" height="22" rx="10" ry="10"></rect>
+<text x="742" y="281">"COMPARING"</text>
+</g>
+<path d="M796 277h10"></path>
+<path d="M806 277h10"></path>
+<g class="non-terminal">
+<path d="M816 277h0"></path>
+<path d="M876 277h0"></path>
+<rect x="816" y="266" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="846" y="281">Field</text>
+</a>
+</g>
+</g>
+<path d="M876 277h20"></path>
+</g>
+</g>
+<path d="M896 277a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
 <path d="M324 238a10 10 0 0 1 10 10v49a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M344 307h0"></path>
-<path d="M556 307h102"></path>
+<path d="M556 307h340"></path>
 <rect x="344" y="296" width="212" height="22" rx="10" ry="10"></rect>
 <text x="450" y="311">"TRANSPORTING NO FIELDS"</text>
 </g>
-<path d="M658 307a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
+<path d="M896 307a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M904 238a10 10 0 0 0 10 -10v-188"></path>
+<path d="M916 238a10 10 0 0 0 10 -10v-188"></path>
 <path d="M314 40v287a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M324 337h0"></path>
-<path d="M416 337h488"></path>
+<path d="M416 337h500"></path>
 <rect x="324" y="326" width="92" height="22" rx="10" ry="10"></rect>
 <text x="370" y="341">"CASTING"</text>
 </g>
-<path d="M904 337a10 10 0 0 0 10 -10v-287"></path>
+<path d="M916 337a10 10 0 0 0 10 -10v-287"></path>
 <path d="M314 40v317a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M324 367h0"></path>
-<path d="M556 367h348"></path>
+<path d="M556 367h360"></path>
 <g class="terminal">
 <path d="M324 367h0"></path>
 <path d="M456 367h0"></path>
@@ -342,27 +373,27 @@ cursor: help;
 <path d="M546 387a10 10 0 0 0 10 -10v0a10 10 0 0 0 -10 -10"></path>
 </g>
 </g>
-<path d="M904 367a10 10 0 0 0 10 -10v-317"></path>
+<path d="M916 367a10 10 0 0 0 10 -10v-317"></path>
 <path d="M314 40v356a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M324 406h0"></path>
-<path d="M464 406h440"></path>
+<path d="M464 406h452"></path>
 <rect x="324" y="395" width="140" height="22" rx="10" ry="10"></rect>
 <text x="394" y="410">"BINARY SEARCH"</text>
 </g>
-<path d="M904 406a10 10 0 0 0 10 -10v-356"></path>
+<path d="M916 406a10 10 0 0 0 10 -10v-356"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 314 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
 <text x="299" y="44" class="diagram-text">1+</text>
-<path d="M 914 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
-<path d="M 921 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+<path d="M 926 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 933 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
 </g>
 </g>
-<path d="M934 40h20"></path>
+<path d="M946 40h20"></path>
 </g>
 </g>
-<path d="M954 40h10"></path>
-<path d="M 964 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M966 40h10"></path>
+<path d="M 976 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

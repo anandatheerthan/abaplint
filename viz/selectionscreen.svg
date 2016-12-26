@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1222" height="548" viewBox="0 0 1222 548">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1470" height="548" viewBox="0 0 1470 548">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M1172 40h0"></path>
+<path d="M1420 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M214 40h0"></path>
@@ -53,11 +53,11 @@ cursor: help;
 <path d="M214 40h10"></path>
 <g>
 <path d="M224 40h0"></path>
-<path d="M1172 40h0"></path>
+<path d="M1420 40h0"></path>
 <path d="M224 40h20"></path>
 <g>
 <path d="M244 40h0"></path>
-<path d="M1152 40h0"></path>
+<path d="M1152 40h248"></path>
 <g class="terminal">
 <path d="M244 40h0"></path>
 <path d="M336 40h0"></path>
@@ -202,11 +202,11 @@ cursor: help;
 <path d="M1132 40h20"></path>
 </g>
 </g>
-<path d="M1152 40h20"></path>
+<path d="M1400 40h20"></path>
 <path d="M224 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 100h0"></path>
-<path d="M472 100h680"></path>
+<path d="M472 100h928"></path>
 <g class="terminal">
 <path d="M244 100h0"></path>
 <path d="M376 100h0"></path>
@@ -223,11 +223,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M1152 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M1400 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v79a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 139h0"></path>
-<path d="M438 139h714"></path>
+<path d="M438 139h962"></path>
 <g class="terminal">
 <path d="M244 139h0"></path>
 <path d="M312 139h0"></path>
@@ -254,11 +254,11 @@ cursor: help;
 <path d="M418 139h20"></path>
 </g>
 </g>
-<path d="M1152 139a10 10 0 0 0 10 -10v-79a10 10 0 0 1 10 -10"></path>
+<path d="M1400 139a10 10 0 0 0 10 -10v-79a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v109a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 169h0"></path>
-<path d="M440 169h712"></path>
+<path d="M440 169h960"></path>
 <g class="terminal">
 <path d="M244 169h0"></path>
 <path d="M344 169h0"></path>
@@ -275,11 +275,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M1152 169a10 10 0 0 0 10 -10v-109a10 10 0 0 1 10 -10"></path>
+<path d="M1400 169a10 10 0 0 0 10 -10v-109a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v139a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 199h0"></path>
-<path d="M472 199h680"></path>
+<path d="M472 199h928"></path>
 <g class="terminal">
 <path d="M244 199h0"></path>
 <path d="M392 199h0"></path>
@@ -295,11 +295,11 @@ cursor: help;
 <text x="442" y="203">^\w+$</text>
 </g>
 </g>
-<path d="M1152 199a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
+<path d="M1400 199a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v169a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 229h0"></path>
-<path d="M1136 229h16"></path>
+<path d="M1136 229h264"></path>
 <g class="terminal">
 <path d="M244 229h0"></path>
 <path d="M304 229h0"></path>
@@ -375,19 +375,19 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M1152 229a10 10 0 0 0 10 -10v-169a10 10 0 0 1 10 -10"></path>
+<path d="M1400 229a10 10 0 0 0 10 -10v-169a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v199a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M244 259h0"></path>
-<path d="M320 259h832"></path>
+<path d="M320 259h1080"></path>
 <rect x="244" y="248" width="76" height="22" rx="10" ry="10"></rect>
 <text x="282" y="263">"ULINE"</text>
 </g>
-<path d="M1152 259a10 10 0 0 0 10 -10v-199a10 10 0 0 1 10 -10"></path>
+<path d="M1400 259a10 10 0 0 0 10 -10v-199a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v238a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 298h0"></path>
-<path d="M1014 298h138"></path>
+<path d="M1014 298h386"></path>
 <g class="terminal">
 <path d="M244 298h0"></path>
 <path d="M392 298h0"></path>
@@ -468,11 +468,11 @@ cursor: help;
 <path d="M994 298h20"></path>
 </g>
 </g>
-<path d="M1152 298a10 10 0 0 0 10 -10v-238a10 10 0 0 1 10 -10"></path>
+<path d="M1400 298a10 10 0 0 0 10 -10v-238a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v268a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 328h0"></path>
-<path d="M800 328h352"></path>
+<path d="M800 328h600"></path>
 <g class="terminal">
 <path d="M244 328h0"></path>
 <path d="M448 328h0"></path>
@@ -514,11 +514,11 @@ cursor: help;
 <text x="762" y="332">"LINES"</text>
 </g>
 </g>
-<path d="M1152 328a10 10 0 0 0 10 -10v-268a10 10 0 0 1 10 -10"></path>
+<path d="M1400 328a10 10 0 0 0 10 -10v-268a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v298a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 358h0"></path>
-<path d="M456 358h696"></path>
+<path d="M456 358h944"></path>
 <g class="terminal">
 <path d="M244 358h0"></path>
 <path d="M376 358h0"></path>
@@ -534,27 +534,27 @@ cursor: help;
 <text x="426" y="362">^\w+$</text>
 </g>
 </g>
-<path d="M1152 358a10 10 0 0 0 10 -10v-298a10 10 0 0 1 10 -10"></path>
+<path d="M1400 358a10 10 0 0 0 10 -10v-298a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v328a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M244 388h0"></path>
-<path d="M384 388h768"></path>
+<path d="M384 388h1016"></path>
 <rect x="244" y="377" width="140" height="22" rx="10" ry="10"></rect>
 <text x="314" y="392">"BEGIN OF LINE"</text>
 </g>
-<path d="M1152 388a10 10 0 0 0 10 -10v-328a10 10 0 0 1 10 -10"></path>
+<path d="M1400 388a10 10 0 0 0 10 -10v-328a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v358a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M244 418h0"></path>
-<path d="M368 418h784"></path>
+<path d="M368 418h1032"></path>
 <rect x="244" y="407" width="124" height="22" rx="10" ry="10"></rect>
 <text x="306" y="422">"END OF LINE"</text>
 </g>
-<path d="M1152 418a10 10 0 0 0 10 -10v-358a10 10 0 0 1 10 -10"></path>
+<path d="M1400 418a10 10 0 0 0 10 -10v-358a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v397a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 457h0"></path>
-<path d="M1132 457h20"></path>
+<path d="M1400 457h0"></path>
 <g class="terminal">
 <path d="M244 457h0"></path>
 <path d="M400 457h0"></path>
@@ -660,12 +660,42 @@ cursor: help;
 </g>
 <path d="M1112 457h20"></path>
 </g>
+<g>
+<path d="M1132 457h0"></path>
+<path d="M1400 457h0"></path>
+<path d="M1132 457a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1152 437h228"></path>
 </g>
-<path d="M1152 457a10 10 0 0 0 10 -10v-397a10 10 0 0 1 10 -10"></path>
+<path d="M1380 437a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1132 457h20"></path>
+<g>
+<path d="M1152 457h0"></path>
+<path d="M1380 457h0"></path>
+<g class="terminal">
+<path d="M1152 457h0"></path>
+<path d="M1292 457h0"></path>
+<rect x="1152" y="446" width="140" height="22" rx="10" ry="10"></rect>
+<text x="1222" y="461">"NESTING LEVEL"</text>
+</g>
+<path d="M1292 457h10"></path>
+<path d="M1302 457h10"></path>
+<g class="non-terminal">
+<path d="M1312 457h0"></path>
+<path d="M1380 457h0"></path>
+<rect x="1312" y="446" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="1346" y="461">Source</text>
+</a>
+</g>
+</g>
+<path d="M1380 457h20"></path>
+</g>
+</g>
+<path d="M1400 457a10 10 0 0 0 10 -10v-397a10 10 0 0 1 10 -10"></path>
 <path d="M224 40a10 10 0 0 1 10 10v457a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M244 517h0"></path>
-<path d="M480 517h672"></path>
+<path d="M480 517h920"></path>
 <g class="terminal">
 <path d="M244 517h0"></path>
 <path d="M384 517h0"></path>
@@ -682,10 +712,10 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M1152 517a10 10 0 0 0 10 -10v-457a10 10 0 0 1 10 -10"></path>
+<path d="M1400 517a10 10 0 0 0 10 -10v-457a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
-<path d="M1172 40h10"></path>
-<path d="M 1182 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1420 40h10"></path>
+<path d="M 1430 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
