@@ -107,16 +107,16 @@ cursor: help;
 </g>
 <g>
 <path d="M452 48h0"></path>
-<path d="M1090 48h0"></path>
+<path d="M958 48h0"></path>
 <path d="M452 48a10 10 0 0 0 10 -10v-8a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M472 20h598"></path>
+<path d="M472 20h466"></path>
 </g>
-<path d="M1070 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
+<path d="M938 20a10 10 0 0 1 10 10v8a10 10 0 0 0 10 10"></path>
 <path d="M452 48h20"></path>
 <g>
 <path d="M472 48h0"></path>
-<path d="M1070 48h0"></path>
+<path d="M938 48h0"></path>
 <g class="terminal">
 <path d="M472 48h0"></path>
 <path d="M524 48h0"></path>
@@ -126,15 +126,15 @@ cursor: help;
 <path d="M524 48h10"></path>
 <g>
 <path d="M534 48h0"></path>
-<path d="M1070 48h0"></path>
+<path d="M938 48h0"></path>
 <path d="M534 48h20"></path>
 <g>
 <path d="M554 48h0"></path>
-<path d="M1050 48h0"></path>
+<path d="M918 48h0"></path>
 <path d="M554 48h10"></path>
 <g>
 <path d="M564 48h0"></path>
-<path d="M1040 48h0"></path>
+<path d="M908 48h0"></path>
 <g>
 <path d="M564 48h0"></path>
 <path d="M712 48h0"></path>
@@ -197,42 +197,42 @@ cursor: help;
 </g>
 <path d="M888 48h20"></path>
 </g>
-<g>
-<path d="M908 48h0"></path>
-<path d="M1040 48h0"></path>
-<path d="M908 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M928 28h92"></path>
 </g>
-<path d="M1020 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M908 48h20"></path>
-<g class="terminal">
-<path d="M928 48h0"></path>
-<path d="M1020 48h0"></path>
-<rect x="928" y="37" width="92" height="22" rx="10" ry="10"></rect>
-<text x="974" y="52">"AS TEXT"</text>
-</g>
-<path d="M1020 48h20"></path>
-</g>
-</g>
-<path d="M1040 48h10"></path>
+<path d="M908 48h10"></path>
 <path d="M564 48a10 10 0 0 0 -10 10v59a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M564 127h476"></path>
+<path d="M564 127h344"></path>
 </g>
-<path d="M1040 127a10 10 0 0 0 10 -10v-59a10 10 0 0 0 -10 -10"></path>
+<path d="M908 127a10 10 0 0 0 10 -10v-59a10 10 0 0 0 -10 -10"></path>
 </g>
-<path d="M1050 48h20"></path>
+<path d="M918 48h20"></path>
 <path d="M534 48a10 10 0 0 1 10 10v78a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
 <path d="M554 146h0"></path>
-<path d="M630 146h420"></path>
+<path d="M630 146h288"></path>
 <rect x="554" y="135" width="76" height="22"></rect>
 <a xlink:href="reuse_dynamic.svg"><text x="592" y="150">Dynamic</text>
 </a>
 </g>
-<path d="M1050 146a10 10 0 0 0 10 -10v-78a10 10 0 0 1 10 -10"></path>
+<path d="M918 146a10 10 0 0 0 10 -10v-78a10 10 0 0 1 10 -10"></path>
 </g>
+</g>
+<path d="M938 48h20"></path>
+</g>
+<g>
+<path d="M958 48h0"></path>
+<path d="M1090 48h0"></path>
+<path d="M958 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M978 28h92"></path>
+</g>
+<path d="M1070 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M958 48h20"></path>
+<g class="terminal">
+<path d="M978 48h0"></path>
+<path d="M1070 48h0"></path>
+<rect x="978" y="37" width="92" height="22" rx="10" ry="10"></rect>
+<text x="1024" y="52">"AS TEXT"</text>
 </g>
 <path d="M1070 48h20"></path>
 </g>
