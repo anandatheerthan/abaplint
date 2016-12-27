@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1388" height="131" viewBox="0 0 1388 131">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1388" height="161" viewBox="0 0 1388 161">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -160,7 +160,7 @@ cursor: help;
 <path d="M152 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M172 70h0"></path>
-<path d="M878 70h440"></path>
+<path d="M756 70h562"></path>
 <g>
 <path d="M172 70h0"></path>
 <path d="M398 70h0"></path>
@@ -216,37 +216,79 @@ cursor: help;
 </g>
 <path d="M398 70h10"></path>
 <path d="M408 70h10"></path>
-<g class="terminal">
+<g>
 <path d="M418 70h0"></path>
-<path d="M574 70h0"></path>
-<rect x="418" y="59" width="156" height="22" rx="10" ry="10"></rect>
-<text x="496" y="74">"INTO TIME STAMP"</text>
-</g>
-<path d="M574 70h10"></path>
-<path d="M584 70h10"></path>
-<g class="non-terminal">
-<path d="M594 70h0"></path>
-<path d="M662 70h0"></path>
-<rect x="594" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="628" y="74">Target</text>
-</a>
-</g>
-<path d="M662 70h10"></path>
-<path d="M672 70h10"></path>
+<path d="M756 70h0"></path>
+<path d="M448 70h10"></path>
+<g>
+<path d="M458 70h0"></path>
+<path d="M702 70h24"></path>
 <g class="terminal">
-<path d="M682 70h0"></path>
-<path d="M790 70h0"></path>
-<rect x="682" y="59" width="108" height="22" rx="10" ry="10"></rect>
-<text x="736" y="74">"TIME ZONE"</text>
+<path d="M458 70h0"></path>
+<path d="M614 70h0"></path>
+<rect x="458" y="59" width="156" height="22" rx="10" ry="10"></rect>
+<text x="536" y="74">"INTO TIME STAMP"</text>
 </g>
-<path d="M790 70h10"></path>
-<path d="M800 70h10"></path>
+<path d="M614 70h10"></path>
+<path d="M624 70h10"></path>
 <g class="non-terminal">
-<path d="M810 70h0"></path>
-<path d="M878 70h0"></path>
-<rect x="810" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="844" y="74">Source</text>
+<path d="M634 70h0"></path>
+<path d="M702 70h0"></path>
+<rect x="634" y="59" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="668" y="74">Target</text>
 </a>
+</g>
+</g>
+<path d="M726 70h10"></path>
+<path d="M448 70v20a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M458 100h0"></path>
+<path d="M654 100h72"></path>
+<g class="terminal">
+<path d="M458 100h0"></path>
+<path d="M566 100h0"></path>
+<rect x="458" y="89" width="108" height="22" rx="10" ry="10"></rect>
+<text x="512" y="104">"TIME ZONE"</text>
+</g>
+<path d="M566 100h10"></path>
+<path d="M576 100h10"></path>
+<g class="non-terminal">
+<path d="M586 100h0"></path>
+<path d="M654 100h0"></path>
+<rect x="586" y="89" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="620" y="104">Source</text>
+</a>
+</g>
+</g>
+<path d="M726 100a10 10 0 0 0 10 -10v-20"></path>
+<path d="M448 70v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M458 130h0"></path>
+<path d="M726 130h0"></path>
+<g class="terminal">
+<path d="M458 130h0"></path>
+<path d="M638 130h0"></path>
+<rect x="458" y="119" width="180" height="22" rx="10" ry="10"></rect>
+<text x="548" y="134">"INTO INVERTED-DATE"</text>
+</g>
+<path d="M638 130h10"></path>
+<path d="M648 130h10"></path>
+<g class="non-terminal">
+<path d="M658 130h0"></path>
+<path d="M726 130h0"></path>
+<rect x="658" y="119" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="692" y="134">Target</text>
+</a>
+</g>
+</g>
+<path d="M726 130a10 10 0 0 0 10 -10v-50"></path>
+<g class="diagram-text">
+<title>take one or more branches, once each, in any order</title>
+<path d="M 448 60 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
+<text x="433" y="74" class="diagram-text">1+</text>
+<path d="M 736 60 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 743 68 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+</g>
 </g>
 </g>
 <path d="M1318 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>

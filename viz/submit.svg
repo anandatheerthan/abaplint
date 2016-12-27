@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="792" height="499" viewBox="0 0 792 499">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="792" height="529" viewBox="0 0 792 529">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -268,19 +268,32 @@ cursor: help;
 </g>
 <path d="M692 288a10 10 0 0 0 10 -10v-238"></path>
 <path d="M310 40v268a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M320 318h0"></path>
+<path d="M476 318h216"></path>
 <g class="terminal">
 <path d="M320 318h0"></path>
-<path d="M452 318h240"></path>
-<rect x="320" y="307" width="132" height="22" rx="10" ry="10"></rect>
-<text x="386" y="322">"TO SAP-SPOOL"</text>
+<path d="M388 318h0"></path>
+<rect x="320" y="307" width="68" height="22" rx="10" ry="10"></rect>
+<text x="354" y="322">"USER"</text>
+</g>
+<path d="M388 318h10"></path>
+<path d="M398 318h10"></path>
+<g class="non-terminal">
+<path d="M408 318h0"></path>
+<path d="M476 318h0"></path>
+<rect x="408" y="307" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="442" y="322">Source</text>
+</a>
+</g>
 </g>
 <path d="M692 318a10 10 0 0 0 10 -10v-268"></path>
 <path d="M310 40v298a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M320 348h0"></path>
-<path d="M516 348h176"></path>
-<rect x="320" y="337" width="196" height="22" rx="10" ry="10"></rect>
-<text x="418" y="352">"WITHOUT SPOOL DYNPRO"</text>
+<path d="M452 348h240"></path>
+<rect x="320" y="337" width="132" height="22" rx="10" ry="10"></rect>
+<text x="386" y="352">"TO SAP-SPOOL"</text>
 </g>
 <path d="M692 348a10 10 0 0 0 10 -10v-298"></path>
 <path d="M310 40v328a10 10 0 0 0 10 10"></path>
@@ -288,63 +301,71 @@ cursor: help;
 <path d="M320 378h0"></path>
 <path d="M516 378h176"></path>
 <rect x="320" y="367" width="196" height="22" rx="10" ry="10"></rect>
-<text x="418" y="382">"VIA SELECTION-SCREEN"</text>
+<text x="418" y="382">"WITHOUT SPOOL DYNPRO"</text>
 </g>
 <path d="M692 378a10 10 0 0 0 10 -10v-328"></path>
 <path d="M310 40v358a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M320 408h0"></path>
-<path d="M548 408h144"></path>
-<rect x="320" y="397" width="228" height="22" rx="10" ry="10"></rect>
-<text x="434" y="412">"EXPORTING LIST TO MEMORY"</text>
+<path d="M516 408h176"></path>
+<rect x="320" y="397" width="196" height="22" rx="10" ry="10"></rect>
+<text x="418" y="412">"VIA SELECTION-SCREEN"</text>
 </g>
 <path d="M692 408a10 10 0 0 0 10 -10v-358"></path>
 <path d="M310 40v388a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M320 438h0"></path>
-<path d="M436 438h256"></path>
-<rect x="320" y="427" width="116" height="22" rx="10" ry="10"></rect>
-<text x="378" y="442">"AND RETURN"</text>
+<path d="M548 438h144"></path>
+<rect x="320" y="427" width="228" height="22" rx="10" ry="10"></rect>
+<text x="434" y="442">"EXPORTING LIST TO MEMORY"</text>
 </g>
 <path d="M692 438a10 10 0 0 0 10 -10v-388"></path>
 <path d="M310 40v418a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M320 468h0"></path>
-<path d="M692 468h0"></path>
 <g class="terminal">
 <path d="M320 468h0"></path>
-<path d="M412 468h0"></path>
-<rect x="320" y="457" width="92" height="22" rx="10" ry="10"></rect>
-<text x="366" y="472">"VIA JOB"</text>
-</g>
-<path d="M412 468h10"></path>
-<path d="M422 468h10"></path>
-<g class="non-terminal">
-<path d="M432 468h0"></path>
-<path d="M500 468h0"></path>
-<rect x="432" y="457" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="466" y="472">Source</text>
-</a>
-</g>
-<path d="M500 468h10"></path>
-<path d="M510 468h10"></path>
-<g class="terminal">
-<path d="M520 468h0"></path>
-<path d="M604 468h0"></path>
-<rect x="520" y="457" width="84" height="22" rx="10" ry="10"></rect>
-<text x="562" y="472">"NUMBER"</text>
-</g>
-<path d="M604 468h10"></path>
-<path d="M614 468h10"></path>
-<g class="non-terminal">
-<path d="M624 468h0"></path>
-<path d="M692 468h0"></path>
-<rect x="624" y="457" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="658" y="472">Source</text>
-</a>
-</g>
+<path d="M436 468h256"></path>
+<rect x="320" y="457" width="116" height="22" rx="10" ry="10"></rect>
+<text x="378" y="472">"AND RETURN"</text>
 </g>
 <path d="M692 468a10 10 0 0 0 10 -10v-418"></path>
+<path d="M310 40v448a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M320 498h0"></path>
+<path d="M692 498h0"></path>
+<g class="terminal">
+<path d="M320 498h0"></path>
+<path d="M412 498h0"></path>
+<rect x="320" y="487" width="92" height="22" rx="10" ry="10"></rect>
+<text x="366" y="502">"VIA JOB"</text>
+</g>
+<path d="M412 498h10"></path>
+<path d="M422 498h10"></path>
+<g class="non-terminal">
+<path d="M432 498h0"></path>
+<path d="M500 498h0"></path>
+<rect x="432" y="487" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="466" y="502">Source</text>
+</a>
+</g>
+<path d="M500 498h10"></path>
+<path d="M510 498h10"></path>
+<g class="terminal">
+<path d="M520 498h0"></path>
+<path d="M604 498h0"></path>
+<rect x="520" y="487" width="84" height="22" rx="10" ry="10"></rect>
+<text x="562" y="502">"NUMBER"</text>
+</g>
+<path d="M604 498h10"></path>
+<path d="M614 498h10"></path>
+<g class="non-terminal">
+<path d="M624 498h0"></path>
+<path d="M692 498h0"></path>
+<rect x="624" y="487" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="658" y="502">Source</text>
+</a>
+</g>
+</g>
+<path d="M692 498a10 10 0 0 0 10 -10v-448"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 310 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
