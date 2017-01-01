@@ -76,7 +76,7 @@ cursor: help;
 <path d="M238 40h20"></path>
 <g>
 <path d="M258 40h0"></path>
-<path d="M554 40h428"></path>
+<path d="M740 40h242"></path>
 <g>
 <path d="M258 40h0"></path>
 <path d="M466 40h0"></path>
@@ -311,12 +311,40 @@ cursor: help;
 </g>
 </g>
 <path d="M466 40h10"></path>
-<path d="M476 40h10"></path>
+<g>
+<path d="M476 40h0"></path>
+<path d="M662 40h0"></path>
+<path d="M476 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M496 20h146"></path>
+</g>
+<path d="M642 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M476 40h20"></path>
+<g>
+<path d="M496 40h0"></path>
+<path d="M642 40h0"></path>
+<g>
+<path d="M496 40h0"></path>
+<path d="M562 40h0"></path>
+<text x="529" y="45" class="comment">v740sp02</text>
+</g>
+<path d="M562 40h10"></path>
+<path d="M572 40h10"></path>
+<g class="terminal">
+<path d="M582 40h0"></path>
+<path d="M642 40h0"></path>
+<rect x="582" y="29" width="60" height="22" rx="10" ry="10"></rect>
+<text x="612" y="44">!" @"</text>
+</g>
+</g>
+<path d="M642 40h20"></path>
+</g>
+<path d="M662 40h10"></path>
 <g class="non-terminal">
-<path d="M486 40h0"></path>
-<path d="M554 40h0"></path>
-<rect x="486" y="29" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="520" y="44">Source</text>
+<path d="M672 40h0"></path>
+<path d="M740 40h0"></path>
+<rect x="672" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="706" y="44">Source</text>
 </a>
 </g>
 </g>

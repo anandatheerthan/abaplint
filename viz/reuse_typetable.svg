@@ -335,24 +335,32 @@ cursor: help;
 </g>
 <path d="M1494 117h20"></path>
 <path d="M1312 117a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M1332 147h0"></path>
-<path d="M1494 147h0"></path>
-<g>
-<path d="M1332 147h0"></path>
-<path d="M1398 147h0"></path>
-<text x="1365" y="152" class="comment">v740sp02</text>
-</g>
-<path d="M1398 147h10"></path>
-<path d="M1408 147h10"></path>
 <g class="terminal">
-<path d="M1418 147h0"></path>
-<path d="M1494 147h0"></path>
-<rect x="1418" y="136" width="76" height="22" rx="10" ry="10"></rect>
-<text x="1456" y="151">"EMPTY"</text>
-</g>
+<path d="M1332 147h0"></path>
+<path d="M1416 147h78"></path>
+<rect x="1332" y="136" width="84" height="22" rx="10" ry="10"></rect>
+<text x="1374" y="151">"SORTED"</text>
 </g>
 <path d="M1494 147a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M1312 117a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1332 177h0"></path>
+<path d="M1494 177h0"></path>
+<g>
+<path d="M1332 177h0"></path>
+<path d="M1398 177h0"></path>
+<text x="1365" y="182" class="comment">v740sp02</text>
+</g>
+<path d="M1398 177h10"></path>
+<path d="M1408 177h10"></path>
+<g class="terminal">
+<path d="M1418 177h0"></path>
+<path d="M1494 177h0"></path>
+<rect x="1418" y="166" width="76" height="22" rx="10" ry="10"></rect>
+<text x="1456" y="181">"EMPTY"</text>
+</g>
+</g>
+<path d="M1494 177a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M1514 117h20"></path>
 </g>
