@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1898" height="178" viewBox="0 0 1898 178">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1938" height="178" viewBox="0 0 1938 178">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 48h10"></path>
 <g>
 <path d="M50 48h0"></path>
-<path d="M1848 48h0"></path>
+<path d="M1888 48h0"></path>
 <g class="terminal">
 <path d="M50 48h0"></path>
 <path d="M142 48h0"></path>
@@ -385,23 +385,37 @@ cursor: help;
 </g>
 <g>
 <path d="M1636 48h0"></path>
-<path d="M1848 48h0"></path>
+<path d="M1888 48h0"></path>
 <path d="M1636 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M1656 28h172"></path>
+<path d="M1656 28h212"></path>
 </g>
-<path d="M1828 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1868 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
 <path d="M1636 48h20"></path>
-<g class="terminal">
+<g>
 <path d="M1656 48h0"></path>
-<path d="M1828 48h0"></path>
-<rect x="1656" y="37" width="172" height="22" rx="10" ry="10"></rect>
-<text x="1742" y="52">"IN CHARACTER MODE"</text>
+<path d="M1868 48h0"></path>
+<path d="M1656 48h20"></path>
+<g class="terminal">
+<path d="M1676 48h0"></path>
+<path d="M1848 48h0"></path>
+<rect x="1676" y="37" width="172" height="22" rx="10" ry="10"></rect>
+<text x="1762" y="52">"IN CHARACTER MODE"</text>
 </g>
-<path d="M1828 48h20"></path>
+<path d="M1848 48h20"></path>
+<path d="M1656 48a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1676 78h0"></path>
+<path d="M1808 78h40"></path>
+<rect x="1676" y="67" width="132" height="22" rx="10" ry="10"></rect>
+<text x="1742" y="82">"IN BYTE MODE"</text>
+</g>
+<path d="M1848 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M1868 48h20"></path>
 </g>
 </g>
-<path d="M1848 48h10"></path>
-<path d="M 1858 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1888 48h10"></path>
+<path d="M 1898 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

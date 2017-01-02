@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1374" height="281" viewBox="0 0 1374 281">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1374" height="311" viewBox="0 0 1374 311">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -118,9 +118,9 @@ cursor: help;
 <path d="M292 40a10 10 0 0 1 10 10v130a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M312 190h0"></path>
-<path d="M524 190h0"></path>
-<rect x="312" y="179" width="212" height="22" rx="10" ry="10"></rect>
-<text x="418" y="194">"TYPE STANDARD TABLE OF"</text>
+<path d="M452 190h72"></path>
+<rect x="312" y="179" width="140" height="22" rx="10" ry="10"></rect>
+<text x="382" y="194">"TYPE TABLE OF"</text>
 </g>
 <path d="M524 190a10 10 0 0 0 10 -10v-130a10 10 0 0 1 10 -10"></path>
 <path d="M292 40a10 10 0 0 1 10 10v160a10 10 0 0 0 10 10"></path>
@@ -128,17 +128,25 @@ cursor: help;
 <path d="M312 220h0"></path>
 <path d="M524 220h0"></path>
 <rect x="312" y="209" width="212" height="22" rx="10" ry="10"></rect>
-<text x="418" y="224">"LIKE STANDARD TABLE OF"</text>
+<text x="418" y="224">"TYPE STANDARD TABLE OF"</text>
 </g>
 <path d="M524 220a10 10 0 0 0 10 -10v-160a10 10 0 0 1 10 -10"></path>
 <path d="M292 40a10 10 0 0 1 10 10v190a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M312 250h0"></path>
-<path d="M444 250h80"></path>
-<rect x="312" y="239" width="132" height="22" rx="10" ry="10"></rect>
-<text x="378" y="254">"LIKE LINE OF"</text>
+<path d="M524 250h0"></path>
+<rect x="312" y="239" width="212" height="22" rx="10" ry="10"></rect>
+<text x="418" y="254">"LIKE STANDARD TABLE OF"</text>
 </g>
 <path d="M524 250a10 10 0 0 0 10 -10v-190a10 10 0 0 1 10 -10"></path>
+<path d="M292 40a10 10 0 0 1 10 10v220a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M312 280h0"></path>
+<path d="M444 280h80"></path>
+<rect x="312" y="269" width="132" height="22" rx="10" ry="10"></rect>
+<text x="378" y="284">"LIKE LINE OF"</text>
+</g>
+<path d="M524 280a10 10 0 0 0 10 -10v-220a10 10 0 0 1 10 -10"></path>
 </g>
 <g>
 <path d="M544 40h0"></path>
