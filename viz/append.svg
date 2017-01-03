@@ -184,7 +184,7 @@ cursor: help;
 <path d="M948 48h20"></path>
 <g>
 <path d="M968 48h0"></path>
-<path d="M1164 48h40"></path>
+<path d="M1180 48h24"></path>
 <g class="terminal">
 <path d="M968 48h0"></path>
 <path d="M1076 48h0"></path>
@@ -195,9 +195,9 @@ cursor: help;
 <path d="M1086 48h10"></path>
 <g class="non-terminal">
 <path d="M1096 48h0"></path>
-<path d="M1164 48h0"></path>
-<rect x="1096" y="37" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1130" y="52">Target</text>
+<path d="M1180 48h0"></path>
+<rect x="1096" y="37" width="84" height="22"></rect>
+<a xlink:href="reuse_fstarget.svg"><text x="1138" y="52">FSTarget</text>
 </a>
 </g>
 </g>
