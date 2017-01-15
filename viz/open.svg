@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1028" height="101" viewBox="0 0 1028 101">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1060" height="161" viewBox="0 0 1060 161">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M978 40h0"></path>
+<path d="M1010 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M182 40h0"></path>
@@ -113,28 +113,41 @@ cursor: help;
 </g>
 <g>
 <path d="M656 40h0"></path>
-<path d="M978 40h0"></path>
+<path d="M1010 40h0"></path>
 <path d="M656 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M676 20h282"></path>
+<path d="M676 20h314"></path>
 </g>
-<path d="M958 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M990 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
 <path d="M656 40h20"></path>
 <g>
 <path d="M676 40h0"></path>
-<path d="M958 40h0"></path>
+<path d="M990 40h0"></path>
 <path d="M706 40h10"></path>
+<g>
+<path d="M716 40h0"></path>
+<path d="M904 40h56"></path>
 <g class="terminal">
 <path d="M716 40h0"></path>
-<path d="M880 40h48"></path>
-<rect x="716" y="29" width="164" height="22" rx="10" ry="10"></rect>
-<text x="798" y="44">"ENCODING DEFAULT"</text>
+<path d="M816 40h0"></path>
+<rect x="716" y="29" width="100" height="22" rx="10" ry="10"></rect>
+<text x="766" y="44">"ENCODING"</text>
 </g>
-<path d="M928 40h10"></path>
+<path d="M816 40h10"></path>
+<path d="M826 40h10"></path>
+<g class="non-terminal">
+<path d="M836 40h0"></path>
+<path d="M904 40h0"></path>
+<rect x="836" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="870" y="44">Source</text>
+</a>
+</g>
+</g>
+<path d="M960 40h10"></path>
 <path d="M706 40v20a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M716 70h0"></path>
-<path d="M928 70h0"></path>
+<path d="M928 70h32"></path>
 <g class="terminal">
 <path d="M716 70h0"></path>
 <path d="M840 70h0"></path>
@@ -151,19 +164,48 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M928 70a10 10 0 0 0 10 -10v-20"></path>
+<path d="M960 70a10 10 0 0 0 10 -10v-20"></path>
+<path d="M706 40v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M716 100h0"></path>
+<path d="M896 100h64"></path>
+<g class="terminal">
+<path d="M716 100h0"></path>
+<path d="M808 100h0"></path>
+<rect x="716" y="89" width="92" height="22" rx="10" ry="10"></rect>
+<text x="762" y="104">"MESSAGE"</text>
+</g>
+<path d="M808 100h10"></path>
+<path d="M818 100h10"></path>
+<g class="non-terminal">
+<path d="M828 100h0"></path>
+<path d="M896 100h0"></path>
+<rect x="828" y="89" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="862" y="104">Target</text>
+</a>
+</g>
+</g>
+<path d="M960 100a10 10 0 0 0 10 -10v-50"></path>
+<path d="M706 40v80a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M716 130h0"></path>
+<path d="M960 130h0"></path>
+<rect x="716" y="119" width="244" height="22" rx="10" ry="10"></rect>
+<text x="838" y="134">"IGNORING CONVERSION ERRORS"</text>
+</g>
+<path d="M960 130a10 10 0 0 0 10 -10v-80"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 706 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
 <text x="691" y="44" class="diagram-text">1+</text>
-<path d="M 938 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
-<path d="M 945 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+<path d="M 970 30 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 977 38 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
 </g>
 </g>
-<path d="M958 40h20"></path>
+<path d="M990 40h20"></path>
 </g>
 </g>
-<path d="M978 40h10"></path>
-<path d="M 988 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1010 40h10"></path>
+<path d="M 1020 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

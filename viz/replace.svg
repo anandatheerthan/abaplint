@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1938" height="178" viewBox="0 0 1938 178">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="2238" height="178" viewBox="0 0 2238 178">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 48h10"></path>
 <g>
 <path d="M50 48h0"></path>
-<path d="M1888 48h0"></path>
+<path d="M2188 48h0"></path>
 <g class="terminal">
 <path d="M50 48h0"></path>
 <path d="M142 48h0"></path>
@@ -428,8 +428,38 @@ cursor: help;
 </g>
 <path d="M1868 48h20"></path>
 </g>
+<g>
+<path d="M1888 48h0"></path>
+<path d="M2188 48h0"></path>
+<path d="M1888 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1908 28h260"></path>
 </g>
-<path d="M1888 48h10"></path>
-<path d="M 1898 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M2168 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1888 48h20"></path>
+<g>
+<path d="M1908 48h0"></path>
+<path d="M2168 48h0"></path>
+<g class="terminal">
+<path d="M1908 48h0"></path>
+<path d="M2080 48h0"></path>
+<rect x="1908" y="37" width="172" height="22" rx="10" ry="10"></rect>
+<text x="1994" y="52">"REPLACEMENT COUNT"</text>
+</g>
+<path d="M2080 48h10"></path>
+<path d="M2090 48h10"></path>
+<g class="non-terminal">
+<path d="M2100 48h0"></path>
+<path d="M2168 48h0"></path>
+<rect x="2100" y="37" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="2134" y="52">Target</text>
+</a>
+</g>
+</g>
+<path d="M2168 48h20"></path>
+</g>
+</g>
+<path d="M2188 48h10"></path>
+<path d="M 2198 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
