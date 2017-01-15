@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="726" height="482" viewBox="0 0 726 482">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="726" height="542" viewBox="0 0 726 542">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -307,26 +307,42 @@ cursor: help;
 </g>
 <path d="M646 421a10 10 0 0 0 10 -10v-380"></path>
 <path d="M352 31v410a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M362 451h0"></path>
-<path d="M574 451h72"></path>
 <g class="terminal">
 <path d="M362 451h0"></path>
-<path d="M494 451h0"></path>
-<rect x="362" y="440" width="132" height="22" rx="10" ry="10"></rect>
-<text x="428" y="455">"WITH PRAGMAS"</text>
+<path d="M534 451h112"></path>
+<rect x="362" y="440" width="172" height="22" rx="10" ry="10"></rect>
+<text x="448" y="455">"WITH DECLARATIONS"</text>
 </g>
-<path d="M494 451h10"></path>
-<path d="M504 451h10"></path>
+<path d="M646 451a10 10 0 0 0 10 -10v-410"></path>
+<path d="M352 31v440a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M362 481h0"></path>
+<path d="M486 481h160"></path>
+<rect x="362" y="470" width="124" height="22" rx="10" ry="10"></rect>
+<text x="424" y="485">"WITH BLOCKS"</text>
+</g>
+<path d="M646 481a10 10 0 0 0 10 -10v-440"></path>
+<path d="M352 31v470a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M362 511h0"></path>
+<path d="M574 511h72"></path>
+<g class="terminal">
+<path d="M362 511h0"></path>
+<path d="M494 511h0"></path>
+<rect x="362" y="500" width="132" height="22" rx="10" ry="10"></rect>
+<text x="428" y="515">"WITH PRAGMAS"</text>
+</g>
+<path d="M494 511h10"></path>
+<path d="M504 511h10"></path>
 <g class="non-terminal">
-<path d="M514 451h0"></path>
-<path d="M574 451h0"></path>
-<rect x="514" y="440" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="544" y="455">Field</text>
+<path d="M514 511h0"></path>
+<path d="M574 511h0"></path>
+<rect x="514" y="500" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="544" y="515">Field</text>
 </a>
 </g>
 </g>
-<path d="M646 451a10 10 0 0 0 10 -10v-410"></path>
+<path d="M646 511a10 10 0 0 0 10 -10v-470"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 352 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

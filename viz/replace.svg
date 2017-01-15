@@ -160,7 +160,7 @@ cursor: help;
 <path d="M192 48v59a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M202 117h0"></path>
-<path d="M742 117h76"></path>
+<path d="M814 117h4"></path>
 <g>
 <path d="M202 117h0"></path>
 <path d="M446 117h0"></path>
@@ -195,7 +195,7 @@ cursor: help;
 <path d="M446 117h10"></path>
 <g>
 <path d="M456 117h0"></path>
-<path d="M742 117h0"></path>
+<path d="M814 117h0"></path>
 <g>
 <path d="M456 117h0"></path>
 <path d="M548 117h0"></path>
@@ -215,27 +215,41 @@ cursor: help;
 </g>
 <g>
 <path d="M548 117h0"></path>
-<path d="M664 117h0"></path>
+<path d="M736 117h0"></path>
 <path d="M548 117a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M568 97h76"></path>
+<path d="M568 97h148"></path>
 </g>
-<path d="M644 97a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M716 97a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
 <path d="M548 117h20"></path>
-<g class="terminal">
+<g>
 <path d="M568 117h0"></path>
-<path d="M644 117h0"></path>
-<rect x="568" y="106" width="76" height="22" rx="10" ry="10"></rect>
-<text x="606" y="121">"REGEX"</text>
+<path d="M716 117h0"></path>
+<path d="M568 117h20"></path>
+<g class="terminal">
+<path d="M588 117h0"></path>
+<path d="M664 117h32"></path>
+<rect x="588" y="106" width="76" height="22" rx="10" ry="10"></rect>
+<text x="626" y="121">"REGEX"</text>
 </g>
-<path d="M644 117h20"></path>
+<path d="M696 117h20"></path>
+<path d="M568 117a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M588 147h0"></path>
+<path d="M696 147h0"></path>
+<rect x="588" y="136" width="108" height="22" rx="10" ry="10"></rect>
+<text x="642" y="151">"SUBSTRING"</text>
 </g>
-<path d="M664 117h10"></path>
+<path d="M696 147a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M716 117h20"></path>
+</g>
+<path d="M736 117h10"></path>
 <g class="non-terminal">
-<path d="M674 117h0"></path>
-<path d="M742 117h0"></path>
-<rect x="674" y="106" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="708" y="121">Source</text>
+<path d="M746 117h0"></path>
+<path d="M814 117h0"></path>
+<rect x="746" y="106" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="780" y="121">Source</text>
 </a>
 </g>
 </g>
