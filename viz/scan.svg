@@ -430,7 +430,7 @@ cursor: help;
 <path d="M352 31v620a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M362 661h0"></path>
-<path d="M574 661h72"></path>
+<path d="M582 661h64"></path>
 <g class="terminal">
 <path d="M362 661h0"></path>
 <path d="M494 661h0"></path>
@@ -441,9 +441,9 @@ cursor: help;
 <path d="M504 661h10"></path>
 <g class="non-terminal">
 <path d="M514 661h0"></path>
-<path d="M574 661h0"></path>
-<rect x="514" y="650" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="544" y="665">Field</text>
+<path d="M582 661h0"></path>
+<rect x="514" y="650" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="548" y="665">Source</text>
 </a>
 </g>
 </g>
