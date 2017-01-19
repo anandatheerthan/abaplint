@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1714" height="161" viewBox="0 0 1714 161">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1714" height="170" viewBox="0 0 1714 170">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -166,50 +166,71 @@ cursor: help;
 </g>
 </g>
 <path d="M836 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
-<path d="M380 40a10 10 0 0 1 10 10v49a10 10 0 0 0 10 10"></path>
+<path d="M380 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M400 109h0"></path>
-<path d="M690 109h146"></path>
-<g class="non-terminal">
-<path d="M400 109h0"></path>
-<path d="M476 109h0"></path>
-<rect x="400" y="98" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="438" y="113">Dynamic</text>
-</a>
-</g>
-<path d="M476 109h10"></path>
-<g>
-<path d="M486 109h0"></path>
-<path d="M690 109h0"></path>
-<path d="M486 109a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
-<g>
-<path d="M506 89h164"></path>
-</g>
-<path d="M670 89a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
-<path d="M486 109h20"></path>
-<g>
-<path d="M506 109h0"></path>
-<path d="M670 109h0"></path>
+<path d="M400 100h0"></path>
+<path d="M620 100h216"></path>
 <g class="terminal">
-<path d="M506 109h0"></path>
-<path d="M590 109h0"></path>
-<rect x="506" y="98" width="84" height="22" rx="10" ry="10"></rect>
-<text x="548" y="113">!"->/=>"</text>
+<path d="M400 100h0"></path>
+<path d="M524 100h0"></path>
+<rect x="400" y="89" width="124" height="22" rx="10" ry="10"></rect>
+<text x="462" y="104">"TABLE FIELD"</text>
 </g>
-<path d="M590 109h10"></path>
-<path d="M600 109h10"></path>
+<path d="M524 100h10"></path>
+<path d="M534 100h10"></path>
 <g class="non-terminal">
-<path d="M610 109h0"></path>
-<path d="M670 109h0"></path>
-<rect x="610" y="98" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="640" y="113">Field</text>
+<path d="M544 100h0"></path>
+<path d="M620 100h0"></path>
+<rect x="544" y="89" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="582" y="104">Dynamic</text>
 </a>
 </g>
 </g>
-<path d="M670 109h20"></path>
+<path d="M836 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M380 40a10 10 0 0 1 10 10v79a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M400 139h0"></path>
+<path d="M690 139h146"></path>
+<g class="non-terminal">
+<path d="M400 139h0"></path>
+<path d="M476 139h0"></path>
+<rect x="400" y="128" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="438" y="143">Dynamic</text>
+</a>
+</g>
+<path d="M476 139h10"></path>
+<g>
+<path d="M486 139h0"></path>
+<path d="M690 139h0"></path>
+<path d="M486 139a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M506 119h164"></path>
+</g>
+<path d="M670 119a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M486 139h20"></path>
+<g>
+<path d="M506 139h0"></path>
+<path d="M670 139h0"></path>
+<g class="terminal">
+<path d="M506 139h0"></path>
+<path d="M590 139h0"></path>
+<rect x="506" y="128" width="84" height="22" rx="10" ry="10"></rect>
+<text x="548" y="143">!"->/=>"</text>
+</g>
+<path d="M590 139h10"></path>
+<path d="M600 139h10"></path>
+<g class="non-terminal">
+<path d="M610 139h0"></path>
+<path d="M670 139h0"></path>
+<rect x="610" y="128" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="640" y="143">Field</text>
+</a>
 </g>
 </g>
-<path d="M836 109a10 10 0 0 0 10 -10v-49a10 10 0 0 1 10 -10"></path>
+<path d="M670 139h20"></path>
+</g>
+</g>
+<path d="M836 139a10 10 0 0 0 10 -10v-79a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M856 40h10"></path>
 <g class="terminal">

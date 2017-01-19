@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="302" height="71" viewBox="0 0 302 71">
+<defs>
+<style type="text/css"><![CDATA[
+path {
+stroke-width: 3;
+stroke: black;
+fill: rgba(0,0,0,0);
+}
+text {
+font: bold 14px monospace;
+text-anchor: middle;
+}
+text.diagram-text {
+font-size: 12px;
+}
+a {
+fill: blue;
+}
+text.diagram-arrow {
+font-size: 16px;
+}
+text.label {
+text-anchor: start;
+}
+text.comment {
+font: italic 12px monospace;
+}
+rect {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+}
+path.diagram-text {
+stroke-width: 3;
+stroke: black;
+fill: #BCBCBC;
+cursor: help;
+}
+]]></style>
+</defs>
+<g transform="translate(.5 .5)">
+<path d="M 20 30 v 20 m 10 -20 v 20 m -10 -10 h 20.5"></path>
+<path d="M40 40h10"></path>
+<g>
+<path d="M50 40h0"></path>
+<path d="M252 40h0"></path>
+<g class="terminal">
+<path d="M50 40h0"></path>
+<path d="M134 40h0"></path>
+<rect x="50" y="29" width="84" height="22" rx="10" ry="10"></rect>
+<text x="92" y="44">"REJECT"</text>
+</g>
+<path d="M134 40h10"></path>
+<g>
+<path d="M144 40h0"></path>
+<path d="M252 40h0"></path>
+<path d="M144 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M164 20h68"></path>
+</g>
+<path d="M232 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M144 40h20"></path>
+<g class="non-terminal">
+<path d="M164 40h0"></path>
+<path d="M232 40h0"></path>
+<rect x="164" y="29" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="198" y="44">Source</text>
+</a>
+</g>
+<path d="M232 40h20"></path>
+</g>
+</g>
+<path d="M252 40h10"></path>
+<path d="M 262 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+</g>
+</svg>
