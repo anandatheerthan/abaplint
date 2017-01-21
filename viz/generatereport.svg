@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="692" height="191" viewBox="0 0 692 191">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="692" height="221" viewBox="0 0 692 221">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -164,6 +164,27 @@ cursor: help;
 </g>
 </g>
 <path d="M592 160a10 10 0 0 0 10 -10v-110"></path>
+<path d="M354 40v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M364 190h0"></path>
+<path d="M536 190h56"></path>
+<g class="terminal">
+<path d="M364 190h0"></path>
+<path d="M448 190h0"></path>
+<rect x="364" y="179" width="84" height="22" rx="10" ry="10"></rect>
+<text x="406" y="194">"OFFSET"</text>
+</g>
+<path d="M448 190h10"></path>
+<path d="M458 190h10"></path>
+<g class="non-terminal">
+<path d="M468 190h0"></path>
+<path d="M536 190h0"></path>
+<rect x="468" y="179" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="502" y="194">Target</text>
+</a>
+</g>
+</g>
+<path d="M592 190a10 10 0 0 0 10 -10v-140"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 354 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

@@ -246,7 +246,7 @@ cursor: help;
 <path d="M508 40v230a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M518 280h0"></path>
-<path d="M770 280h88"></path>
+<path d="M842 280h16"></path>
 <g class="terminal">
 <path d="M518 280h0"></path>
 <path d="M690 280h0"></path>
@@ -257,9 +257,9 @@ cursor: help;
 <path d="M700 280h10"></path>
 <g class="non-terminal">
 <path d="M710 280h0"></path>
-<path d="M770 280h0"></path>
-<rect x="710" y="269" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="740" y="284">Field</text>
+<path d="M842 280h0"></path>
+<rect x="710" y="269" width="132" height="22"></rect>
+<a xlink:href="reuse_radiogroupname.svg"><text x="776" y="284">RadioGroupName</text>
 </a>
 </g>
 </g>

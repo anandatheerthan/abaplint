@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1076" height="79" viewBox="0 0 1076 79">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1392" height="79" viewBox="0 0 1392 79">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 48h10"></path>
 <g>
 <path d="M50 48h0"></path>
-<path d="M1026 48h0"></path>
+<path d="M1342 48h0"></path>
 <g class="terminal">
 <path d="M50 48h0"></path>
 <path d="M254 48h0"></path>
@@ -143,8 +143,38 @@ cursor: help;
 </g>
 <path d="M1006 48h20"></path>
 </g>
+<g>
+<path d="M1026 48h0"></path>
+<path d="M1342 48h0"></path>
+<path d="M1026 48a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M1046 28h276"></path>
 </g>
-<path d="M1026 48h10"></path>
-<path d="M 1036 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1322 28a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1026 48h20"></path>
+<g>
+<path d="M1046 48h0"></path>
+<path d="M1322 48h0"></path>
+<g class="terminal">
+<path d="M1046 48h0"></path>
+<path d="M1234 48h0"></path>
+<rect x="1046" y="37" width="188" height="22" rx="10" ry="10"></rect>
+<text x="1140" y="52">"USING SELECTION-SET"</text>
+</g>
+<path d="M1234 48h10"></path>
+<path d="M1244 48h10"></path>
+<g class="non-terminal">
+<path d="M1254 48h0"></path>
+<path d="M1322 48h0"></path>
+<rect x="1254" y="37" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="1288" y="52">Source</text>
+</a>
+</g>
+</g>
+<path d="M1322 48h20"></path>
+</g>
+</g>
+<path d="M1342 48h10"></path>
+<path d="M 1352 48 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>
