@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1418" height="199" viewBox="0 0 1418 199">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1418" height="229" viewBox="0 0 1418 229">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -331,6 +331,44 @@ cursor: help;
 </g>
 </g>
 <path d="M1348 78a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M152 48a10 10 0 0 1 10 10v130a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M172 198h0"></path>
+<path d="M616 198h732"></path>
+<g class="terminal">
+<path d="M172 198h0"></path>
+<path d="M312 198h0"></path>
+<rect x="172" y="187" width="140" height="22" rx="10" ry="10"></rect>
+<text x="242" y="202">"INVERTED-DATE"</text>
+</g>
+<path d="M312 198h10"></path>
+<path d="M322 198h10"></path>
+<g class="non-terminal">
+<path d="M332 198h0"></path>
+<path d="M400 198h0"></path>
+<rect x="332" y="187" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="366" y="202">Source</text>
+</a>
+</g>
+<path d="M400 198h10"></path>
+<path d="M410 198h10"></path>
+<g class="terminal">
+<path d="M420 198h0"></path>
+<path d="M528 198h0"></path>
+<rect x="420" y="187" width="108" height="22" rx="10" ry="10"></rect>
+<text x="474" y="202">"INTO DATE"</text>
+</g>
+<path d="M528 198h10"></path>
+<path d="M538 198h10"></path>
+<g class="non-terminal">
+<path d="M548 198h0"></path>
+<path d="M616 198h0"></path>
+<rect x="548" y="187" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="582" y="202">Target</text>
+</a>
+</g>
+</g>
+<path d="M1348 198a10 10 0 0 0 10 -10v-130a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M1368 48h10"></path>

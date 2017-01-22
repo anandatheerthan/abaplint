@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="692" height="221" viewBox="0 0 692 221">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="692" height="281" viewBox="0 0 692 281">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -185,6 +185,22 @@ cursor: help;
 </g>
 </g>
 <path d="M592 190a10 10 0 0 0 10 -10v-140"></path>
+<path d="M354 40v170a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M364 220h0"></path>
+<path d="M592 220h0"></path>
+<rect x="364" y="209" width="228" height="22" rx="10" ry="10"></rect>
+<text x="478" y="224">"WITH PRECOMPILED HEADERS"</text>
+</g>
+<path d="M592 220a10 10 0 0 0 10 -10v-170"></path>
+<path d="M354 40v200a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M364 250h0"></path>
+<path d="M512 250h80"></path>
+<rect x="364" y="239" width="148" height="22" rx="10" ry="10"></rect>
+<text x="438" y="254">"WITH TEST CODE"</text>
+</g>
+<path d="M592 250a10 10 0 0 0 10 -10v-200"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 354 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

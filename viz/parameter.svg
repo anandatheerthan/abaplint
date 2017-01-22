@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="958" height="521" viewBox="0 0 958 521">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="958" height="551" viewBox="0 0 958 551">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -351,27 +351,35 @@ cursor: help;
 <path d="M508 40v380a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M518 430h0"></path>
-<path d="M634 430h224"></path>
-<rect x="518" y="419" width="116" height="22" rx="10" ry="10"></rect>
-<text x="576" y="434">"NO-DISPLAY"</text>
+<path d="M642 430h216"></path>
+<rect x="518" y="419" width="124" height="22" rx="10" ry="10"></rect>
+<text x="580" y="434">"VALUE CHECK"</text>
 </g>
 <path d="M858 430a10 10 0 0 0 10 -10v-380"></path>
 <path d="M508 40v410a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M518 460h0"></path>
-<path d="M642 460h216"></path>
-<rect x="518" y="449" width="124" height="22" rx="10" ry="10"></rect>
-<text x="580" y="464">"AS CHECKBOX"</text>
+<path d="M634 460h224"></path>
+<rect x="518" y="449" width="116" height="22" rx="10" ry="10"></rect>
+<text x="576" y="464">"NO-DISPLAY"</text>
 </g>
 <path d="M858 460a10 10 0 0 0 10 -10v-410"></path>
 <path d="M508 40v440a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M518 490h0"></path>
-<path d="M634 490h224"></path>
-<rect x="518" y="479" width="116" height="22" rx="10" ry="10"></rect>
-<text x="576" y="494">"LOWER CASE"</text>
+<path d="M642 490h216"></path>
+<rect x="518" y="479" width="124" height="22" rx="10" ry="10"></rect>
+<text x="580" y="494">"AS CHECKBOX"</text>
 </g>
 <path d="M858 490a10 10 0 0 0 10 -10v-440"></path>
+<path d="M508 40v470a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M518 520h0"></path>
+<path d="M634 520h224"></path>
+<rect x="518" y="509" width="116" height="22" rx="10" ry="10"></rect>
+<text x="576" y="524">"LOWER CASE"</text>
+</g>
+<path d="M858 520a10 10 0 0 0 10 -10v-470"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 508 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
