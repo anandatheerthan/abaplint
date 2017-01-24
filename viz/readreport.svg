@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="566" height="92" viewBox="0 0 566 92">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="670" height="122" viewBox="0 0 670 122">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 31h10"></path>
 <g>
 <path d="M50 31h0"></path>
-<path d="M516 31h0"></path>
+<path d="M620 31h0"></path>
 <g class="terminal">
 <path d="M50 31h0"></path>
 <path d="M174 31h0"></path>
@@ -63,11 +63,11 @@ cursor: help;
 <path d="M272 31h10"></path>
 <g>
 <path d="M282 31h0"></path>
-<path d="M516 31h0"></path>
+<path d="M620 31h0"></path>
 <path d="M312 31h10"></path>
 <g>
 <path d="M322 31h0"></path>
-<path d="M486 31h0"></path>
+<path d="M486 31h104"></path>
 <g class="terminal">
 <path d="M322 31h0"></path>
 <path d="M398 31h0"></path>
@@ -84,11 +84,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M486 31h10"></path>
+<path d="M590 31h10"></path>
 <path d="M312 31v20a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M322 61h0"></path>
-<path d="M478 61h8"></path>
+<path d="M478 61h112"></path>
 <g class="terminal">
 <path d="M322 61h0"></path>
 <path d="M390 61h0"></path>
@@ -105,17 +105,38 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M486 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M590 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M312 31v50a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M322 91h0"></path>
+<path d="M590 91h0"></path>
+<g class="terminal">
+<path d="M322 91h0"></path>
+<path d="M502 91h0"></path>
+<rect x="322" y="80" width="180" height="22" rx="10" ry="10"></rect>
+<text x="412" y="95">"MAXIMUM WIDTH INTO"</text>
+</g>
+<path d="M502 91h10"></path>
+<path d="M512 91h10"></path>
+<g class="non-terminal">
+<path d="M522 91h0"></path>
+<path d="M590 91h0"></path>
+<rect x="522" y="80" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="556" y="95">Target</text>
+</a>
+</g>
+</g>
+<path d="M590 91a10 10 0 0 0 10 -10v-50"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 312 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
 <text x="297" y="35" class="diagram-text">1+</text>
-<path d="M 496 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
-<path d="M 503 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+<path d="M 600 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 607 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
 </g>
 </g>
 </g>
-<path d="M516 31h10"></path>
-<path d="M 526 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M620 31h10"></path>
+<path d="M 630 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

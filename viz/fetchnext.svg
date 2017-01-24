@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1232" height="131" viewBox="0 0 1232 131">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1262" height="131" viewBox="0 0 1262 131">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 31h10"></path>
 <g>
 <path d="M50 31h0"></path>
-<path d="M1182 31h0"></path>
+<path d="M1212 31h0"></path>
 <g class="terminal">
 <path d="M50 31h0"></path>
 <path d="M222 31h0"></path>
@@ -62,11 +62,11 @@ cursor: help;
 <path d="M310 31h10"></path>
 <g>
 <path d="M320 31h0"></path>
-<path d="M1182 31h0"></path>
+<path d="M1212 31h0"></path>
 <path d="M320 31h20"></path>
 <g>
 <path d="M340 31h0"></path>
-<path d="M496 31h666"></path>
+<path d="M496 31h696"></path>
 <g class="terminal">
 <path d="M340 31h0"></path>
 <path d="M408 31h0"></path>
@@ -83,11 +83,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M1162 31h20"></path>
+<path d="M1192 31h20"></path>
 <path d="M320 31a10 10 0 0 1 10 10v19a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M340 70h0"></path>
-<path d="M1162 70h0"></path>
+<path d="M1192 70h0"></path>
 <g>
 <path d="M340 70h0"></path>
 <path d="M488 70h0"></path>
@@ -142,27 +142,41 @@ cursor: help;
 </a>
 </g>
 <path d="M922 70h10"></path>
-<path d="M932 70h10"></path>
-<g class="terminal">
-<path d="M942 70h0"></path>
-<path d="M1074 70h0"></path>
-<rect x="942" y="59" width="132" height="22" rx="10" ry="10"></rect>
-<text x="1008" y="74">"PACKAGE SIZE"</text>
+<g>
+<path d="M932 70h0"></path>
+<path d="M1192 70h0"></path>
+<path d="M932 70a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
+<g>
+<path d="M952 50h220"></path>
 </g>
-<path d="M1074 70h10"></path>
+<path d="M1172 50a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M932 70h20"></path>
+<g>
+<path d="M952 70h0"></path>
+<path d="M1172 70h0"></path>
+<g class="terminal">
+<path d="M952 70h0"></path>
+<path d="M1084 70h0"></path>
+<rect x="952" y="59" width="132" height="22" rx="10" ry="10"></rect>
+<text x="1018" y="74">"PACKAGE SIZE"</text>
+</g>
 <path d="M1084 70h10"></path>
+<path d="M1094 70h10"></path>
 <g class="non-terminal">
-<path d="M1094 70h0"></path>
-<path d="M1162 70h0"></path>
-<rect x="1094" y="59" width="68" height="22"></rect>
-<a xlink:href="reuse_source.svg"><text x="1128" y="74">Source</text>
+<path d="M1104 70h0"></path>
+<path d="M1172 70h0"></path>
+<rect x="1104" y="59" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="1138" y="74">Source</text>
 </a>
 </g>
 </g>
-<path d="M1162 70a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+<path d="M1172 70h20"></path>
 </g>
 </g>
-<path d="M1182 31h10"></path>
-<path d="M 1192 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1192 70a10 10 0 0 0 10 -10v-19a10 10 0 0 1 10 -10"></path>
+</g>
+</g>
+<path d="M1212 31h10"></path>
+<path d="M 1222 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

@@ -376,7 +376,7 @@ cursor: help;
 <path d="M1194 40a10 10 0 0 1 10 10v100a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M1214 160h0"></path>
-<path d="M1394 160h24"></path>
+<path d="M1402 160h16"></path>
 <g class="terminal">
 <path d="M1214 160h0"></path>
 <path d="M1314 160h0"></path>
@@ -387,9 +387,9 @@ cursor: help;
 <path d="M1324 160h10"></path>
 <g class="non-terminal">
 <path d="M1334 160h0"></path>
-<path d="M1394 160h0"></path>
-<rect x="1334" y="149" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="1364" y="164">Field</text>
+<path d="M1402 160h0"></path>
+<rect x="1334" y="149" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="1368" y="164">Source</text>
 </a>
 </g>
 </g>
