@@ -390,7 +390,7 @@ cursor: help;
 <path d="M1394 340h0"></path>
 <path d="M1462 340h0"></path>
 <rect x="1394" y="329" width="68" height="22"></rect>
-<a xlink:href="reuse_target.svg"><text x="1428" y="344">Target</text>
+<a xlink:href="reuse_source.svg"><text x="1428" y="344">Source</text>
 </a>
 </g>
 </g>
