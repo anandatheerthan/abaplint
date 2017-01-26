@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="686" height="182" viewBox="0 0 686 182">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="710" height="212" viewBox="0 0 710 212">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 31h10"></path>
 <g>
 <path d="M50 31h0"></path>
-<path d="M636 31h0"></path>
+<path d="M660 31h0"></path>
 <g class="terminal">
 <path d="M50 31h0"></path>
 <path d="M278 31h0"></path>
@@ -63,11 +63,11 @@ cursor: help;
 <path d="M376 31h10"></path>
 <g>
 <path d="M386 31h0"></path>
-<path d="M636 31h0"></path>
+<path d="M660 31h0"></path>
 <path d="M416 31h10"></path>
 <g>
 <path d="M426 31h0"></path>
-<path d="M582 31h24"></path>
+<path d="M582 31h48"></path>
 <g class="terminal">
 <path d="M426 31h0"></path>
 <path d="M494 31h0"></path>
@@ -84,11 +84,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M606 31h10"></path>
+<path d="M630 31h10"></path>
 <path d="M416 31v20a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M426 61h0"></path>
-<path d="M606 61h0"></path>
+<path d="M606 61h24"></path>
 <g class="terminal">
 <path d="M426 61h0"></path>
 <path d="M518 61h0"></path>
@@ -105,11 +105,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M606 61a10 10 0 0 0 10 -10v-20"></path>
+<path d="M630 61a10 10 0 0 0 10 -10v-20"></path>
 <path d="M416 31v50a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M426 91h0"></path>
-<path d="M582 91h24"></path>
+<path d="M582 91h48"></path>
 <g class="terminal">
 <path d="M426 91h0"></path>
 <path d="M494 91h0"></path>
@@ -126,11 +126,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M606 91a10 10 0 0 0 10 -10v-50"></path>
+<path d="M630 91a10 10 0 0 0 10 -10v-50"></path>
 <path d="M416 31v80a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M426 121h0"></path>
-<path d="M582 121h24"></path>
+<path d="M582 121h48"></path>
 <g class="terminal">
 <path d="M426 121h0"></path>
 <path d="M494 121h0"></path>
@@ -147,11 +147,11 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M606 121a10 10 0 0 0 10 -10v-80"></path>
+<path d="M630 121a10 10 0 0 0 10 -10v-80"></path>
 <path d="M416 31v110a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M426 151h0"></path>
-<path d="M598 151h8"></path>
+<path d="M598 151h32"></path>
 <g class="terminal">
 <path d="M426 151h0"></path>
 <path d="M510 151h0"></path>
@@ -168,17 +168,38 @@ cursor: help;
 </a>
 </g>
 </g>
-<path d="M606 151a10 10 0 0 0 10 -10v-110"></path>
+<path d="M630 151a10 10 0 0 0 10 -10v-110"></path>
+<path d="M416 31v140a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M426 181h0"></path>
+<path d="M630 181h0"></path>
+<g class="terminal">
+<path d="M426 181h0"></path>
+<path d="M542 181h0"></path>
+<rect x="426" y="170" width="116" height="22" rx="10" ry="10"></rect>
+<text x="484" y="185">"MESSAGE-ID"</text>
+</g>
+<path d="M542 181h10"></path>
+<path d="M552 181h10"></path>
+<g class="non-terminal">
+<path d="M562 181h0"></path>
+<path d="M630 181h0"></path>
+<rect x="562" y="170" width="68" height="22"></rect>
+<a xlink:href="reuse_target.svg"><text x="596" y="185">Target</text>
+</a>
+</g>
+</g>
+<path d="M630 181a10 10 0 0 0 10 -10v-140"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 416 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
 <text x="401" y="35" class="diagram-text">1+</text>
-<path d="M 616 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
-<path d="M 623 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
+<path d="M 640 21 h 16 a 4 4 0 0 1 4 4 v 12 a 4 4 0 0 1 -4 4 h -16 z" class="diagram-text"></path>
+<path d="M 647 29 a 4 4 0 1 0 6 -1 m 2.75 -1 h -4 v 4 m 0 -3 h 2" style="stroke-width: 1.75"></path>
 </g>
 </g>
 </g>
-<path d="M636 31h10"></path>
-<path d="M 646 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M660 31h10"></path>
+<path d="M 670 31 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

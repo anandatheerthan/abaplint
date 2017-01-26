@@ -184,11 +184,19 @@ cursor: help;
 <path d="M222 117a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M242 147h0"></path>
-<path d="M406 147h0"></path>
-<rect x="242" y="136" width="164" height="22" rx="10" ry="10"></rect>
-<text x="324" y="151">"FIRST OCCURRENCE"</text>
+<path d="M390 147h16"></path>
+<rect x="242" y="136" width="148" height="22" rx="10" ry="10"></rect>
+<text x="316" y="151">"ALL OCCURENCES"</text>
 </g>
 <path d="M406 147a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M222 117a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M242 177h0"></path>
+<path d="M406 177h0"></path>
+<rect x="242" y="166" width="164" height="22" rx="10" ry="10"></rect>
+<text x="324" y="181">"FIRST OCCURRENCE"</text>
+</g>
+<path d="M406 177a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M426 117h20"></path>
 </g>

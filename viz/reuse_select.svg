@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="2662" height="612" viewBox="0 0 2662 612">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="2662" height="642" viewBox="0 0 2662 642">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -1000,6 +1000,27 @@ cursor: help;
 </g>
 </g>
 <path d="M2582 581a10 10 0 0 0 10 -10v-523"></path>
+<path d="M1094 48v553a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M1104 611h0"></path>
+<path d="M1316 611h1266"></path>
+<g class="terminal">
+<path d="M1104 611h0"></path>
+<path d="M1220 611h0"></path>
+<rect x="1104" y="600" width="116" height="22" rx="10" ry="10"></rect>
+<text x="1162" y="615">"CONNECTION"</text>
+</g>
+<path d="M1220 611h10"></path>
+<path d="M1230 611h10"></path>
+<g class="non-terminal">
+<path d="M1240 611h0"></path>
+<path d="M1316 611h0"></path>
+<rect x="1240" y="600" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="1278" y="615">Dynamic</text>
+</a>
+</g>
+</g>
+<path d="M2582 611a10 10 0 0 0 10 -10v-553"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 1094 38 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

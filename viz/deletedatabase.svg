@@ -129,9 +129,9 @@ cursor: help;
 <path d="M716 40h20"></path>
 <g class="non-terminal">
 <path d="M736 40h0"></path>
-<path d="M788 40h24"></path>
-<rect x="736" y="29" width="52" height="22"></rect>
-<a xlink:href="reuse_cond.svg"><text x="762" y="44">Cond</text>
+<path d="M812 40h0"></path>
+<rect x="736" y="29" width="76" height="22"></rect>
+<a xlink:href="reuse_sqlcond.svg"><text x="774" y="44">SQLCond</text>
 </a>
 </g>
 <path d="M812 40h20"></path>
