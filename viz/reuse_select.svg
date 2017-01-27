@@ -317,13 +317,62 @@ cursor: help;
 </g>
 </g>
 <path d="M1004 267a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
+<path d="M504 108a10 10 0 0 1 10 10v199a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M524 327h0"></path>
+<path d="M828 327h176"></path>
+<g class="terminal">
+<path d="M524 327h0"></path>
+<path d="M584 327h0"></path>
+<rect x="524" y="316" width="60" height="22" rx="10" ry="10"></rect>
+<text x="554" y="331">"SUM"</text>
+</g>
+<path d="M584 327h10"></path>
+<g>
+<path d="M594 327h0"></path>
+<path d="M694 327h0"></path>
+<path d="M594 327h20"></path>
+<g class="terminal">
+<path d="M614 327h0"></path>
+<path d="M666 327h8"></path>
+<rect x="614" y="316" width="52" height="22" rx="10" ry="10"></rect>
+<text x="640" y="331">!"("</text>
+</g>
+<path d="M674 327h20"></path>
+<path d="M594 327a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M614 357h0"></path>
+<path d="M674 357h0"></path>
+<rect x="614" y="346" width="60" height="22" rx="10" ry="10"></rect>
+<text x="644" y="361">!"( "</text>
+</g>
+<path d="M674 357a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+</g>
+<path d="M694 327h10"></path>
+<g class="non-terminal">
+<path d="M704 327h0"></path>
+<path d="M764 327h0"></path>
+<rect x="704" y="316" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="734" y="331">Field</text>
+</a>
+</g>
+<path d="M764 327h10"></path>
+<path d="M774 327h10"></path>
+<g class="terminal">
+<path d="M784 327h0"></path>
+<path d="M828 327h0"></path>
+<rect x="784" y="316" width="44" height="22" rx="10" ry="10"></rect>
+<text x="806" y="331">")"</text>
+</g>
+</g>
+<path d="M1004 327a10 10 0 0 0 10 -10v-199a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M1024 108h10"></path>
-<path d="M504 108a10 10 0 0 0 -10 10v188a10 10 0 0 0 10 10"></path>
+<path d="M504 108a10 10 0 0 0 -10 10v248a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M504 316h520"></path>
+<path d="M504 376h520"></path>
 </g>
-<path d="M1024 316a10 10 0 0 0 10 -10v-188a10 10 0 0 0 -10 -10"></path>
+<path d="M1024 376a10 10 0 0 0 10 -10v-248a10 10 0 0 0 -10 -10"></path>
 </g>
 <path d="M1034 108a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
