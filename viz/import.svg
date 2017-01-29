@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1428" height="221" viewBox="0 0 1428 221">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1428" height="251" viewBox="0 0 1428 251">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -343,6 +343,69 @@ cursor: help;
 </g>
 </g>
 <path d="M1358 190a10 10 0 0 0 10 -10v-139a10 10 0 0 1 10 -10"></path>
+<path d="M556 31a10 10 0 0 1 10 10v169a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M576 220h0"></path>
+<path d="M1156 220h202"></path>
+<g class="terminal">
+<path d="M576 220h0"></path>
+<path d="M716 220h0"></path>
+<rect x="576" y="209" width="140" height="22" rx="10" ry="10"></rect>
+<text x="646" y="224">"SHARED MEMORY"</text>
+</g>
+<path d="M716 220h10"></path>
+<path d="M726 220h10"></path>
+<g class="non-terminal">
+<path d="M736 220h0"></path>
+<path d="M796 220h0"></path>
+<rect x="736" y="209" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="766" y="224">Field</text>
+</a>
+</g>
+<path d="M796 220h10"></path>
+<path d="M806 220h10"></path>
+<g class="terminal">
+<path d="M816 220h0"></path>
+<path d="M860 220h0"></path>
+<rect x="816" y="209" width="44" height="22" rx="10" ry="10"></rect>
+<text x="838" y="224">"("</text>
+</g>
+<path d="M860 220h10"></path>
+<path d="M870 220h10"></path>
+<g class="non-terminal">
+<path d="M880 220h0"></path>
+<path d="M940 220h0"></path>
+<rect x="880" y="209" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="910" y="224">Field</text>
+</a>
+</g>
+<path d="M940 220h10"></path>
+<path d="M950 220h10"></path>
+<g class="terminal">
+<path d="M960 220h0"></path>
+<path d="M1004 220h0"></path>
+<rect x="960" y="209" width="44" height="22" rx="10" ry="10"></rect>
+<text x="982" y="224">")"</text>
+</g>
+<path d="M1004 220h10"></path>
+<path d="M1014 220h10"></path>
+<g class="terminal">
+<path d="M1024 220h0"></path>
+<path d="M1076 220h0"></path>
+<rect x="1024" y="209" width="52" height="22" rx="10" ry="10"></rect>
+<text x="1050" y="224">"ID"</text>
+</g>
+<path d="M1076 220h10"></path>
+<path d="M1086 220h10"></path>
+<g class="non-terminal">
+<path d="M1096 220h0"></path>
+<path d="M1156 220h0"></path>
+<rect x="1096" y="209" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="1126" y="224">Field</text>
+</a>
+</g>
+</g>
+<path d="M1358 220a10 10 0 0 0 10 -10v-169a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M1378 31h10"></path>
