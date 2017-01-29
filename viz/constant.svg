@@ -127,33 +127,41 @@ cursor: help;
 <path d="M198 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M218 70h0"></path>
-<path d="M428 70h170"></path>
+<path d="M476 70h122"></path>
 <g>
 <path d="M218 70h0"></path>
-<path d="M358 70h0"></path>
+<path d="M334 70h0"></path>
 <path d="M218 70h20"></path>
 <g class="terminal">
 <path d="M238 70h0"></path>
-<path d="M338 70h0"></path>
-<rect x="238" y="59" width="100" height="22" rx="10" ry="10"></rect>
-<text x="288" y="74">"BEGIN OF"</text>
+<path d="M314 70h0"></path>
+<rect x="238" y="59" width="76" height="22" rx="10" ry="10"></rect>
+<text x="276" y="74">"BEGIN"</text>
 </g>
-<path d="M338 70h20"></path>
+<path d="M314 70h20"></path>
 <path d="M218 70a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="terminal">
 <path d="M238 100h0"></path>
-<path d="M322 100h16"></path>
-<rect x="238" y="89" width="84" height="22" rx="10" ry="10"></rect>
-<text x="280" y="104">"END OF"</text>
+<path d="M298 100h16"></path>
+<rect x="238" y="89" width="60" height="22" rx="10" ry="10"></rect>
+<text x="268" y="104">"END"</text>
 </g>
-<path d="M338 100a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M314 100a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
-<path d="M358 70h10"></path>
+<path d="M334 70h10"></path>
 <g class="terminal">
-<path d="M368 70h0"></path>
-<path d="M428 70h0"></path>
-<rect x="368" y="59" width="60" height="22" rx="10" ry="10"></rect>
-<text x="398" y="74">^\w+$</text>
+<path d="M344 70h0"></path>
+<path d="M396 70h0"></path>
+<rect x="344" y="59" width="52" height="22" rx="10" ry="10"></rect>
+<text x="370" y="74">"OF"</text>
+</g>
+<path d="M396 70h10"></path>
+<path d="M406 70h10"></path>
+<g class="terminal">
+<path d="M416 70h0"></path>
+<path d="M476 70h0"></path>
+<rect x="416" y="59" width="60" height="22" rx="10" ry="10"></rect>
+<text x="446" y="74">^\w+$</text>
 </g>
 </g>
 <path d="M598 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
