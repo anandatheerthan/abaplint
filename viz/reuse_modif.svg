@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="176" height="62" viewBox="0 0 176 62">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="192" height="62" viewBox="0 0 192 62">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,11 +43,11 @@ cursor: help;
 <path d="M40 31h10"></path>
 <g class="terminal">
 <path d="M50 31h0"></path>
-<path d="M126 31h0"></path>
-<rect x="50" y="20" width="76" height="22" rx="10" ry="10"></rect>
-<text x="88" y="35">^\w{3}$</text>
+<path d="M142 31h0"></path>
+<rect x="50" y="20" width="92" height="22" rx="10" ry="10"></rect>
+<text x="96" y="35">^\w{1,3}$</text>
 </g>
-<path d="M126 31h10"></path>
-<path d="M 136 31 h 20 m 0 -10 v 20"></path>
+<path d="M142 31h10"></path>
+<path d="M 152 31 h 20 m 0 -10 v 20"></path>
 </g>
 </svg>
