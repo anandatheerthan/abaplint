@@ -88,42 +88,42 @@ cursor: help;
 <path d="M366 40h0"></path>
 <path d="M826 40h0"></path>
 <path d="M366 40h20"></path>
+<g>
+<path d="M386 40h0"></path>
+<path d="M806 40h0"></path>
 <g class="non-terminal">
 <path d="M386 40h0"></path>
-<path d="M478 40h328"></path>
-<rect x="386" y="29" width="92" height="22"></rect>
-<a xlink:href="reuse_formparam.svg"><text x="432" y="44">FormParam</text>
+<path d="M486 40h0"></path>
+<rect x="386" y="29" width="100" height="22"></rect>
+<a xlink:href="reuse_simplename.svg"><text x="436" y="44">SimpleName</text>
 </a>
+</g>
+<path d="M486 40h10"></path>
+<path d="M496 40h10"></path>
+<g class="terminal">
+<path d="M506 40h0"></path>
+<path d="M614 40h0"></path>
+<rect x="506" y="29" width="108" height="22" rx="10" ry="10"></rect>
+<text x="560" y="44">"STRUCTURE"</text>
+</g>
+<path d="M614 40h10"></path>
+<path d="M624 40h10"></path>
+<g class="non-terminal">
+<path d="M634 40h0"></path>
+<path d="M806 40h0"></path>
+<rect x="634" y="29" width="172" height="22"></rect>
+<a xlink:href="reuse_namespacesimplename.svg"><text x="720" y="44">NamespaceSimpleName</text>
+</a>
+</g>
 </g>
 <path d="M806 40h20"></path>
 <path d="M366 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
-<g>
-<path d="M386 70h0"></path>
-<path d="M806 70h0"></path>
 <g class="non-terminal">
 <path d="M386 70h0"></path>
-<path d="M486 70h0"></path>
-<rect x="386" y="59" width="100" height="22"></rect>
-<a xlink:href="reuse_simplename.svg"><text x="436" y="74">SimpleName</text>
+<path d="M478 70h328"></path>
+<rect x="386" y="59" width="92" height="22"></rect>
+<a xlink:href="reuse_formparam.svg"><text x="432" y="74">FormParam</text>
 </a>
-</g>
-<path d="M486 70h10"></path>
-<path d="M496 70h10"></path>
-<g class="terminal">
-<path d="M506 70h0"></path>
-<path d="M614 70h0"></path>
-<rect x="506" y="59" width="108" height="22" rx="10" ry="10"></rect>
-<text x="560" y="74">"STRUCTURE"</text>
-</g>
-<path d="M614 70h10"></path>
-<path d="M624 70h10"></path>
-<g class="non-terminal">
-<path d="M634 70h0"></path>
-<path d="M806 70h0"></path>
-<rect x="634" y="59" width="172" height="22"></rect>
-<a xlink:href="reuse_namespacesimplename.svg"><text x="720" y="74">NamespaceSimpleName</text>
-</a>
-</g>
 </g>
 <path d="M806 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
