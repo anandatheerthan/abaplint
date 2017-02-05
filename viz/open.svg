@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="760" height="341" viewBox="0 0 760 341">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="760" height="371" viewBox="0 0 760 371">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -234,6 +234,27 @@ cursor: help;
 <text x="444" y="314">"SKIPPING BYTE-ORDER MARK"</text>
 </g>
 <path d="M680 310a10 10 0 0 0 10 -10v-269"></path>
+<path d="M320 31v299a10 10 0 0 0 10 10"></path>
+<g>
+<path d="M330 340h0"></path>
+<path d="M526 340h154"></path>
+<g class="terminal">
+<path d="M330 340h0"></path>
+<path d="M438 340h0"></path>
+<rect x="330" y="329" width="108" height="22" rx="10" ry="10"></rect>
+<text x="384" y="344">"CODE PAGE"</text>
+</g>
+<path d="M438 340h10"></path>
+<path d="M448 340h10"></path>
+<g class="non-terminal">
+<path d="M458 340h0"></path>
+<path d="M526 340h0"></path>
+<rect x="458" y="329" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="492" y="344">Source</text>
+</a>
+</g>
+</g>
+<path d="M680 340a10 10 0 0 0 10 -10v-299"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 320 21 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>

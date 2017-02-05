@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1246" height="251" viewBox="0 0 1246 251">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1332" height="251" viewBox="0 0 1332 251">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -43,7 +43,7 @@ cursor: help;
 <path d="M40 40h10"></path>
 <g>
 <path d="M50 40h0"></path>
-<path d="M1196 40h0"></path>
+<path d="M1282 40h0"></path>
 <g class="terminal">
 <path d="M50 40h0"></path>
 <path d="M134 40h0"></path>
@@ -330,23 +330,48 @@ cursor: help;
 </g>
 <g>
 <path d="M1008 40h0"></path>
-<path d="M1196 40h0"></path>
+<path d="M1282 40h0"></path>
 <path d="M1008 40a10 10 0 0 0 10 -10v0a10 10 0 0 1 10 -10"></path>
 <g>
-<path d="M1028 20h148"></path>
+<path d="M1028 20h234"></path>
 </g>
-<path d="M1176 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
+<path d="M1262 20a10 10 0 0 1 10 10v0a10 10 0 0 0 10 10"></path>
 <path d="M1008 40h20"></path>
+<g>
+<path d="M1028 40h0"></path>
+<path d="M1262 40h0"></path>
 <g class="terminal">
 <path d="M1028 40h0"></path>
-<path d="M1176 40h0"></path>
-<rect x="1028" y="29" width="148" height="22" rx="10" ry="10"></rect>
-<text x="1102" y="44">"COMPRESSION ON"</text>
+<path d="M1152 40h0"></path>
+<rect x="1028" y="29" width="124" height="22" rx="10" ry="10"></rect>
+<text x="1090" y="44">"COMPRESSION"</text>
 </g>
-<path d="M1176 40h20"></path>
+<path d="M1152 40h10"></path>
+<g>
+<path d="M1162 40h0"></path>
+<path d="M1262 40h0"></path>
+<path d="M1162 40h20"></path>
+<g class="terminal">
+<path d="M1182 40h0"></path>
+<path d="M1234 40h8"></path>
+<rect x="1182" y="29" width="52" height="22" rx="10" ry="10"></rect>
+<text x="1208" y="44">"ON"</text>
+</g>
+<path d="M1242 40h20"></path>
+<path d="M1162 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M1182 70h0"></path>
+<path d="M1242 70h0"></path>
+<rect x="1182" y="59" width="60" height="22" rx="10" ry="10"></rect>
+<text x="1212" y="74">"OFF"</text>
+</g>
+<path d="M1242 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
-<path d="M1196 40h10"></path>
-<path d="M 1206 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
+<path d="M1262 40h20"></path>
+</g>
+</g>
+<path d="M1282 40h10"></path>
+<path d="M 1292 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>
 </svg>

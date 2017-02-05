@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1044" height="329" viewBox="0 0 1044 329">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1044" height="359" viewBox="0 0 1044 359">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -301,6 +301,14 @@ cursor: help;
 <text x="478" y="302">"OF CURRENT PAGE"</text>
 </g>
 <path d="M944 298a10 10 0 0 0 10 -10v-248"></path>
+<path d="M390 40v278a10 10 0 0 0 10 10"></path>
+<g class="terminal">
+<path d="M400 328h0"></path>
+<path d="M548 328h396"></path>
+<rect x="400" y="317" width="148" height="22" rx="10" ry="10"></rect>
+<text x="474" y="332">"INTENSIFIED ON"</text>
+</g>
+<path d="M944 328a10 10 0 0 0 10 -10v-278"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 390 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
