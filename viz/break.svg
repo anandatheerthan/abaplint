@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="602" height="131" viewBox="0 0 602 131">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="602" height="161" viewBox="0 0 602 161">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -95,32 +95,41 @@ cursor: help;
 <text x="368" y="74">"AT NEXT APPLICATION STATEMENT"</text>
 </g>
 <path d="M502 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
+<path d="M214 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M234 100h0"></path>
+<path d="M302 100h200"></path>
+<rect x="234" y="89" width="68" height="22"></rect>
+<a xlink:href="reuse_source.svg"><text x="268" y="104">Source</text>
+</a>
+</g>
+<path d="M502 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M522 40h20"></path>
 </g>
 </g>
 <path d="M542 40h20"></path>
-<path d="M40 40a10 10 0 0 1 10 10v40a10 10 0 0 0 10 10"></path>
+<path d="M40 40a10 10 0 0 1 10 10v70a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M60 100h0"></path>
-<path d="M216 100h326"></path>
+<path d="M60 130h0"></path>
+<path d="M216 130h326"></path>
 <g class="terminal">
-<path d="M60 100h0"></path>
-<path d="M136 100h0"></path>
-<rect x="60" y="89" width="76" height="22" rx="10" ry="10"></rect>
-<text x="98" y="104">"BREAK"</text>
+<path d="M60 130h0"></path>
+<path d="M136 130h0"></path>
+<rect x="60" y="119" width="76" height="22" rx="10" ry="10"></rect>
+<text x="98" y="134">"BREAK"</text>
 </g>
-<path d="M136 100h10"></path>
-<path d="M146 100h10"></path>
+<path d="M136 130h10"></path>
+<path d="M146 130h10"></path>
 <g class="non-terminal">
-<path d="M156 100h0"></path>
-<path d="M216 100h0"></path>
-<rect x="156" y="89" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="186" y="104">Field</text>
+<path d="M156 130h0"></path>
+<path d="M216 130h0"></path>
+<rect x="156" y="119" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="186" y="134">Field</text>
 </a>
 </g>
 </g>
-<path d="M542 100a10 10 0 0 0 10 -10v-40a10 10 0 0 1 10 -10"></path>
+<path d="M542 130a10 10 0 0 0 10 -10v-70a10 10 0 0 1 10 -10"></path>
 </g>
 <path d="M 562 40 h 20 m -10 -10 v 20 m 10 -20 v 20"></path>
 </g>

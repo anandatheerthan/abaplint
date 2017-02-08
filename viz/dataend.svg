@@ -112,9 +112,9 @@ cursor: help;
 <path d="M310 40a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
 <g class="non-terminal">
 <path d="M330 70h0"></path>
-<path d="M430 70h174"></path>
-<rect x="330" y="59" width="100" height="22"></rect>
-<a xlink:href="reuse_simplename.svg"><text x="380" y="74">SimpleName</text>
+<path d="M502 70h102"></path>
+<rect x="330" y="59" width="172" height="22"></rect>
+<a xlink:href="reuse_namespacesimplename.svg"><text x="416" y="74">NamespaceSimpleName</text>
 </a>
 </g>
 <path d="M604 70a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>

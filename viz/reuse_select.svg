@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1992" height="596" viewBox="0 0 1992 596">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="railroad-diagram" width="1992" height="626" viewBox="0 0 1992 626">
 <defs>
 <style type="text/css"><![CDATA[
 path {
@@ -917,7 +917,7 @@ cursor: help;
 <path d="M1094 40v485a10 10 0 0 0 10 10"></path>
 <g>
 <path d="M1104 535h0"></path>
-<path d="M1284 535h628"></path>
+<path d="M1330 535h582"></path>
 <g class="terminal">
 <path d="M1104 535h0"></path>
 <path d="M1204 535h0"></path>
@@ -925,37 +925,51 @@ cursor: help;
 <text x="1154" y="539">"GROUP BY"</text>
 </g>
 <path d="M1204 535h10"></path>
-<path d="M1214 535h10"></path>
+<g>
+<path d="M1214 535h0"></path>
+<path d="M1330 535h0"></path>
+<path d="M1214 535h20"></path>
 <g class="non-terminal">
-<path d="M1224 535h0"></path>
-<path d="M1284 535h0"></path>
-<rect x="1224" y="524" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="1254" y="539">Field</text>
+<path d="M1234 535h0"></path>
+<path d="M1294 535h16"></path>
+<rect x="1234" y="524" width="60" height="22"></rect>
+<a xlink:href="reuse_field.svg"><text x="1264" y="539">Field</text>
 </a>
+</g>
+<path d="M1310 535h20"></path>
+<path d="M1214 535a10 10 0 0 1 10 10v10a10 10 0 0 0 10 10"></path>
+<g class="non-terminal">
+<path d="M1234 565h0"></path>
+<path d="M1310 565h0"></path>
+<rect x="1234" y="554" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="1272" y="569">Dynamic</text>
+</a>
+</g>
+<path d="M1310 565a10 10 0 0 0 10 -10v-10a10 10 0 0 1 10 -10"></path>
 </g>
 </g>
 <path d="M1912 535a10 10 0 0 0 10 -10v-485"></path>
-<path d="M1094 40v515a10 10 0 0 0 10 10"></path>
+<path d="M1094 40v545a10 10 0 0 0 10 10"></path>
 <g>
-<path d="M1104 565h0"></path>
-<path d="M1316 565h596"></path>
+<path d="M1104 595h0"></path>
+<path d="M1316 595h596"></path>
 <g class="terminal">
-<path d="M1104 565h0"></path>
-<path d="M1220 565h0"></path>
-<rect x="1104" y="554" width="116" height="22" rx="10" ry="10"></rect>
-<text x="1162" y="569">"CONNECTION"</text>
+<path d="M1104 595h0"></path>
+<path d="M1220 595h0"></path>
+<rect x="1104" y="584" width="116" height="22" rx="10" ry="10"></rect>
+<text x="1162" y="599">"CONNECTION"</text>
 </g>
-<path d="M1220 565h10"></path>
-<path d="M1230 565h10"></path>
+<path d="M1220 595h10"></path>
+<path d="M1230 595h10"></path>
 <g class="non-terminal">
-<path d="M1240 565h0"></path>
-<path d="M1316 565h0"></path>
-<rect x="1240" y="554" width="76" height="22"></rect>
-<a xlink:href="reuse_dynamic.svg"><text x="1278" y="569">Dynamic</text>
+<path d="M1240 595h0"></path>
+<path d="M1316 595h0"></path>
+<rect x="1240" y="584" width="76" height="22"></rect>
+<a xlink:href="reuse_dynamic.svg"><text x="1278" y="599">Dynamic</text>
 </a>
 </g>
 </g>
-<path d="M1912 565a10 10 0 0 0 10 -10v-515"></path>
+<path d="M1912 595a10 10 0 0 0 10 -10v-545"></path>
 <g class="diagram-text">
 <title>take one or more branches, once each, in any order</title>
 <path d="M 1094 30 h -26 a 4 4 0 0 0 -4 4 v 12 a 4 4 0 0 0 4 4 h 26 z" class="diagram-text"></path>
