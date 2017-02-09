@@ -213,12 +213,11 @@ cursor: help;
 </g>
 <path d="M650 220h10"></path>
 <path d="M660 220h10"></path>
-<g class="non-terminal">
+<g class="terminal">
 <path d="M670 220h0"></path>
 <path d="M730 220h0"></path>
-<rect x="670" y="209" width="60" height="22"></rect>
-<a xlink:href="reuse_field.svg"><text x="700" y="224">Field</text>
-</a>
+<rect x="670" y="209" width="60" height="22" rx="10" ry="10"></rect>
+<text x="700" y="224">^\w+$</text>
 </g>
 </g>
 <path d="M842 220a10 10 0 0 0 10 -10v-170"></path>
